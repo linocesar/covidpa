@@ -1,263 +1,263 @@
-dataNotificacao	idade	sexo	cidade
-2020-03-18	32	M	Belém
-2020-03-19	87	F	Santarém
-2020-03-20	36	F	Belém
-2020-03-21	null	null	null
-2020-03-22	44	F	Belém
-2020-03-22	53	M	Belém
-2020-03-23	29	F	Marabá
-2020-03-24	null	null	null
-2020-03-25	35	F	Ananindeua
-2020-03-25	42	M	Ananindeua
-2020-03-25	23	F	Belém
-2020-03-25	36	M	Belém
-2020-03-26	24	F	Itaituba
-2020-03-26	47	F	Castanhal
-2020-03-26	35	F	Ananindeua
-2020-03-26	26	M	Ananindeua
-2020-03-27	41	M	Belém
-2020-03-27	43	F	Belém
-2020-03-27	44	M	Belém
-2020-03-28	28	M	Parauapebas
-2020-03-28	42	F	Belém
-2020-03-29	9	F	Belém
-2020-03-29	30	M	Belém
-2020-03-30	68	F	Belém
-2020-03-30	35	M	Belém
-2020-03-30	55	F	Belém
-2020-03-30	53	M	Belém
-2020-03-30	34	M	Belém
-2020-03-30	29	M	Ananindeua
-2020-03-31	24	M	Belém
-2020-03-31	53	F	Belém
-2020-03-31	39	F	Abaetetuba
-2020-03-31	28	F	Ananindeua
-2020-03-31	29	F	Belém
-2020-03-31	42	M	Belém
-2020-03-31	35	F	Tucuruí
-2020-03-31	37	M	Marituba
-2020-04-01	47	F	Belém
-2020-04-01	41	F	Barcarena
-2020-04-01	33	F	Belém
-2020-04-01	25	F	Ananindeua
-2020-04-01	31	M	Belém
-2020-04-01	19	F	Belém
-2020-04-02	48	F	Santarém
-2020-04-02	51	M	Santarém
-2020-04-02	54	M	Santarém
-2020-04-02	64	M	Ananindeua
-2020-04-02	65	M	Belém
-2020-04-02	64	M	Belém
-2020-04-02	64	M	Ananindeua
-2020-04-02	26	F	Belém
-2020-04-03	55	F	Belém
-2020-04-03	60	F	Belém
-2020-04-03	35	F	Belém
-2020-04-03	39	F	Belém
-2020-04-03	32	M	Belém
-2020-04-03	29	M	Belém
-2020-04-03	27	F	Belém
-2020-04-03	38	F	Belém
-2020-04-03	24	F	Itaituba
-2020-04-03	32	M	Itaituba
-2020-04-03	53	M	Benevides
-2020-04-03	41	F	Marabá
-2020-04-03	23	M	Oeiras do Pará
-2020-04-03	36	M	Novo Progresso
-2020-04-03	37	M	Altamira
-2020-04-03	22	F	São Geraldo do Araguaia
-2020-04-03	48	M	Goianésia do Pará
-2020-04-03	42	F	Belém
-2020-04-03	34	F	Belém
-2020-04-03	80	F	Belém
-2020-04-03	28	F	Belém
-2020-04-03	38	F	Belém
-2020-04-03	65	F	Belém
-2020-04-03	44	M	Santarém
-2020-04-03	60	M	Castanhal
-2020-04-03	51	M	Parauapebas
-2020-04-04	46	F	Ananindeua
-2020-04-04	26	F	Marituba
-2020-04-04	50	M	Belém
-2020-04-04	22	M	Belém
-2020-04-04	56	F	Belém
-2020-04-04	28	M	Barcarena
-2020-04-04	32	F	Barcarena
-2020-04-05	39	M	Belém
-2020-04-05	62	M	Belém
-2020-04-05	42	M	Belém
-2020-04-05	51	M	Belém
-2020-04-06	41	F	Belém
-2020-04-06	55	F	Belém
-2020-04-06	32	M	Belém
-2020-04-06	65	M	Belém
-2020-04-06	69	M	Belém
-2020-04-06	36	M	Belém
-2020-04-06	73	F	Belém
-2020-04-06	33	F	Ananindeua
-2020-04-06	50	F	Belém
-2020-04-06	?	F	Belém
-2020-04-06	?	F	Belém
-2020-04-06	?	M	Belém
-2020-04-06	?	M	Belém
-2020-04-06	?	M	Belém
-2020-04-06	?	M	Belém
-2020-04-06	?	M	Belém
-2020-04-06	27	F	Altamira
-2020-04-06	75	M	Cametá
-2020-04-06	69	F	Ananindeua
-2020-04-06	62	F	Ananindeua
-2020-04-06	24	M	Ananindeua
-2020-04-06	56	F	Belém
-2020-04-06	51	F	Belém
-2020-04-06	12	C	Belém
-2020-04-06	12	C	Belém
-2020-04-06	47	F	Belém
-2020-04-06	48	F	Belém
-2020-04-06	65	M	Belém
-2020-04-06	45	F	Santarém
-2020-04-06	43	M	Santarém
-2020-04-06	20	M	Santarém
-2020-04-06	59	F	Santarém
-2020-04-06	41	M	Santarém
-2020-04-06	41	M	Belém
-2020-04-06	100	F	Belém
-2020-04-06	55	M	Belém
-2020-04-06	58	M	Belém
-2020-04-07	54	F	Belém
-2020-04-07	84	M	Belém
-2020-04-07	68	M	Belém
-2020-04-07	44	M	Marituba
-2020-04-07	33	M	Ananindeua
-2020-04-07	67	M	Belém
-2020-04-07	51	F	Belém
-2020-04-07	28	F	Belém
-2020-04-07	31	M	Belém
-2020-04-07	42	M	Belém
-2020-04-07	45	F	Santo Antônio do Tauá
-2020-04-07	64	M	Belém
-2020-04-07	69	M	Belém
-2020-04-07	58	F	Belém
-2020-04-07	44	M	Belém
-2020-04-07	47	M	Belém
-2020-04-07	47	M	Belém
-2020-04-07	?	F	Belém
-2020-04-07	?	F	Belém
-2020-04-07	?	M	Belém
-2020-04-07	?	M	Belém
-2020-04-07	?	M	Belém
-2020-04-07	47	M	Belém
-2020-04-07	52	F	Belém
-2020-04-07	53	F	Belém
-2020-04-07	69	M	Belém
-2020-04-07	37	F	Belém
-2020-04-07	62	F	Parauapebas
-2020-04-07	48	M	Abaetetuba
-2020-04-07	46	M	Ananindeua
-2020-04-07	49	M	Belém
-2020-04-08	54	F	Belém
-2020-04-08	84	M	Belém
-2020-04-08	68	M	Belém
-2020-04-08	67	M	Belém
-2020-04-08	27	M	Belém
-2020-04-08	47	M	Belém
-2020-04-08	52	F	Belém
-2020-04-08	53	F	Belém
-2020-04-08	69	M	Belém
-2020-04-08	37	F	Belém
-2020-04-08	49	M	Belém
-2020-04-09	79	F	Belém
-2020-04-09	31	F	Belém
-2020-04-09	52	M	Belém
-2020-04-09	41	M	Barcarena
-2020-04-10	23	F	Belém
-2020-04-10	44	F	Belém
-2020-04-10	35	M	Belém
-2020-04-10	67	M	Belém
-2020-04-10	58	F	Belém
-2020-04-10	23	F	Belém
-2020-04-10	36	F	Belém
-2020-04-10	27	M	Belém
-2020-04-10	62	M	Belém
-2020-04-10	72	F	Belém
-2020-04-10	52	M	Belém
-2020-04-10	51	F	Belém
-2020-04-10	51	M	Ananindeua
-2020-04-10	28	F	Ananindeua
-2020-04-10	34	F	Ananindeua
-2020-04-10	52	M	Ananindeua
-2020-04-10	27	F	Ananindeua
-2020-04-10	46	M	Barcarena
-2020-04-10	22	M	Castanhal
-2020-04-10	48	M	Parauapebas
-2020-04-10	36	M	Parauapebas
-2020-04-10	31	M	Parauapebas
-2020-04-10	45	F	Parauapebas
-2020-04-10	34	M	Parauapebas
-2020-04-10	57	M	Santarém
-2020-04-10	18	M	Santarém
-2020-04-10	37	F	Santarém
-2020-04-10	45	F	Belém
-2020-04-10	46	M	Belém
-2020-04-10	60	M	Belém
-2020-04-10	38	M	Belém
-2020-04-10	44	F	Belém
-2020-04-10	68	M	Belém
-2020-04-10	37	F	Belém
-2020-04-10	52	M	Belém
-2020-04-10	88	M	Belém
-2020-04-10	46	F	Belém
-2020-04-10	28	M	Belém
-2020-04-10	53	F	Belém
-2020-04-10	25	F	Belém
-2020-04-10	58	F	Belém
-2020-04-10	31	F	Belém
-2020-04-10	79	F	Belém
-2020-04-10	56	F	Belém
-2020-04-10	40	M	Belém
-2020-04-10	66	M	Belém
-2020-04-10	63	M	Belém
-2020-04-10	62	F	Belém
-2020-04-11	54	M	Belém
-2020-04-11	28	F	Belém
-2020-04-11	30	F	Belém
-2020-04-11	61	M	Belém
-2020-04-11	48	F	Belém
-2020-04-11	41	M	Belém
-2020-04-11	16	M	Belém
-2020-04-11	58	M	Belém
-2020-04-11	46	M	Quatipuru
-2020-04-11	17	F	Santo Antônio do Tauá
-2020-04-11	24	F	Belém
-2020-04-11	39	M	Belém
-2020-04-11	87	F	Belém
-2020-04-11	42	F	Belém
-2020-04-11	35	M	Belém
-2020-04-11	32	F	Belém
-2020-04-11	41	M	Belém
-2020-04-11	68	M	Belém
-2020-04-11	63	F	Castanhal
-2020-04-11	85	M	Belém
-2020-04-12	64	F	Belém
-2020-04-12	25	M	Belém
-2020-04-12	35	F	Belém
-2020-04-12	49	M	Belém
-2020-04-12	32	F	Belém
-2020-04-12	43	M	Belém
-2020-04-12	35	F	Belém
-2020-04-12	76	M	Belém
-2020-04-12	70	F	Belém
-2020-04-12	68	M	Belém
-2020-04-12	62	F	Belém
-2020-04-12	62	M	Belém
-2020-04-12	60	F	Belém
-2020-04-12	83	M	Belém
-2020-04-12	30	F	Belém
-2020-04-12	68	M	Belém
-2020-04-12	50	F	Belém
-2020-04-12	28	F	Belém
-2020-04-12	45	M	Belém
-2020-04-12	46	F	Parauapebas
-2020-04-12	43	M	Parauapebas
-2020-04-12	54	F	Belém
+dataNotificacao,idade,sexo,cidade
+2020-03-18,32,M,Belém
+2020-03-19,87,F,Santarém
+2020-03-20,36,F,Belém
+2020-03-21,null,null,null
+2020-03-22,44,F,Belém
+2020-03-22,53,M,Belém
+2020-03-23,29,F,Marabá
+2020-03-24,null,null,null
+2020-03-25,35,F,Ananindeua
+2020-03-25,42,M,Ananindeua
+2020-03-25,23,F,Belém
+2020-03-25,36,M,Belém
+2020-03-26,24,F,Itaituba
+2020-03-26,47,F,Castanhal
+2020-03-26,35,F,Ananindeua
+2020-03-26,26,M,Ananindeua
+2020-03-27,41,M,Belém
+2020-03-27,43,F,Belém
+2020-03-27,44,M,Belém
+2020-03-28,28,M,Parauapebas
+2020-03-28,42,F,Belém
+2020-03-29,9,F,Belém
+2020-03-29,30,M,Belém
+2020-03-30,68,F,Belém
+2020-03-30,35,M,Belém
+2020-03-30,55,F,Belém
+2020-03-30,53,M,Belém
+2020-03-30,34,M,Belém
+2020-03-30,29,M,Ananindeua
+2020-03-31,24,M,Belém
+2020-03-31,53,F,Belém
+2020-03-31,39,F,Abaetetuba
+2020-03-31,28,F,Ananindeua
+2020-03-31,29,F,Belém
+2020-03-31,42,M,Belém
+2020-03-31,35,F,Tucuruí
+2020-03-31,37,M,Marituba
+2020-04-01,47,F,Belém
+2020-04-01,41,F,Barcarena
+2020-04-01,33,F,Belém
+2020-04-01,25,F,Ananindeua
+2020-04-01,31,M,Belém
+2020-04-01,19,F,Belém
+2020-04-02,48,F,Santarém
+2020-04-02,51,M,Santarém
+2020-04-02,54,M,Santarém
+2020-04-02,64,M,Ananindeua
+2020-04-02,65,M,Belém
+2020-04-02,64,M,Belém
+2020-04-02,64,M,Ananindeua
+2020-04-02,26,F,Belém
+2020-04-03,55,F,Belém
+2020-04-03,60,F,Belém
+2020-04-03,35,F,Belém
+2020-04-03,39,F,Belém
+2020-04-03,32,M,Belém
+2020-04-03,29,M,Belém
+2020-04-03,27,F,Belém
+2020-04-03,38,F,Belém
+2020-04-03,24,F,Itaituba
+2020-04-03,32,M,Itaituba
+2020-04-03,53,M,Benevides
+2020-04-03,41,F,Marabá
+2020-04-03,23,M,Oeiras do Pará
+2020-04-03,36,M,Novo Progresso
+2020-04-03,37,M,Altamira
+2020-04-03,22,F,São Geraldo do Araguaia
+2020-04-03,48,M,Goianésia do Pará
+2020-04-03,42,F,Belém
+2020-04-03,34,F,Belém
+2020-04-03,80,F,Belém
+2020-04-03,28,F,Belém
+2020-04-03,38,F,Belém
+2020-04-03,65,F,Belém
+2020-04-03,44,M,Santarém
+2020-04-03,60,M,Castanhal
+2020-04-03,51,M,Parauapebas
+2020-04-04,46,F,Ananindeua
+2020-04-04,26,F,Marituba
+2020-04-04,50,M,Belém
+2020-04-04,22,M,Belém
+2020-04-04,56,F,Belém
+2020-04-04,28,M,Barcarena
+2020-04-04,32,F,Barcarena
+2020-04-05,39,M,Belém
+2020-04-05,62,M,Belém
+2020-04-05,42,M,Belém
+2020-04-05,51,M,Belém
+2020-04-06,41,F,Belém
+2020-04-06,55,F,Belém
+2020-04-06,32,M,Belém
+2020-04-06,65,M,Belém
+2020-04-06,69,M,Belém
+2020-04-06,36,M,Belém
+2020-04-06,73,F,Belém
+2020-04-06,33,F,Ananindeua
+2020-04-06,50,F,Belém
+2020-04-06,?,F,Belém
+2020-04-06,?,F,Belém
+2020-04-06,?,M,Belém
+2020-04-06,?,M,Belém
+2020-04-06,?,M,Belém
+2020-04-06,?,M,Belém
+2020-04-06,?,M,Belém
+2020-04-06,27,F,Altamira
+2020-04-06,75,M,Cametá
+2020-04-06,69,F,Ananindeua
+2020-04-06,62,F,Ananindeua
+2020-04-06,24,M,Ananindeua
+2020-04-06,56,F,Belém
+2020-04-06,51,F,Belém
+2020-04-06,12,C,Belém
+2020-04-06,12,C,Belém
+2020-04-06,47,F,Belém
+2020-04-06,48,F,Belém
+2020-04-06,65,M,Belém
+2020-04-06,45,F,Santarém
+2020-04-06,43,M,Santarém
+2020-04-06,20,M,Santarém
+2020-04-06,59,F,Santarém
+2020-04-06,41,M,Santarém
+2020-04-06,41,M,Belém
+2020-04-06,100,F,Belém
+2020-04-06,55,M,Belém
+2020-04-06,58,M,Belém
+2020-04-07,54,F,Belém
+2020-04-07,84,M,Belém
+2020-04-07,68,M,Belém
+2020-04-07,44,M,Marituba
+2020-04-07,33,M,Ananindeua
+2020-04-07,67,M,Belém
+2020-04-07,51,F,Belém
+2020-04-07,28,F,Belém
+2020-04-07,31,M,Belém
+2020-04-07,42,M,Belém
+2020-04-07,45,F,Santo Antônio do Tauá
+2020-04-07,64,M,Belém
+2020-04-07,69,M,Belém
+2020-04-07,58,F,Belém
+2020-04-07,44,M,Belém
+2020-04-07,47,M,Belém
+2020-04-07,47,M,Belém
+2020-04-07,?,F,Belém
+2020-04-07,?,F,Belém
+2020-04-07,?,M,Belém
+2020-04-07,?,M,Belém
+2020-04-07,?,M,Belém
+2020-04-07,47,M,Belém
+2020-04-07,52,F,Belém
+2020-04-07,53,F,Belém
+2020-04-07,69,M,Belém
+2020-04-07,37,F,Belém
+2020-04-07,62,F,Parauapebas
+2020-04-07,48,M,Abaetetuba
+2020-04-07,46,M,Ananindeua
+2020-04-07,49,M,Belém
+2020-04-08,54,F,Belém
+2020-04-08,84,M,Belém
+2020-04-08,68,M,Belém
+2020-04-08,67,M,Belém
+2020-04-08,27,M,Belém
+2020-04-08,47,M,Belém
+2020-04-08,52,F,Belém
+2020-04-08,53,F,Belém
+2020-04-08,69,M,Belém
+2020-04-08,37,F,Belém
+2020-04-08,49,M,Belém
+2020-04-09,79,F,Belém
+2020-04-09,31,F,Belém
+2020-04-09,52,M,Belém
+2020-04-09,41,M,Barcarena
+2020-04-10,23,F,Belém
+2020-04-10,44,F,Belém
+2020-04-10,35,M,Belém
+2020-04-10,67,M,Belém
+2020-04-10,58,F,Belém
+2020-04-10,23,F,Belém
+2020-04-10,36,F,Belém
+2020-04-10,27,M,Belém
+2020-04-10,62,M,Belém
+2020-04-10,72,F,Belém
+2020-04-10,52,M,Belém
+2020-04-10,51,F,Belém
+2020-04-10,51,M,Ananindeua
+2020-04-10,28,F,Ananindeua
+2020-04-10,34,F,Ananindeua
+2020-04-10,52,M,Ananindeua
+2020-04-10,27,F,Ananindeua
+2020-04-10,46,M,Barcarena
+2020-04-10,22,M,Castanhal
+2020-04-10,48,M,Parauapebas
+2020-04-10,36,M,Parauapebas
+2020-04-10,31,M,Parauapebas
+2020-04-10,45,F,Parauapebas
+2020-04-10,34,M,Parauapebas
+2020-04-10,57,M,Santarém
+2020-04-10,18,M,Santarém
+2020-04-10,37,F,Santarém
+2020-04-10,45,F,Belém
+2020-04-10,46,M,Belém
+2020-04-10,60,M,Belém
+2020-04-10,38,M,Belém
+2020-04-10,44,F,Belém
+2020-04-10,68,M,Belém
+2020-04-10,37,F,Belém
+2020-04-10,52,M,Belém
+2020-04-10,88,M,Belém
+2020-04-10,46,F,Belém
+2020-04-10,28,M,Belém
+2020-04-10,53,F,Belém
+2020-04-10,25,F,Belém
+2020-04-10,58,F,Belém
+2020-04-10,31,F,Belém
+2020-04-10,79,F,Belém
+2020-04-10,56,F,Belém
+2020-04-10,40,M,Belém
+2020-04-10,66,M,Belém
+2020-04-10,63,M,Belém
+2020-04-10,62,F,Belém
+2020-04-11,54,M,Belém
+2020-04-11,28,F,Belém
+2020-04-11,30,F,Belém
+2020-04-11,61,M,Belém
+2020-04-11,48,F,Belém
+2020-04-11,41,M,Belém
+2020-04-11,16,M,Belém
+2020-04-11,58,M,Belém
+2020-04-11,46,M,Quatipuru
+2020-04-11,17,F,Santo Antônio do Tauá
+2020-04-11,24,F,Belém
+2020-04-11,39,M,Belém
+2020-04-11,87,F,Belém
+2020-04-11,42,F,Belém
+2020-04-11,35,M,Belém
+2020-04-11,32,F,Belém
+2020-04-11,41,M,Belém
+2020-04-11,68,M,Belém
+2020-04-11,63,F,Castanhal
+2020-04-11,85,M,Belém
+2020-04-12,64,F,Belém
+2020-04-12,25,M,Belém
+2020-04-12,35,F,Belém
+2020-04-12,49,M,Belém
+2020-04-12,32,F,Belém
+2020-04-12,43,M,Belém
+2020-04-12,35,F,Belém
+2020-04-12,76,M,Belém
+2020-04-12,70,F,Belém
+2020-04-12,68,M,Belém
+2020-04-12,62,F,Belém
+2020-04-12,62,M,Belém
+2020-04-12,60,F,Belém
+2020-04-12,83,M,Belém
+2020-04-12,30,F,Belém
+2020-04-12,68,M,Belém
+2020-04-12,50,F,Belém
+2020-04-12,28,F,Belém
+2020-04-12,45,M,Belém
+2020-04-12,46,F,Parauapebas
+2020-04-12,43,M,Parauapebas
+2020-04-12,54,F,Belém
 
