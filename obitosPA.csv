@@ -1,17 +1,32 @@
+dataNotificacao	idade	sexo	cidade
+2020-03-19	87	F	Santarém
+2020-04-06	50	F	Belém
+2020-04-06	75	M	Cametá
+2020-04-06	41	M	Belém
+2020-04-06	100	F	Belém
+2020-04-08	69	M	Belém
+2020-04-09	79	F	Belém
+2020-04-10	84	M	Belém
+2020-04-10	40	F	Belém
+2020-04-10	42	M	Parauapebas
+2020-04-11	26	F	São Miguel do Guamá
+2020-04-11	79	F	Belém
+2020-04-12	83	M	Belém
+2020-04-12	42	F	Belém
+2020-04-12	67	M	Belém
 dataNotificacao,idade,sexo,cidade
-2020-04-10,40,F,Belém
-2020-04-06,41,M,Belém
+2020-03-19,87,F,Santarém
 2020-04-06,50,F,Belém
-2020-04-08,69,M,Belém
 2020-04-06,75,M,Cametá
+2020-04-06,41,M,Belém
+2020-04-06,100,F,Belém
+2020-04-08,69,M,Belém
 2020-04-09,79,F,Belém
 2020-04-10,84,M,Belém
-2020-03-19,87,F,Santarém
-2020-04-06,100,F,Belém
+2020-04-10,40,F,Belém
 2020-04-10,42,M,Parauapebas
-2020-04-11,26,F,Santa Maria do Pará
+2020-04-11,26,F,São Miguel do Guamá
 2020-04-11,79,F,Belém
 2020-04-12,83,M,Belém
 2020-04-12,42,F,Belém
 2020-04-12,67,M,Belém
-
