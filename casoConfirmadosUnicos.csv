@@ -94,13 +94,13 @@ dataNotificacao,idade,sexo,cidade
 2020-04-06,73,F,Belém
 2020-04-06,33,F,Ananindeua
 2020-04-06,50,F,Belém
-2020-04-06,?,F,Belém
-2020-04-06,?,F,Belém
-2020-04-06,?,M,Belém
-2020-04-06,?,M,Belém
-2020-04-06,?,M,Belém
-2020-04-06,?,M,Belém
-2020-04-06,?,M,Belém
+2020-04-06,NA,F,Belém
+2020-04-06,NA,F,Belém
+2020-04-06,NA,M,Belém
+2020-04-06,NA,M,Belém
+2020-04-06,NA,M,Belém
+2020-04-06,NA,M,Belém
+2020-04-06,NA,M,Belém
 2020-04-06,27,F,Altamira
 2020-04-06,75,M,Cametá
 2020-04-06,69,F,Ananindeua
@@ -139,11 +139,11 @@ dataNotificacao,idade,sexo,cidade
 2020-04-07,44,M,Belém
 2020-04-07,47,M,Belém
 2020-04-07,47,M,Belém
-2020-04-07,?,F,Belém
-2020-04-07,?,F,Belém
-2020-04-07,?,M,Belém
-2020-04-07,?,M,Belém
-2020-04-07,?,M,Belém
+2020-04-07,NA,F,Belém
+2020-04-07,NA,F,Belém
+2020-04-07,NA,M,Belém
+2020-04-07,NA,M,Belém
+2020-04-07,NA,M,Belém
 2020-04-07,47,M,Belém
 2020-04-07,52,F,Belém
 2020-04-07,53,F,Belém
@@ -259,8 +259,8 @@ dataNotificacao,idade,sexo,cidade
 2020-04-12,46,F,Parauapebas
 2020-04-12,43,M,Parauapebas
 2020-04-12,54,F,Belém
-2020-04-12,NA,NA,Bujaru
-2020-04-12,NA,NA,Acará
+2020-04-12,62,M,Bujaru
+2020-04-12,NA,M,Acará
 2020-04-13,45,F,Belém
 2020-04-13,38,M,Parauapebas
 2020-04-13,39,M,Belém
@@ -1025,3 +1025,173 @@ dataNotificacao,idade,sexo,cidade
 2020-04-21,18,F,Tailândia
 2020-04-21,21,F,Tracuateua
 2020-04-21,67,M,Vigia de Nazaré
+2020-04-22,23,M,Ananindeua
+2020-04-22,27,F,Ananindeua
+2020-04-22,29,F,Ananindeua
+2020-04-22,33,F,Ananindeua
+2020-04-22,39,M,Ananindeua
+2020-04-22,39,M,Ananindeua
+2020-04-22,41,F,Ananindeua
+2020-04-22,54,M,Ananindeua
+2020-04-22,74,F,Barcarena
+2020-04-22,21,M,Belém
+2020-04-22,24,F,Belém
+0202-04-22,27,F,Belém
+2020-04-22,27,M,Belém
+2020-04-22,27,F,Belém
+2020-04-22,27,F,Belém
+2020-04-22,28,M,Belém
+2020-04-22,28,F,Belém
+2020-04-22,29,M,Belém
+2020-04-22,29,F,Belém
+2020-04-22,29,F,Belém
+2020-04-22,29,M,Belém
+2020-04-22,30,M,Belém
+2020-04-22,30,F,Belém
+2020-04-22,31,F,Belém
+2020-04-22,31,M,Belém
+2020-04-22,32,F,Belém
+2020-04-22,33,M,Belém
+2020-04-22,34,M,Belém
+2020-04-22,34,F,Belém
+2020-04-22,35,M,Belém
+2020-04-22,35,F,Belém
+2020-04-22,35,F,Belém
+2020-04-22,35,F,Belém
+2020-04-22,36,M,Belém
+2020-04-22,36,F,Belém
+2020-04-22,36,M,Belém
+2020-04-22,36,F,Belém
+2020-04-22,37,M,Belém
+2020-04-22,37,F,Belém
+2020-04-22,38,F,Belém
+2020-04-22,38,M,Belém
+2020-04-22,38,F,Belém
+2020-04-22,38,F,Belém
+2020-04-22,39,F,Belém
+2020-04-22,39,F,Belém
+2020-04-22,39,F,Belém
+2020-04-22,39,M,Belém
+2020-04-22,39,M,Belém
+2020-04-22,39,M,Belém
+2020-04-22,40,F,Belém
+2020-04-22,40,M,Belém
+2020-04-22,40,M,Belém
+2020-04-22,40,M,Belém
+2020-04-22,41,F,Belém
+2020-04-22,41,F,Belém
+2020-04-22,41,F,Belém
+2020-04-22,42,F,Belém
+2020-04-22,43,M,Belém
+2020-04-22,43,M,Belém
+2020-04-22,44,F,Belém
+2020-04-22,44,F,Belém
+2020-04-22,44,M,Belém
+2020-04-22,45,F,Belém
+2020-04-22,45,F,Belém
+2020-04-22,46,F,Belém
+2020-04-22,46,M,Belém
+2020-04-22,46,M,Belém
+2020-04-22,46,F,Belém
+2020-04-22,47,M,Belém
+2020-04-22,48,F,Belém
+2020-04-22,48,F,Belém
+2020-04-22,48,F,Belém
+2020-04-22,49,F,Belém
+2020-04-22,49,F,Belém
+2020-04-22,49,F,Belém
+2020-04-22,51,M,Belém
+2020-04-22,52,M,Belém
+2020-04-22,52,M,Belém
+2020-04-22,52,M,Belém
+2020-04-22,52,F,Belém
+2020-04-22,52,F,Belém
+2020-04-22,53,M,Belém
+2020-04-22,53,M,Belém
+2020-04-22,54,F,Belém
+2020-04-22,54,F,Belém
+2020-04-22,55,F,Belém
+2020-04-22,55,M,Belém
+2020-04-22,56,F,Belém
+2020-04-22,57,M,Belém
+2020-04-22,57,F,Belém
+2020-04-22,58,M,Belém
+2020-04-22,59,M,Belém
+2020-04-22,62,F,Belém
+2020-04-22,64,F,Belém
+2020-04-22,65,M,Belém
+2020-04-22,65,M,Belém
+2020-04-22,67,M,Belém
+2020-04-22,70,F,Belém
+2020-04-22,70,M,Belém
+2020-04-22,70,F,Belém
+2020-04-22,71,M,Belém
+2020-04-22,73,M,Belém
+2020-04-22,75,M,Belém
+2020-04-22,75,F,Belém
+2020-04-22,77,M,Belém
+2020-04-22,79,M,Belém
+2020-04-22,84,M,Belém
+2020-04-22,85,F,Belém
+2020-04-22,88,F,Belém
+2020-04-22,90,F,Belém
+2020-04-22,55,M,Bragança
+2020-04-22,34,F,Cachoeira do Arari
+2020-04-22,17,M,Castanhal
+2020-04-22,30,M,Castanhal
+2020-04-22,34,M,Castanhal
+2020-04-22,39,F,Castanhal
+2020-04-22,39,M,Castanhal
+2020-04-22,43,F,Castanhal
+2020-04-22,52,F,Castanhal
+2020-04-22,66,M,Castanhal
+2020-04-22,79,F,Curuçá
+2020-04-22,0,M,Garrafão do Norte
+2020-04-22,63,F,Juruti
+2020-04-22,28,F,Marabá
+2020-04-22,47,M,Marabá
+2020-04-22,49,F,Marabá
+2020-04-22,66,F,Marabá
+2020-04-22,81,F,Marabá
+2020-04-22,48,M,Marapanim
+2020-04-22,51,F,Marapanim
+2020-04-22,53,F,Marapanim
+2020-04-22,66,M,Marituba
+2020-04-22,44,M,Oeiras do Pará
+2020-04-22,19,F,Parauapebas
+2020-04-22,28,F,Parauapebas
+2020-04-22,30,F,Parauapebas
+2020-04-22,40,M,Parauapebas
+2020-04-22,41,F,Parauapebas
+2020-04-22,85,F,Parauapebas
+2020-04-22,43,M,Redenção
+2020-04-22,35,F,Santa Bárbara do Pará
+2020-04-22,46,F,Santa Bárbara do Pará
+2020-04-22,25,F,Santa Izabel do Pará
+2020-04-22,28,M,Santa Izabel do Pará
+2020-04-22,32,F,Santa Izabel do Pará
+2020-04-22,41,F,Santa Izabel do Pará
+2020-04-22,48,M,Santa Izabel do Pará
+2020-04-22,51,F,Santa Izabel do Pará
+2020-04-22,37,F,Santarém
+2020-04-22,44,F,Santarém
+2020-04-22,48,F,Santarém
+2020-04-22,49,F,Santarém
+2020-04-22,50,F,Santarém
+2020-04-22,75,F,Santarém
+2020-04-22,15,F,Santo Antônio do Tauá
+2020-04-22,28,M,Santo Antônio do Tauá
+2020-04-22,48,M,Santo Antônio do Tauá
+2020-04-22,70,M,Santo Antônio do Tauá
+2020-04-22,38,M,São Caetano de Odivelas
+2020-04-22,28,F,São Miguel do Guamá
+2020-04-22,40,F,São Miguel do Guamá
+2020-04-22,9,F,São Miguel do Guamá
+2020-04-22,35,M,São Sebastião da Boa Vista
+2020-04-22,37,F,São Sebastião da Boa Vista
+2020-04-22,18,M,Tucuruí
+2020-04-22,39,M,Vigia de Nazaré
+2020-04-22,62,F,Vigia de Nazaré
+2020-04-22,68,M,Vigia de Nazaré
+2020-04-22,70,M,Óbidos
+2020-04-22,66,F,Curionópolis
