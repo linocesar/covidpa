@@ -2481,8 +2481,8 @@ dataNotificacao,idade,sexo,cidade
 2020-04-29,43,F,Canaã dos Carajás
 2020-04-29,83,F,Capanema
 2020-04-29,61,M,Castanhal
-2020-04-29,50,F,Curuça
-2020-04-29,92,F,Curuça
+2020-04-29,50,F,Curuçá
+2020-04-29,92,F,Curuçá
 2020-04-29,40,F,Igarapé-Açu
 2020-04-29,47,M,Igarapé-Açu
 2020-04-29,73,M,Inhangapi
@@ -2796,7 +2796,7 @@ dataNotificacao,idade,sexo,cidade
 2020-04-30,56,M,Castanhal
 2020-04-30,59,M,Castanhal
 2020-04-30,70,M,Castanhal
-2020-04-30,31,M,Curuça
+2020-04-30,31,M,Curuçá
 2020-04-30,50,M,Igarapé-Miri
 2020-04-30,57,F,Igarapé-Miri
 2020-04-30,17,M,Irituia
@@ -4030,8 +4030,8 @@ dataNotificacao,idade,sexo,cidade
 2020-05-03,46,F,Maracanã
 2020-05-03,53,M,Maracanã
 2020-05-03,93,M,Maracanã
-2020-05-03,10,M,Pau D’Arco
-2020-05-03,55,F,Pau D’Arco
+2020-05-03,10,M,Pau D'Arco
+2020-05-03,55,F,Pau D'Arco
 2020-05-03,28,F,Ponta de Pedras
 2020-05-03,30,M,Ponta de Pedras
 2020-05-03,39,M,Ponta de Pedras
@@ -11480,3 +11480,1150 @@ dataNotificacao,idade,sexo,cidade
 2020-05-14,31,M,Viseu
 2020-05-14,39,M,Viseu
 2020-05-14,79,M,Viseu
+2020-05-15,50,M,Abaetetuba
+2020-05-15,32,F,Acará
+2020-05-15,42,F,Acará
+2020-05-15,48,M,Acará
+2020-05-15,67,F,Acará
+2020-05-15,73,F,Alenquer
+2020-05-15,21,F,Altamira
+2020-05-15,21,F,Altamira
+2020-05-15,33,M,Altamira
+2020-05-15,37,F,Altamira
+2020-05-15,45,F,Altamira
+2020-05-15,24,M,Anajás
+2020-05-15,33,F,Anajás
+2020-05-15,45,F,Anajás
+2020-05-15,47,F,Anajás
+2020-05-15,61,M,Anajás
+2020-05-15,69,M,Anajás
+2020-05-15,0,M,Ananindeua
+2020-05-15,28,F,Ananindeua
+2020-05-15,30,M,Ananindeua
+2020-05-15,32,M,Ananindeua
+2020-05-15,33,M,Ananindeua
+2020-05-15,33,M,Ananindeua
+2020-05-15,34,M,Ananindeua
+2020-05-15,35,F,Ananindeua
+2020-05-15,37,M,Ananindeua
+2020-05-15,37,M,Ananindeua
+2020-05-15,38,M,Ananindeua
+2020-05-15,38,M,Ananindeua
+2020-05-15,40,F,Ananindeua
+2020-05-15,41,F,Ananindeua
+2020-05-15,43,F,Ananindeua
+2020-05-15,43,F,Ananindeua
+2020-05-15,44,F,Ananindeua
+2020-05-15,44,F,Ananindeua
+2020-05-15,44,M,Ananindeua
+2020-05-15,44,F,Ananindeua
+2020-05-15,45,M,Ananindeua
+2020-05-15,45,M,Ananindeua
+2020-05-15,45,M,Ananindeua
+2020-05-15,45,M,Ananindeua
+2020-05-15,46,M,Ananindeua
+2020-05-15,46,F,Ananindeua
+2020-05-15,47,F,Ananindeua
+2020-05-15,47,F,Ananindeua
+2020-05-15,47,M,Ananindeua
+2020-05-15,49,F,Ananindeua
+2020-05-15,50,M,Ananindeua
+2020-05-15,50,M,Ananindeua
+2020-05-15,52,F,Ananindeua
+2020-05-15,52,F,Ananindeua
+2020-05-15,52,M,Ananindeua
+2020-05-15,52,M,Ananindeua
+2020-05-15,53,M,Ananindeua
+2020-05-15,54,M,Ananindeua
+2020-05-15,60,F,Ananindeua
+2020-05-15,62,F,Ananindeua
+2020-05-15,62,M,Ananindeua
+2020-05-15,64,F,Ananindeua
+2020-05-15,66,F,Ananindeua
+2020-05-15,69,M,Ananindeua
+2020-05-15,71,F,Ananindeua
+2020-05-15,72,F,Ananindeua
+2020-05-15,76,M,Ananindeua
+2020-05-15,NA,F,Ananindeua
+2020-05-15,22,M,Anapu
+2020-05-15,27,M,Anapu
+2020-05-15,32,F,Anapu
+2020-05-15,33,M,Anapu
+2020-05-15,59,M,Barcarena
+2020-05-15,32,F,Belterra
+2020-05-15,49,F,Belterra
+2020-05-15,0,M,Belém
+2020-05-15,20,F,Belém
+2020-05-15,23,M,Belém
+2020-05-15,23,M,Belém
+2020-05-15,23,F,Belém
+2020-05-15,23,F,Belém
+2020-05-15,24,F,Belém
+2020-05-15,24,M,Belém
+2020-05-15,25,F,Belém
+2020-05-15,25,M,Belém
+2020-05-15,25,M,Belém
+2020-05-15,25,F,Belém
+2020-05-15,26,F,Belém
+2020-05-15,26,M,Belém
+2020-05-15,26,F,Belém
+2020-05-15,27,M,Belém
+2020-05-15,27,M,Belém
+2020-05-15,28,F,Belém
+2020-05-15,28,F,Belém
+2020-05-15,29,M,Belém
+2020-05-15,29,F,Belém
+2020-05-15,29,F,Belém
+2020-05-15,30,M,Belém
+2020-05-15,30,M,Belém
+2020-05-15,30,M,Belém
+2020-05-15,30,F,Belém
+2020-05-15,30,M,Belém
+2020-05-15,30,M,Belém
+2020-05-15,31,F,Belém
+2020-05-15,31,F,Belém
+2020-05-15,31,F,Belém
+2020-05-15,31,F,Belém
+2020-05-15,31,M,Belém
+2020-05-15,33,M,Belém
+2020-05-15,33,F,Belém
+2020-05-15,33,F,Belém
+2020-05-15,34,M,Belém
+2020-05-15,34,M,Belém
+2020-05-15,34,F,Belém
+2020-05-15,34,M,Belém
+2020-05-15,34,F,Belém
+2020-05-15,34,F,Belém
+2020-05-15,35,F,Belém
+2020-05-15,35,F,Belém
+2020-05-15,35,F,Belém
+2020-05-15,35,F,Belém
+2020-05-15,35,F,Belém
+2020-05-15,36,M,Belém
+2020-05-15,36,M,Belém
+2020-05-15,36,F,Belém
+2020-05-15,36,M,Belém
+2020-05-15,36,M,Belém
+2020-05-15,36,F,Belém
+2020-05-15,36,F,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,M,Belém
+2020-05-15,37,M,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,M,Belém
+2020-05-15,37,M,Belém
+2020-05-15,37,F,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,F,Belém
+2020-05-15,38,F,Belém
+2020-05-15,38,M,Belém
+2020-05-15,39,F,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,F,Belém
+2020-05-15,39,F,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,F,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,F,Belém
+2020-05-15,39,M,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,M,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,F,Belém
+2020-05-15,41,F,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,F,Belém
+2020-05-15,41,M,Belém
+2020-05-15,42,M,Belém
+2020-05-15,42,M,Belém
+2020-05-15,42,M,Belém
+2020-05-15,43,F,Belém
+2020-05-15,43,F,Belém
+2020-05-15,43,F,Belém
+2020-05-15,43,M,Belém
+2020-05-15,43,F,Belém
+2020-05-15,44,F,Belém
+2020-05-15,44,M,Belém
+2020-05-15,44,F,Belém
+2020-05-15,45,F,Belém
+2020-05-15,45,M,Belém
+2020-05-15,45,M,Belém
+2020-05-15,45,M,Belém
+2020-05-15,46,F,Belém
+2020-05-15,46,M,Belém
+2020-05-15,47,M,Belém
+2020-05-15,47,M,Belém
+2020-05-15,47,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,M,Belém
+2020-05-15,48,M,Belém
+2020-05-15,48,M,Belém
+2020-05-15,48,F,Belém
+2020-05-15,49,F,Belém
+2020-05-15,49,F,Belém
+2020-05-15,49,M,Belém
+2020-05-15,49,F,Belém
+2020-05-15,49,M,Belém
+2020-05-15,50,M,Belém
+2020-05-15,50,M,Belém
+2020-05-15,50,F,Belém
+2020-05-15,50,M,Belém
+2020-05-15,51,F,Belém
+2020-05-15,51,F,Belém
+2020-05-15,51,M,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,F,Belém
+2020-05-15,53,M,Belém
+2020-05-15,53,F,Belém
+2020-05-15,53,M,Belém
+2020-05-15,54,F,Belém
+2020-05-15,54,F,Belém
+2020-05-15,55,F,Belém
+2020-05-15,55,F,Belém
+2020-05-15,55,M,Belém
+2020-05-15,55,F,Belém
+2020-05-15,56,M,Belém
+2020-05-15,56,M,Belém
+2020-05-15,56,F,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,F,Belém
+2020-05-15,57,F,Belém
+2020-05-15,57,M,Belém
+2020-05-15,58,F,Belém
+2020-05-15,58,F,Belém
+2020-05-15,58,F,Belém
+2020-05-15,59,F,Belém
+2020-05-15,59,M,Belém
+2020-05-15,60,F,Belém
+2020-05-15,60,M,Belém
+2020-05-15,60,M,Belém
+2020-05-15,61,F,Belém
+2020-05-15,61,F,Belém
+2020-05-15,61,F,Belém
+2020-05-15,61,M,Belém
+2020-05-15,61,F,Belém
+2020-05-15,61,F,Belém
+2020-05-15,62,F,Belém
+2020-05-15,62,F,Belém
+2020-05-15,62,M,Belém
+2020-05-15,63,M,Belém
+2020-05-15,63,M,Belém
+2020-05-15,63,F,Belém
+2020-05-15,64,M,Belém
+2020-05-15,64,M,Belém
+2020-05-15,65,M,Belém
+2020-05-15,65,M,Belém
+2020-05-15,65,M,Belém
+2020-05-15,66,F,Belém
+2020-05-15,66,F,Belém
+2020-05-15,66,M,Belém
+2020-05-15,66,M,Belém
+2020-05-15,67,F,Belém
+2020-05-15,67,F,Belém
+2020-05-15,68,F,Belém
+2020-05-15,68,F,Belém
+2020-05-15,68,M,Belém
+2020-05-15,69,F,Belém
+2020-05-15,69,M,Belém
+2020-05-15,69,M,Belém
+2020-05-15,69,M,Belém
+2020-05-15,70,M,Belém
+2020-05-15,70,M,Belém
+2020-05-15,70,M,Belém
+2020-05-15,71,M,Belém
+2020-05-15,71,F,Belém
+2020-05-15,72,M,Belém
+2020-05-15,72,M,Belém
+2020-05-15,72,M,Belém
+2020-05-15,73,M,Belém
+2020-05-15,74,M,Belém
+2020-05-15,74,F,Belém
+2020-05-15,74,M,Belém
+2020-05-15,74,M,Belém
+2020-05-15,74,F,Belém
+2020-05-15,75,M,Belém
+2020-05-15,75,F,Belém
+2020-05-15,75,F,Belém
+2020-05-15,76,F,Belém
+2020-05-15,76,M,Belém
+2020-05-15,76,F,Belém
+2020-05-15,76,M,Belém
+2020-05-15,76,F,Belém
+2020-05-15,76,F,Belém
+2020-05-15,77,M,Belém
+2020-05-15,77,M,Belém
+2020-05-15,78,M,Belém
+2020-05-15,78,M,Belém
+2020-05-15,78,F,Belém
+2020-05-15,78,M,Belém
+2020-05-15,8,F,Belém
+2020-05-15,80,F,Belém
+2020-05-15,80,M,Belém
+2020-05-15,82,M,Belém
+2020-05-15,82,M,Belém
+2020-05-15,82,M,Belém
+2020-05-15,83,F,Belém
+2020-05-15,85,F,Belém
+2020-05-15,86,M,Belém
+2020-05-15,87,M,Belém
+2020-05-15,87,F,Belém
+2020-05-15,90,F,Belém
+2020-05-15,37,M,Bragança
+2020-05-15,44,F,Bragança
+2020-05-15,62,M,Bragança
+2020-05-15,26,F,Breves
+2020-05-15,32,F,Breves
+2020-05-15,34,F,Breves
+2020-05-15,35,M,Breves
+2020-05-15,56,M,Breves
+2020-05-15,63,M,Breves
+2020-05-15,70,F,Breves
+2020-05-15,72,F,Breves
+2020-05-15,75,F,Breves
+2020-05-15,77,M,Breves
+2020-05-15,96,M,Breves
+2020-05-15,14,F,Cametá
+2020-05-15,15,F,Cametá
+2020-05-15,22,M,Cametá
+2020-05-15,28,F,Cametá
+2020-05-15,32,F,Cametá
+2020-05-15,33,F,Cametá
+2020-05-15,34,F,Cametá
+2020-05-15,37,M,Cametá
+2020-05-15,37,F,Cametá
+2020-05-15,40,M,Cametá
+2020-05-15,43,F,Cametá
+2020-05-15,45,M,Cametá
+2020-05-15,46,F,Cametá
+2020-05-15,53,M,Cametá
+2020-05-15,57,F,Cametá
+2020-05-15,59,F,Cametá
+2020-05-15,66,F,Cametá
+2020-05-15,67,M,Cametá
+2020-05-15,82,F,Cametá
+2020-05-15,85,M,Cametá
+2020-05-15,0,M,Canaã dos Carajás
+2020-05-15,32,M,Canaã dos Carajás
+2020-05-15,35,M,Canaã dos Carajás
+2020-05-15,38,M,Canaã dos Carajás
+2020-05-15,38,M,Canaã dos Carajás
+2020-05-15,40,M,Canaã dos Carajás
+2020-05-15,49,F,Canaã dos Carajás
+2020-05-15,50,F,Canaã dos Carajás
+2020-05-15,58,M,Canaã dos Carajás
+2020-05-15,62,M,Canaã dos Carajás
+2020-05-15,81,M,Canaã dos Carajás
+2020-05-15,100,F,Castanhal
+2020-05-15,24,F,Castanhal
+2020-05-15,24,F,Castanhal
+2020-05-15,39,M,Castanhal
+2020-05-15,43,M,Castanhal
+2020-05-15,50,F,Castanhal
+2020-05-15,55,F,Castanhal
+2020-05-15,56,M,Castanhal
+2020-05-15,59,F,Castanhal
+2020-05-15,61,F,Castanhal
+2020-05-15,62,M,Castanhal
+2020-05-15,66,F,Castanhal
+2020-05-15,67,F,Castanhal
+2020-05-15,67,M,Castanhal
+2020-05-15,68,F,Castanhal
+2020-05-15,68,F,Castanhal
+2020-05-15,70,M,Castanhal
+2020-05-15,80,F,Castanhal
+2020-05-15,91,M,Castanhal
+2020-05-15,61,F,Colares
+2020-05-15,65,M,Colares
+2020-05-15,79,M,Colares
+2020-05-15,45,F,Conceição do Araguaia
+2020-05-15,71,M,Curionópolis
+2020-05-15,48,F,Curuçá
+2020-05-15,59,F,Curuçá
+2020-05-15,61,M,Curuçá
+2020-05-15,25,F,Dom Eliseu
+2020-05-15,25,F,Garrafão do Norte
+2020-05-15,28,F,Garrafão do Norte
+2020-05-15,37,M,Goianésia do Pará
+2020-05-15,65,M,Goianésia do Pará
+2020-05-15,75,F,Goianésia do Pará
+2020-05-15,26,F,Igarapé-Açu
+2020-05-15,35,F,Igarapé-Açu
+2020-05-15,38,M,Igarapé-Açu
+2020-05-15,38,F,Igarapé-Açu
+2020-05-15,43,M,Igarapé-Açu
+2020-05-15,45,M,Igarapé-Açu
+2020-05-15,102,F,Igarapé-Miri
+2020-05-15,24,F,Igarapé-Miri
+2020-05-15,25,F,Igarapé-Miri
+2020-05-15,29,M,Igarapé-Miri
+2020-05-15,35,F,Igarapé-Miri
+2020-05-15,35,F,Igarapé-Miri
+2020-05-15,35,M,Igarapé-Miri
+2020-05-15,36,F,Igarapé-Miri
+2020-05-15,37,F,Igarapé-Miri
+2020-05-15,42,M,Igarapé-Miri
+2020-05-15,48,F,Igarapé-Miri
+2020-05-15,56,F,Igarapé-Miri
+2020-05-15,76,F,Igarapé-Miri
+2020-05-15,NA,F,Igarapé-Miri
+2020-05-15,71,F,Ipixuna do Pará
+2020-05-15,31,F,Irituia
+2020-05-15,22,M,Itaituba
+2020-05-15,32,F,Itaituba
+2020-05-15,34,M,Itaituba
+2020-05-15,41,M,Itaituba
+2020-05-15,25,F,Juruti
+2020-05-15,33,M,Limoeiro do Ajuru
+2020-05-15,35,F,Limoeiro do Ajuru
+2020-05-15,43,M,Limoeiro do Ajuru
+2020-05-15,45,F,Limoeiro do Ajuru
+2020-05-15,46,M,Limoeiro do Ajuru
+2020-05-15,50,F,Limoeiro do Ajuru
+2020-05-15,50,F,Limoeiro do Ajuru
+2020-05-15,59,M,Limoeiro do Ajuru
+2020-05-15,59,M,Limoeiro do Ajuru
+2020-05-15,63,F,Limoeiro do Ajuru
+2020-05-15,66,F,Limoeiro do Ajuru
+2020-05-15,78,M,Limoeiro do Ajuru
+2020-05-15,80,M,Limoeiro do Ajuru
+2020-05-15,27,F,Magalhães Barata
+2020-05-15,30,M,Magalhães Barata
+2020-05-15,32,F,Magalhães Barata
+2020-05-15,32,F,Magalhães Barata
+2020-05-15,36,M,Magalhães Barata
+2020-05-15,37,F,Magalhães Barata
+2020-05-15,42,M,Magalhães Barata
+2020-05-15,42,F,Magalhães Barata
+2020-05-15,42,M,Magalhães Barata
+2020-05-15,43,M,Magalhães Barata
+2020-05-15,44,M,Magalhães Barata
+2020-05-15,45,F,Magalhães Barata
+2020-05-15,51,F,Magalhães Barata
+2020-05-15,72,M,Magalhães Barata
+2020-05-15,72,M,Magalhães Barata
+2020-05-15,23,F,Marabá
+2020-05-15,33,F,Marabá
+2020-05-15,37,M,Marabá
+2020-05-15,39,F,Marabá
+2020-05-15,45,M,Marabá
+2020-05-15,54,F,Marabá
+2020-05-15,64,F,Marabá
+2020-05-15,68,F,Marabá
+2020-05-15,72,M,Marabá
+2020-05-15,63,M,Marapanim
+2020-05-15,75,M,Marapanim
+2020-05-15,30,M,Marituba
+2020-05-15,30,M,Marituba
+2020-05-15,30,F,Marituba
+2020-05-15,35,F,Marituba
+2020-05-15,37,M,Marituba
+2020-05-15,39,M,Marituba
+2020-05-15,45,F,Marituba
+2020-05-15,49,M,Marituba
+2020-05-15,59,M,Marituba
+2020-05-15,34,M,Melgaço
+2020-05-15,57,M,Melgaço
+2020-05-15,70,M,Melgaço
+2020-05-15,95,M,Melgaço
+2020-05-15,28,F,Mojuí dos Campos
+2020-05-15,72,F,Mojuí dos Campos
+2020-05-15,64,F,Monte Alegre
+2020-05-15,68,F,Monte Alegre
+2020-05-15,76,M,Monte Alegre
+2020-05-15,96,M,Nova Ipixuna
+2020-05-15,24,F,Novo Repartimento
+2020-05-15,21,M,Oeiras do Pará
+2020-05-15,24,M,Oeiras do Pará
+2020-05-15,27,F,Oeiras do Pará
+2020-05-15,31,F,Oeiras do Pará
+2020-05-15,32,M,Oeiras do Pará
+2020-05-15,34,M,Oeiras do Pará
+2020-05-15,35,F,Oeiras do Pará
+2020-05-15,36,F,Oeiras do Pará
+2020-05-15,37,F,Oeiras do Pará
+2020-05-15,39,F,Oeiras do Pará
+2020-05-15,39,F,Oeiras do Pará
+2020-05-15,41,F,Oeiras do Pará
+2020-05-15,44,F,Oeiras do Pará
+2020-05-15,47,M,Oeiras do Pará
+2020-05-15,61,M,Oeiras do Pará
+2020-05-15,68,F,Oeiras do Pará
+2020-05-15,77,M,Oeiras do Pará
+2020-05-15,14,M,Ourém
+2020-05-15,33,F,Ourém
+2020-05-15,44,F,Ourém
+2020-05-15,44,M,Ourém
+2020-05-15,55,F,Ourém
+2020-05-15,78,F,Pacajá
+2020-05-15,27,M,Paragominas
+2020-05-15,33,M,Paragominas
+2020-05-15,36,M,Paragominas
+2020-05-15,37,F,Paragominas
+2020-05-15,38,F,Paragominas
+2020-05-15,39,M,Paragominas
+2020-05-15,39,M,Paragominas
+2020-05-15,40,F,Paragominas
+2020-05-15,47,M,Paragominas
+2020-05-15,52,M,Paragominas
+2020-05-15,54,M,Paragominas
+2020-05-15,56,F,Paragominas
+2020-05-15,60,F,Paragominas
+2020-05-15,64,F,Paragominas
+2020-05-15,23,F,Parauapebas
+2020-05-15,23,F,Parauapebas
+2020-05-15,24,M,Parauapebas
+2020-05-15,26,M,Parauapebas
+2020-05-15,28,M,Parauapebas
+2020-05-15,32,M,Parauapebas
+2020-05-15,33,M,Parauapebas
+2020-05-15,35,F,Parauapebas
+2020-05-15,38,M,Parauapebas
+2020-05-15,39,M,Parauapebas
+2020-05-15,39,M,Parauapebas
+2020-05-15,42,M,Parauapebas
+2020-05-15,48,M,Parauapebas
+2020-05-15,49,F,Parauapebas
+2020-05-15,55,M,Parauapebas
+2020-05-15,57,M,Parauapebas
+2020-05-15,59,F,Parauapebas
+2020-05-15,59,M,Parauapebas
+2020-05-15,69,M,Parauapebas
+2020-05-15,76,M,Parauapebas
+2020-05-15,86,F,Parauapebas
+2020-05-15,88,F,Parauapebas
+2020-05-15,22,F,Portel
+2020-05-15,29,M,Portel
+2020-05-15,34,F,Portel
+2020-05-15,36,F,Portel
+2020-05-15,73,M,Portel
+2020-05-15,50,M,Quatipuru
+2020-05-15,66,M,Quatipuru
+2020-05-15,66,F,Quatipuru
+2020-05-15,26,F,Rio Maria
+2020-05-15,27,M,Rio Maria
+2020-05-15,79,M,Salinópolis
+2020-05-15,28,M,Salvaterra
+2020-05-15,44,F,Salvaterra
+2020-05-15,50,F,Salvaterra
+2020-05-15,35,F,Santa Bárbara do Pará
+2020-05-15,42,F,Santa Bárbara do Pará
+2020-05-15,34,M,Santa Izabel do Pará
+2020-05-15,49,F,Santa Izabel do Pará
+2020-05-15,54,M,Santa Izabel do Pará
+2020-05-15,61,M,Santa Izabel do Pará
+2020-05-15,72,M,Santa Izabel do Pará
+2020-05-15,72,M,Santa Izabel do Pará
+2020-05-15,39,F,Santa Maria do Pará
+2020-05-15,16,F,Santana do Araguaia
+2020-05-15,26,M,Santana do Araguaia
+2020-05-15,39,F,Santana do Araguaia
+2020-05-15,24,M,Santarém
+2020-05-15,28,F,Santarém
+2020-05-15,30,F,Santarém
+2020-05-15,32,M,Santarém
+2020-05-15,36,F,Santarém
+2020-05-15,37,F,Santarém
+2020-05-15,40,F,Santarém
+2020-05-15,44,M,Santarém
+2020-05-15,80,F,Santarém
+2020-05-15,41,F,São Caetano de Odivelas
+2020-05-15,88,F,São Caetano de Odivelas
+2020-05-15,67,M,São Domingos do Araguaia
+2020-05-15,77,M,São Domingos do Capim
+2020-05-15,81,M,São Domingos do Capim
+2020-05-15,35,M,São Miguel do Guamá
+2020-05-15,38,F,São Miguel do Guamá
+2020-05-15,41,M,São Miguel do Guamá
+2020-05-15,43,M,São Miguel do Guamá
+2020-05-15,48,M,São Miguel do Guamá
+2020-05-15,49,M,São Miguel do Guamá
+2020-05-15,59,M,São Miguel do Guamá
+2020-05-15,67,M,São Miguel do Guamá
+2020-05-15,70,F,São Miguel do Guamá
+2020-05-15,70,F,São Miguel do Guamá
+2020-05-15,74,M,São Miguel do Guamá
+2020-05-15,79,M,São Miguel do Guamá
+2020-05-15,23,M,Tailândia
+2020-05-15,30,M,Tailândia
+2020-05-15,38,F,Tailândia
+2020-05-15,39,F,Tailândia
+2020-05-15,67,F,Tailândia
+2020-05-15,73,F,Tailândia
+2020-05-15,87,M,Tailândia
+2020-05-15,33,M,Tomé-Açu
+2020-05-15,46,M,Tomé-Açu
+2020-05-15,60,F,Tomé-Açu
+2020-05-15,69,M,Tomé-Açu
+2020-05-15,73,F,Tomé-Açu
+2020-05-15,32,M,Trairão
+2020-05-15,35,F,Trairão
+2020-05-15,40,M,Trairão
+2020-05-15,42,M,Trairão
+2020-05-15,44,F,Tucumã
+2020-05-15,49,M,Tucumã
+2020-05-15,55,F,Tucumã
+2020-05-15,64,M,Tucumã
+2020-05-15,10,F,Uruará
+2020-05-15,23,F,Uruará
+2020-05-15,29,M,Uruará
+2020-05-15,33,M,Uruará
+2020-05-15,36,F,Uruará
+2020-05-15,38,M,Uruará
+2020-05-15,4,M,Uruará
+2020-05-15,40,F,Uruará
+2020-05-15,46,F,Vigia
+2020-05-15,49,M,Vigia
+2020-05-15,26,F,Vitória do Xingu
+2020-05-15,27,F,Vitória do Xingu
+2020-05-15,34,F,Vitória do Xingu
+2020-05-15,45,F,Vitória do Xingu
+2020-05-15,52,F,Vitória do Xingu
+2020-05-15,22,F,Xinguara
+2020-05-15,30,M,Xinguara
+2020-05-15,31,F,Xinguara
+2020-05-15,31,F,Xinguara
+2020-05-15,32,F,Xinguara
+2020-05-15,33,F,Xinguara
+2020-05-15,36,F,Xinguara
+2020-05-15,38,F,Xinguara
+2020-05-15,39,F,Xinguara
+2020-05-15,48,F,Xinguara
+2020-05-15,49,M,Xinguara
+2020-05-15,53,M,Xinguara
+2020-05-15,53,F,Xinguara
+2020-05-15,38,F,Abaetetuba
+2020-05-15,40,F,Abaetetuba
+2020-05-15,50,M,Abaetetuba
+2020-05-15,70,F,Abaetetuba
+2020-05-15,46,M,Alenquer
+2020-05-15,22,F,Ananindeua
+2020-05-15,25,M,Ananindeua
+2020-05-15,26,M,Ananindeua
+2020-05-15,27,F,Ananindeua
+2020-05-15,29,F,Ananindeua
+2020-05-15,32,M,Ananindeua
+2020-05-15,32,M,Ananindeua
+2020-05-15,34,F,Ananindeua
+2020-05-15,35,M,Ananindeua
+2020-05-15,35,F,Ananindeua
+2020-05-15,35,M,Ananindeua
+2020-05-15,36,M,Ananindeua
+2020-05-15,36,M,Ananindeua
+2020-05-15,37,M,Ananindeua
+2020-05-15,38,M,Ananindeua
+2020-05-15,39,F,Ananindeua
+2020-05-15,41,M,Ananindeua
+2020-05-15,43,M,Ananindeua
+2020-05-15,45,M,Ananindeua
+2020-05-15,46,F,Ananindeua
+2020-05-15,47,M,Ananindeua
+2020-05-15,47,M,Ananindeua
+2020-05-15,48,M,Ananindeua
+2020-05-15,50,M,Ananindeua
+2020-05-15,51,F,Ananindeua
+2020-05-15,52,M,Ananindeua
+2020-05-15,61,F,Ananindeua
+2020-05-15,63,M,Ananindeua
+2020-05-15,63,M,Ananindeua
+2020-05-15,69,F,Ananindeua
+2020-05-15,71,M,Ananindeua
+2020-05-15,75,M,Ananindeua
+2020-05-15,76,M,Ananindeua
+2020-05-15,76,M,Ananindeua
+2020-05-15,78,M,Ananindeua
+2020-05-15,88,M,Ananindeua
+2020-05-15,34,F,Anapu
+2020-05-15,37,F,Anapu
+2020-05-15,52,M,Anapu
+2020-05-15,42,M,Aurora do Pará
+2020-05-15,50,F,Aurora do Pará
+2020-05-15,51,M,Belterra
+2020-05-15,0,F,Belém
+2020-05-15,102,F,Belém
+2020-05-15,16,M,Belém
+2020-05-15,18,M,Belém
+2020-05-15,19,F,Belém
+2020-05-15,19,M,Belém
+2020-05-15,20,M,Belém
+2020-05-15,21,M,Belém
+2020-05-15,21,M,Belém
+2020-05-15,21,M,Belém
+2020-05-15,23,F,Belém
+2020-05-15,24,M,Belém
+2020-05-15,25,F,Belém
+2020-05-15,25,F,Belém
+2020-05-15,25,M,Belém
+2020-05-15,25,F,Belém
+2020-05-15,25,M,Belém
+2020-05-15,25,M,Belém
+2020-05-15,26,M,Belém
+2020-05-15,26,M,Belém
+2020-05-15,26,M,Belém
+2020-05-15,26,M,Belém
+2020-05-15,27,F,Belém
+2020-05-15,27,M,Belém
+2020-05-15,28,F,Belém
+2020-05-15,28,F,Belém
+2020-05-15,29,F,Belém
+2020-05-15,29,M,Belém
+2020-05-15,3,F,Belém
+2020-05-15,30,M,Belém
+2020-05-15,30,F,Belém
+2020-05-15,30,F,Belém
+2020-05-15,31,F,Belém
+2020-05-15,31,F,Belém
+2020-05-15,31,F,Belém
+2020-05-15,31,F,Belém
+2020-05-15,32,M,Belém
+2020-05-15,32,M,Belém
+2020-05-15,32,F,Belém
+2020-05-15,32,F,Belém
+2020-05-15,32,F,Belém
+2020-05-15,32,M,Belém
+2020-05-15,32,M,Belém
+2020-05-15,33,F,Belém
+2020-05-15,33,F,Belém
+2020-05-15,33,F,Belém
+2020-05-15,33,F,Belém
+2020-05-15,33,F,Belém
+2020-05-15,34,M,Belém
+2020-05-15,34,M,Belém
+2020-05-15,34,F,Belém
+2020-05-15,34,M,Belém
+2020-05-15,34,F,Belém
+2020-05-15,34,M,Belém
+2020-05-15,34,F,Belém
+2020-05-15,34,M,Belém
+2020-05-15,35,M,Belém
+2020-05-15,35,M,Belém
+2020-05-15,35,F,Belém
+2020-05-15,35,M,Belém
+2020-05-15,35,M,Belém
+2020-05-15,35,F,Belém
+2020-05-15,35,F,Belém
+2020-05-15,36,F,Belém
+2020-05-15,36,F,Belém
+2020-05-15,36,M,Belém
+2020-05-15,36,F,Belém
+2020-05-15,36,F,Belém
+2020-05-15,36,M,Belém
+2020-05-15,37,M,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,M,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,M,Belém
+2020-05-15,37,F,Belém
+2020-05-15,37,M,Belém
+2020-05-15,38,F,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,F,Belém
+2020-05-15,38,F,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,F,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,M,Belém
+2020-05-15,38,F,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,F,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,M,Belém
+2020-05-15,39,F,Belém
+2020-05-15,4,F,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,F,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,M,Belém
+2020-05-15,40,M,Belém
+2020-05-15,41,F,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,F,Belém
+2020-05-15,41,M,Belém
+2020-05-15,41,M,Belém
+2020-05-15,42,F,Belém
+2020-05-15,42,M,Belém
+2020-05-15,42,F,Belém
+2020-05-15,42,F,Belém
+2020-05-15,43,M,Belém
+2020-05-15,43,M,Belém
+2020-05-15,43,F,Belém
+2020-05-15,43,F,Belém
+2020-05-15,43,F,Belém
+2020-05-15,43,F,Belém
+2020-05-15,44,F,Belém
+2020-05-15,44,F,Belém
+2020-05-15,44,M,Belém
+2020-05-15,44,F,Belém
+2020-05-15,44,M,Belém
+2020-05-15,44,M,Belém
+2020-05-15,45,M,Belém
+2020-05-15,45,F,Belém
+2020-05-15,45,F,Belém
+2020-05-15,46,M,Belém
+2020-05-15,46,M,Belém
+2020-05-15,46,F,Belém
+2020-05-15,46,F,Belém
+2020-05-15,46,F,Belém
+2020-05-15,46,M,Belém
+2020-05-15,46,M,Belém
+2020-05-15,46,M,Belém
+2020-05-15,47,M,Belém
+2020-05-15,47,F,Belém
+2020-05-15,47,M,Belém
+2020-05-15,47,F,Belém
+2020-05-15,47,M,Belém
+2020-05-15,47,F,Belém
+2020-05-15,47,M,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,M,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,F,Belém
+2020-05-15,48,M,Belém
+2020-05-15,49,F,Belém
+2020-05-15,49,F,Belém
+2020-05-15,49,M,Belém
+2020-05-15,49,M,Belém
+2020-05-15,49,M,Belém
+2020-05-15,50,M,Belém
+2020-05-15,50,F,Belém
+2020-05-15,50,F,Belém
+2020-05-15,50,F,Belém
+2020-05-15,50,F,Belém
+2020-05-15,50,F,Belém
+2020-05-15,50,M,Belém
+2020-05-15,50,F,Belém
+2020-05-15,50,M,Belém
+2020-05-15,50,M,Belém
+2020-05-15,50,M,Belém
+2020-05-15,51,M,Belém
+2020-05-15,51,M,Belém
+2020-05-15,51,F,Belém
+2020-05-15,51,F,Belém
+2020-05-15,51,M,Belém
+2020-05-15,51,F,Belém
+2020-05-15,51,M,Belém
+2020-05-15,51,F,Belém
+2020-05-15,51,M,Belém
+2020-05-15,51,F,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,F,Belém
+2020-05-15,52,F,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,M,Belém
+2020-05-15,52,F,Belém
+2020-05-15,53,M,Belém
+2020-05-15,53,M,Belém
+2020-05-15,53,F,Belém
+2020-05-15,53,M,Belém
+2020-05-15,54,M,Belém
+2020-05-15,54,M,Belém
+2020-05-15,54,M,Belém
+2020-05-15,54,F,Belém
+2020-05-15,54,F,Belém
+2020-05-15,54,M,Belém
+2020-05-15,54,M,Belém
+2020-05-15,55,M,Belém
+2020-05-15,55,F,Belém
+2020-05-15,56,M,Belém
+2020-05-15,56,M,Belém
+2020-05-15,56,M,Belém
+2020-05-15,56,F,Belém
+2020-05-15,56,M,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,F,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,M,Belém
+2020-05-15,57,F,Belém
+2020-05-15,57,M,Belém
+2020-05-15,58,M,Belém
+2020-05-15,58,M,Belém
+2020-05-15,58,M,Belém
+2020-05-15,59,F,Belém
+2020-05-15,59,M,Belém
+2020-05-15,59,M,Belém
+2020-05-15,59,M,Belém
+2020-05-15,59,M,Belém
+2020-05-15,59,M,Belém
+2020-05-15,60,M,Belém
+2020-05-15,60,M,Belém
+2020-05-15,60,M,Belém
+2020-05-15,60,M,Belém
+2020-05-15,62,M,Belém
+2020-05-15,62,M,Belém
+2020-05-15,62,M,Belém
+2020-05-15,62,M,Belém
+2020-05-15,62,M,Belém
+2020-05-15,63,M,Belém
+2020-05-15,63,M,Belém
+2020-05-15,63,F,Belém
+2020-05-15,63,M,Belém
+2020-05-15,63,M,Belém
+2020-05-15,64,M,Belém
+2020-05-15,64,F,Belém
+2020-05-15,65,M,Belém
+2020-05-15,65,M,Belém
+2020-05-15,66,M,Belém
+2020-05-15,67,M,Belém
+2020-05-15,67,M,Belém
+2020-05-15,69,M,Belém
+2020-05-15,70,M,Belém
+2020-05-15,70,M,Belém
+2020-05-15,70,F,Belém
+2020-05-15,70,M,Belém
+2020-05-15,71,F,Belém
+2020-05-15,71,M,Belém
+2020-05-15,72,F,Belém
+2020-05-15,72,M,Belém
+2020-05-15,73,M,Belém
+2020-05-15,73,M,Belém
+2020-05-15,74,F,Belém
+2020-05-15,74,F,Belém
+2020-05-15,74,M,Belém
+2020-05-15,75,M,Belém
+2020-05-15,75,M,Belém
+2020-05-15,75,M,Belém
+2020-05-15,76,M,Belém
+2020-05-15,76,M,Belém
+2020-05-15,77,M,Belém
+2020-05-15,78,F,Belém
+2020-05-15,78,F,Belém
+2020-05-15,79,M,Belém
+2020-05-15,79,M,Belém
+2020-05-15,80,M,Belém
+2020-05-15,80,M,Belém
+2020-05-15,81,M,Belém
+2020-05-15,81,F,Belém
+2020-05-15,82,M,Belém
+2020-05-15,83,M,Belém
+2020-05-15,84,M,Belém
+2020-05-15,85,F,Belém
+2020-05-15,85,F,Belém
+2020-05-15,95,M,Belém
+2020-05-15,NA,F,Belém
+2020-05-15,NA,F,Belém
+2020-05-15,64,M,Bragança
+2020-05-15,39,F,Breu Branco
+2020-05-15,44,M,Breves
+2020-05-15,53,F,Bujaru
+2020-05-15,97,F,Bujaru
+2020-05-15,20,F,Canaã dos Carajás
+2020-05-15,21,M,Canaã dos Carajás
+2020-05-15,21,M,Canaã dos Carajás
+2020-05-15,21,M,Canaã dos Carajás
+2020-05-15,24,M,Canaã dos Carajás
+2020-05-15,26,M,Canaã dos Carajás
+2020-05-15,26,F,Canaã dos Carajás
+2020-05-15,28,M,Canaã dos Carajás
+2020-05-15,28,M,Canaã dos Carajás
+2020-05-15,31,M,Canaã dos Carajás
+2020-05-15,35,F,Canaã dos Carajás
+2020-05-15,35,M,Canaã dos Carajás
+2020-05-15,36,M,Canaã dos Carajás
+2020-05-15,36,M,Canaã dos Carajás
+2020-05-15,36,M,Canaã dos Carajás
+2020-05-15,36,M,Canaã dos Carajás
+2020-05-15,37,M,Canaã dos Carajás
+2020-05-15,38,M,Canaã dos Carajás
+2020-05-15,39,M,Canaã dos Carajás
+2020-05-15,42,M,Canaã dos Carajás
+2020-05-15,43,M,Canaã dos Carajás
+2020-05-15,48,F,Canaã dos Carajás
+2020-05-15,53,M,Canaã dos Carajás
+2020-05-15,33,F,Castanhal
+2020-05-15,62,M,Castanhal
+2020-05-15,68,M,Castanhal
+2020-05-15,40,F,Concórdia do Pará
+2020-05-15,42,M,Concórdia do Pará
+2020-05-15,55,M,Concórdia do Pará
+2020-05-15,66,M,Concórdia do Pará
+2020-05-15,35,M,Curuçá
+2020-05-15,50,F,Curuçá
+2020-05-15,37,M,Garrafão do Norte
+2020-05-15,20,F,Goianésia do Pará
+2020-05-15,16,M,Igarapé-Miri
+2020-05-15,20,F,Igarapé-Miri
+2020-05-15,21,F,Igarapé-Miri
+2020-05-15,22,F,Igarapé-Miri
+2020-05-15,27,F,Igarapé-Miri
+2020-05-15,29,F,Igarapé-Miri
+2020-05-15,29,F,Igarapé-Miri
+2020-05-15,29,F,Igarapé-Miri
+2020-05-15,32,M,Igarapé-Miri
+2020-05-15,35,F,Igarapé-Miri
+2020-05-15,36,F,Igarapé-Miri
+2020-05-15,36,F,Igarapé-Miri
+2020-05-15,36,F,Igarapé-Miri
+2020-05-15,42,M,Igarapé-Miri
+2020-05-15,43,M,Igarapé-Miri
+2020-05-15,47,M,Igarapé-Miri
+2020-05-15,47,M,Igarapé-Miri
+2020-05-15,49,M,Igarapé-Miri
+2020-05-15,49,F,Igarapé-Miri
+2020-05-15,50,F,Igarapé-Miri
+2020-05-15,51,F,Igarapé-Miri
+2020-05-15,55,F,Igarapé-Miri
+2020-05-15,55,M,Igarapé-Miri
+2020-05-15,56,F,Igarapé-Miri
+2020-05-15,57,M,Igarapé-Miri
+2020-05-15,58,F,Igarapé-Miri
+2020-05-15,60,F,Igarapé-Miri
+2020-05-15,62,M,Igarapé-Miri
+2020-05-15,38,F,Itaituba
+2020-05-15,53,M,Itaituba
+2020-05-15,56,F,Juruti
+2020-05-15,60,M,Juruti
+2020-05-15,79,M,Juruti
+2020-05-15,79,F,Juruti
+2020-05-15,29,M,Maracanã
+2020-05-15,32,M,Marapanim
+2020-05-15,45,F,Marapanim
+2020-05-15,51,M,Marapanim
+2020-05-15,54,F,Marapanim
+2020-05-15,58,F,Marapanim
+2020-05-15,59,M,Marapanim
+2020-05-15,60,F,Marapanim
+2020-05-15,61,M,Marapanim
+2020-05-15,65,F,Marapanim
+2020-05-15,25,F,Marituba
+2020-05-15,35,M,Marituba
+2020-05-15,37,F,Marituba
+2020-05-15,37,M,Marituba
+2020-05-15,44,F,Marituba
+2020-05-15,47,F,Marituba
+2020-05-15,79,F,Marituba
+2020-05-15,88,M,Marituba
+2020-05-15,17,F,Moju
+2020-05-15,23,M,Moju
+2020-05-15,35,F,Moju
+2020-05-15,42,M,Moju
+2020-05-15,46,F,Moju
+2020-05-15,52,F,Moju
+2020-05-15,56,M,Moju
+2020-05-15,63,F,Moju
+2020-05-15,72,F,Moju
+2020-05-15,86,F,Moju
+2020-05-15,56,M,Novo Repartimento
+2020-05-15,18,M,Oeiras do Pará
+2020-05-15,44,M,Oeiras do Pará
+2020-05-15,45,M,Oeiras do Pará
+2020-05-15,48,F,Oeiras do Pará
+2020-05-15,55,M,Oeiras do Pará
+2020-05-15,57,M,Oeiras do Pará
+2020-05-15,61,F,Oeiras do Pará
+2020-05-15,67,M,Oeiras do Pará
+2020-05-15,81,F,Oeiras do Pará
+2020-05-15,33,M,Oriximiná
+2020-05-15,50,M,Oriximiná
+2020-05-15,52,M,Oriximiná
+2020-05-15,25,M,Pacajá
+2020-05-15,30,F,Pacajá
+2020-05-15,36,M,Pacajá
+2020-05-15,57,F,Pacajá
+2020-05-15,75,F,Pacajá
+2020-05-15,75,F,Pacajá
+2020-05-15,73,M,Palestina do Pará
+2020-05-15,0,M,Parauapebas
+2020-05-15,21,M,Parauapebas
+2020-05-15,22,M,Parauapebas
+2020-05-15,27,M,Parauapebas
+2020-05-15,35,M,Parauapebas
+2020-05-15,36,M,Parauapebas
+2020-05-15,44,M,Parauapebas
+2020-05-15,51,M,Primavera
+2020-05-15,15,M,Salinópolis
+2020-05-15,39,F,Salinópolis
+2020-05-15,50,M,Salinópolis
+2020-05-15,96,F,Salinópolis
+2020-05-15,11,F,Santarém
+2020-05-15,26,F,Santarém
+2020-05-15,28,M,Santarém
+2020-05-15,31,M,Santarém
+2020-05-15,34,M,Santarém
+2020-05-15,37,F,Santarém
+2020-05-15,39,F,Santarém
+2020-05-15,42,M,Santarém
+2020-05-15,43,M,Santarém
+2020-05-15,44,M,Santarém
+2020-05-15,53,M,Santarém
+2020-05-15,54,M,Santarém
+2020-05-15,55,F,Santarém
+2020-05-15,66,F,Santarém
+2020-05-15,68,F,Santarém
+2020-05-15,68,M,Santarém
+2020-05-15,69,F,Santarém
+2020-05-15,77,M,Santarém
+2020-05-15,88,F,Santarém
+2020-05-15,89,M,Santarém
+2020-05-15,94,M,Santarém
+2020-05-15,19,M,Senador José Porfírio
+2020-05-15,57,M,Senador José Porfírio
+2020-05-15,37,M,Tomé-Açu
+2020-05-15,32,F,Tucuruí
+2020-05-15,57,F,Tucuruí
+2020-05-15,57,M,Tucuruí
+2020-05-15,59,M,Tucuruí
+2020-05-15,67,M,Tucuruí
+2020-05-15,69,F,Tucuruí
+2020-05-15,75,F,Tucuruí
+2020-05-15,79,M,Tucuruí
+2020-05-15,84,M,Tucuruí
+2020-05-15,86,M,Tucuruí
+2020-05-15,19,M,Ulianópolis
+2020-05-15,11,M,Uruará
+2020-05-15,13,M,Uruará
+2020-05-15,18,F,Uruará
+2020-05-15,39,F,Uruará
+2020-05-15,40,F,Uruará
+2020-05-15,58,M,Uruará
+2020-05-15,34,F,Vigia
+2020-05-15,35,M,Vigia
+2020-05-15,37,F,Vigia
+2020-05-15,40,M,Vigia
+2020-05-15,48,M,Vigia
+2020-05-15,76,F,Vigia
+2020-05-15,82,F,Vigia
+2020-05-15,84,M,Vigia
+2020-05-15,66,M,Viseu
