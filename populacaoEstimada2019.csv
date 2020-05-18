@@ -1,145 +1,145 @@
-municipio,população
-Abaetetuba,157698
-Abel Figueiredo,7434
-Acará,55591
-Afuá,39218
-Água Azul do Norte,27430
-Alenquer,56789
-Almeirim,34109
-Altamira,114594
-Anajás,29277
-Ananindeua,530598
-Anapu,27890
-Augusto Corrêa,45998
-Aurora do Pará,31338
-Aveiro,16388
-Bagre,30673
-Baião,47446
-Bannach,3286
-Barcarena,124680
-Belém,1492745
-Belterra,17732
-Benevides,62737
-Bom Jesus do Tocantins,16981
-Bonito,16286
-Bragança,127686
-Brasil Novo,15086
-Brejo Grande do Araguaia,7380
-Breu Branco,66046
-Breves,102701
-Bujaru,29132
-Cachoeira do Arari,23767
-Cachoeira do Piriá,33900
-Cametá,137890
-Canaã dos Carajás,37085
-Capanema,69027
-Capitão Poço,54303
-Castanhal,200793
-Chaves,23717
-Colares,12085
-Conceição do Araguaia,47864
-Concórdia do Pará,33318
-Cumaru do Norte,13473
-Curionópolis,17929
-Curralinho,34448
-Curuá,14393
-Curuçá,40066
-Dom Eliseu,59719
-Eldorado do Carajás,33808
-Faro,7194
-Floresta do Araguaia,20304
-Garrafão do Norte,26066
-Goianésia do Pará,40475
-Gurupá,33376
-Igarapé-Açu,38807
-Igarapé-Miri,62698
-Inhangapi,11711
-Ipixuna do Pará,64053
-Irituia,32550
-Itaituba,101247
-Itupiranga,53269
-Jacareacanga,8239
-Jacundá,59155
-Juruti,57943
-Limoeiro do Ajuru,28935
-Mãe do Rio,30077
-Magalhães Barata,8548
-Marabá,279349
-Maracanã,29473
-Marapanim,28336
-Marituba,131521
-Medicilândia,31597
-Melgaço,27654
-Mocajuba,31136
-Moju,82094
-Mojuí dos Campos,16084
-Monte Alegre,58032
-Muaná,40349
-Nova Esperança do Piriá,21368
-Nova Ipixuna,16678
-Nova Timboteua,15363
-Novo Progresso,25762
-Novo Repartimento,75919
-Óbidos,52137
-Oeiras do Pará,32512
-Oriximiná,73096
-Ourém,17842
-Ourilândia do Norte,32832
-Pacajá,47706
-Palestina do Pará,7589
-Paragominas,113145
-Parauapebas,208273
-Pau D’Arco,5483
-Peixe-Boi,8077
-Piçarra,12981
-Placas,30982
-Ponta de Pedras,31082
-Portel,62043
-Porto de Moz,41135
-Prainha,29866
-Primavera,10825
-Quatipuru,13608
-Redenção,84787
-Rio Maria,18193
-Rondon do Pará,52357
-Rurópolis,50510
-Salinópolis,40675
-Salvaterra,23752
-Santa Bárbara do Pará,21079
-Santa Cruz do Arari,10128
-Santa Izabel do Pará,70801
-Santa Luzia do Pará,19848
-Santa Maria das Barreiras,21449
-Santa Maria do Pará,24861
-Santana do Araguaia,72817
-Santarém,304589
-Santarém Novo,6709
-Santo Antônio do Tauá,31482
-São Caetano de Odivelas,18050
-São Domingos do Araguaia,25557
-São Domingos do Capim,31989
-São Félix do Xingu,128481
-São Francisco do Pará,15882
-São Geraldo do Araguaia,24847
-São João da Ponta,6139
-São João de Pirabas,23045
-São João do Araguaia,13996
-São Miguel do Guamá,58986
-São Sebastião da Boa Vista,26640
-Sapucaia,5930
-Senador José Porfírio,11658
-Soure,25374
-Tailândia,106339
-Terra Alta,11720
-Terra Santa,18769
-Tomé-Açu,63447
-Tracuateua,30959
-Trairão,18989
-Tucumã,39602
-Tucuruí,113659
-Ulianópolis,59210
-Uruará,45476
-Vigia de Nazaré,53686
-Viseu,61403
-Vitória do Xingu,15134
-Xinguara,44751
+cidade,população,latitude,longitude
+Abaetetuba,157698,-1.721828,-48.878842999999996
+Abel Figueiredo,7434,-4.952965,-48.395318
+Acará,55591,-1.954818,-48.198985
+Afuá,39218,-0.157258,-50.392534
+Água Azul do Norte,27430,-6.802939,-50.487583
+Alenquer,56789,-1.947305,-54.739305
+Almeirim,34109,-1.530910,-52.576253
+Altamira,114594,-3.204065,-52.209961
+Anajás,29277,-0.985624,-49.935208
+Ananindeua,530598,-1.3740350000000001,-48.4016623
+Anapu,27890,-3.470480,-51.201135
+Augusto Corrêa,45998,-1.024920,-46.645779
+Aurora do Pará,31338,-2.133106,-47.560638
+Aveiro,16388,-3.604727, -55.330723
+Bagre,30673,-1.900350,-50.211375
+Baião,47446,-2.791745,-49.672545
+Bannach,3286,-7.350737,-50.406680
+Barcarena,124680,-1.5107945,-48.6190679
+Belém,1492745,-1.45056,-48.4682453
+Belterra,17732,-2.637439,-54.938121
+Benevides,62737,-1.3555576999999999,-48.252235
+Bom Jesus do Tocantins,16981,-5.046509,-48.602517
+Bonito,16286,-1.363137,-47.305823
+Bragança,127686,-1.060965,-46.783171
+Brasil Novo,15086,-3.307241,-52.536847
+Brejo Grande do Araguaia,7380,-5.701273,-48.400290
+Breu Branco,66046,-3.771378,-49.565751
+Breves,102701,-1.681584,-50.477407
+Bujaru,29132,-1.518405,-48.037077
+Cachoeira do Arari,23767,-1.014431,-48.962152
+Cachoeira do Piriá,33900,-1.759660,-46.545320
+Cametá,137890,-2.2429490000000003,-49.497885
+Canaã dos Carajás,37085,-6.529608,-49.850191
+Capanema,69027,-1.204301,-47.179563
+Capitão Poço,54303,-1.748240,-47.063338
+Castanhal,200793,-1.2927031,-47.922390299999996
+Chaves,23717,-0.164239,-49.980750
+Colares,12085,-0.930452,-48.288747
+Conceição do Araguaia,47864,-8.262360, -49.266794
+Concórdia do Pará,33318,-1.993441,-47.944809
+Cumaru do Norte,13473,-7.812560,-50.768442
+Curionópolis,17929,-6.100109,-49.607223
+Curralinho,34448,-1.812219,-49.795675
+Curuá,14393,-1.890516,-55.115360
+Curuçá,40066,-0.733863,-47.852173
+Dom Eliseu,59719,-4.293029,-47.556996
+Eldorado do Carajás,33808,-6.104561,-49.354627
+Faro,7194,-2.174691,-56.741719
+Floresta do Araguaia,20304,-7.563551,-49.706548
+Garrafão do Norte,26066,-1.930970,-47.051183
+Goianésia do Pará,40475,-3.8380998,-49.097799200000004
+Gurupá,33376,-1.407897,-51.647027
+Igarapé-Açu,38807,-1.136465,-47.617997
+Igarapé-Miri,62698,-1.975951,-48.959758
+Inhangapi,11711,-1.431272,-47.913789
+Ipixuna do Pará,64053,-2.560009,-47.505242
+Irituia,32550,-1.770081,-47.438822
+Itaituba,101247,-4.2625218,-55.9878139
+Itupiranga,53269,-5.134412,-49.328047
+Jacareacanga,8239,-6.225142,-57.759569
+Jacundá,59155,-4.439531,-49.113205
+Juruti,57943,-2.163265,-56.095233
+Limoeiro do Ajuru,28935,-1.894609,-49.381441
+Mãe do Rio,30077,-2.052531,-47.552435
+Magalhães Barata,8548,-0.798960,-47.601947
+Marabá,279349,-5.3462821,-49.1007401
+Maracanã,29473,-0.763972,-47.456715
+Marapanim,28336,-0.711103,-47.697607
+Marituba,131521,-1.3595306,-48.336150399999994
+Medicilândia,31597,-3.443779,-52.890461
+Melgaço,27654,-1.803890,-50.715437
+Mocajuba,31136,-2.581258,-49.501478
+Moju,82094,-1.889269,-48.765018
+Mojuí dos Campos,16084,-2.683764,-54.644072
+Monte Alegre,58032,-1.998481,-54.072939
+Muaná,40349,-1.530477,-49.219227
+Nova Esperança do Piriá,21368,-2.268916,-46.966519
+Nova Ipixuna,16678,-4.915751,-49.081379
+Nova Timboteua,15363,-1.203697,-47.388942
+Novo Progresso,25762,-7.037488400000001,-55.4185904
+Novo Repartimento,75919,-4.334132,-49.798787
+Óbidos,52137,-1.902076,-55.521328
+Oeiras do Pará,32512,-2.0040813,-49.8596065
+Oriximiná,73096,-1.762099,-55.864036
+Ourém,17842,-1.550906,-47.117029
+Ourilândia do Norte,32832,-6.751923,-51.077366
+Pacajá,47706,-3.838924,-50.637496
+Palestina do Pará,7589,-5.742923,-48.318074
+Paragominas,113145,-2.995631,-47.354962
+Parauapebas,208273,-6.0696845999999995,-49.8903283
+Pau D'Arco,5483,-7.830494,-50.040071
+Peixe-Boi,8077,-1.194088,-47.324677
+Piçarra,12981,-6.448909,-48.866712
+Placas,30982,-3.868267,-54.215828
+Ponta de Pedras,31082,-1.394257,-48.872900
+Portel,62043,-1.936785,-50.819755
+Porto de Moz,41135,-1.747605,-52.236544
+Prainha,29866,-1.802061,-53.480965
+Primavera,10825,-0.945862,-47.125646
+Quatipuru,13608,-0.895948,-47.004975
+Redenção,84787,-8.040087,-50.022110
+Rio Maria,18193,-7.313648,-50.045571
+Rondon do Pará,52357,-4.774781,-48.067397
+Rurópolis,50510,-4.101060,-54.908403
+Salinópolis,40675,-0.623739,-47.345832
+Salvaterra,23752,-0.755779,-48.515609
+Santa Bárbara do Pará,21079,-1.223762,-48.294364
+Santa Cruz do Arari,10128,-0.664748, -49.173036
+Santa Izabel do Pará,70801,-1.299005,-48.156703
+Santa Luzia do Pará,19848,-1.521549,-46.901457
+Santa Maria das Barreiras,21449,-8.870936,-49.716122
+Santa Maria do Pará,24861,-1.347130,-47.577522
+Santana do Araguaia,72817,-9.337808,-50.339154
+Santarém,304589,-2.438489,-54.699611
+Santarém Novo,6709,-0.931540,-47.385679
+Santo Antônio do Tauá,31482,-1.1522,-48.131446000000004
+São Caetano de Odivelas,18050,-0.749622,-48.019436
+São Domingos do Araguaia,25557,-5.537670,-48.729385
+São Domingos do Capim,31989,-1.687536,-47.766232
+São Félix do Xingu,128481,-6.636587,-51.973928
+São Francisco do Pará,15882,-1.167620,-47.794469
+São Geraldo do Araguaia,24847,-6.394715,-48.559169
+São João da Ponta,6139,-0.850091,-47.921136
+São João de Pirabas,23045,-0.770055,-47.173891
+São João do Araguaia,13996,-5.355611,-48.788770
+São Miguel do Guamá,58986,-1.614816, -47.481386
+São Sebastião da Boa Vista,26640,-1.716467,-49.533648
+Sapucaia,5930,-6.940676,-49.698772
+Senador José Porfírio,11658,-2.586234,-51.949164
+Soure,25374,-0.728234,-48.514855
+Tailândia,106339,-2.938135,-48.951063
+Terra Alta,11720,-1.039121,-47.906850
+Terra Santa,18769,-2.110436,-56.491973
+Tomé-Açu,63447,-2.419608,-48.148541
+Tracuateua,30959,-1.078828,-46.906049
+Trairão,18989,-4.701982,-55.996186
+Tucumã,39602,-6.751957,-51.150455
+Tucuruí,113659,-3.7738509,-49.6708204
+Ulianópolis,59210,-3.745188,-47.499208
+Uruará,45476,-3.723547,-53.734460
+Vigia,53686,-0.856609,-48.140662
+Viseu,61403,-1.208192,-46.136791
+Vitória do Xingu,15134,-3.173035,-52.055529
+Xinguara,44751,-7.100057,-49.942303
