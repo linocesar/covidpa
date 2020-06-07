@@ -54272,3 +54272,530 @@ dataNotificacao,idade,sexo,cidade
 2020-05-31,97,F,Igarapé-Açu
 2020-05-05,NA,F,Belém
 2020-05-23,NA,F,Tucuruí
+2020-06-06,10,M,Placas
+2020-06-06,52,M,Cametá
+2020-06-06,37,F,Baião
+2020-06-06,61,F,Ananindeua
+2020-06-01,0,M,Monte Alegre
+2020-05-15,0,M,Parauapebas
+2020-05-16,1,M,Parauapebas
+2020-05-21,7,M,Cametá
+2020-05-20,10,M,Parauapebas
+2020-05-30,11,M,Anajás
+2020-05-27,12,M,Canaã dos Carajás
+2020-05-22,14,M,Cametá
+2020-05-23,17,M,Cametá
+2020-05-01,17,M,Canaã dos Carajás
+2020-05-20,18,M,Cametá
+2020-05-21,18,M,Cametá
+2020-05-23,18,M,Cametá
+2020-05-27,18,M,Canaã dos Carajás
+2020-05-15,19,M,Cametá
+2020-05-31,19,M,Parauapebas
+2020-04-14,20,M,Belém
+2020-05-22,20,M,Cametá
+2020-05-19,20,M,Canaã dos Carajás
+2020-05-20,20,M,Parauapebas
+2020-06-05,21,M,Canaã dos Carajás
+2020-05-15,22,M,Cametá
+2020-05-20,22,M,Cametá
+2020-04-10,22,M,Parauapebas
+2020-05-27,22,M,Trairão
+2020-05-30,23,M,Parauapebas
+2020-05-30,23,M,Santarém
+2020-05-12,24,M,Parauapebas
+2020-05-25,24,M,Uruará
+2020-05-26,24,M,Uruará
+2020-05-25,25,M,Canaã dos Carajás
+2020-04-20,25,M,Marabá
+2020-05-26,26,M,Tucuruí
+2020-05-20,27,M,Parauapebas
+2020-05-20,27,M,Parauapebas
+2020-05-22,28,M,Cametá
+2020-05-25,28,M,Canaã dos Carajás
+2020-05-28,28,M,Marabá
+2020-05-31,28,M,Santarém
+2020-05-25,29,M,Bragança
+2020-05-16,29,M,Canaã dos Carajás
+2020-05-17,29,M,Marabá
+2020-05-28,29,M,Santarém
+2020-04-20,30,M,Belém
+2020-05-31,30,M,Brasil Novo
+2020-05-19,30,M,Cametá
+2020-06-05,31,M,Belém
+2020-05-12,31,M,Cametá
+2020-04-13,31,M,Parauapebas
+2020-05-18,31,M,Parauapebas
+2020-05-29,31,M,Tucuruí
+2020-05-20,32,M,Cametá
+2020-05-26,32,M,Canaã dos Carajás
+2020-05-26,32,M,Canaã dos Carajás
+2020-06-02,32,M,Canaã dos Carajás
+2020-05-20,32,M,Uruará
+2020-05-31,32,M,Uruará
+2020-05-15,33,M,Cachoeira do Piriá
+2020-05-27,33,M,Cametá
+2020-05-27,33,M,Canaã dos Carajás
+2020-05-29,33,M,Canaã dos Carajás
+2020-06-02,33,M,Parauapebas
+2020-05-22,33,M,Santana do Araguaia
+2020-05-05,34,M,Marabá
+2020-05-19,34,M,Parauapebas
+2020-06-01,34,M,Prainha
+2020-05-15,35,M,Cametá
+2020-05-22,35,M,Cametá
+2020-05-25,35,M,Cametá
+2020-05-28,35,M,Canaã dos Carajás
+2020-05-28,35,M,Canaã dos Carajás
+2020-05-29,35,M,Canaã dos Carajás
+2020-05-12,35,M,Castanhal
+2020-05-14,35,M,Parauapebas
+2020-04-20,36,M,Belém
+2020-05-26,36,M,Marabá
+2020-05-20,36,M,Parauapebas
+2020-05-28,36,M,Parauapebas
+2020-05-27,37,M,Canaã dos Carajás
+2020-05-18,37,M,Parauapebas
+2020-05-20,37,M,Parauapebas
+2020-05-20,38,M,Cametá
+2020-05-27,38,M,Santarém
+2020-05-28,39,M,Bragança
+2020-05-25,39,M,Cametá
+2020-05-28,39,M,Canaã dos Carajás
+2020-05-20,39,M,Parauapebas
+2020-05-27,40,M,Belém
+2020-05-22,40,M,Bragança
+2020-05-19,40,M,Canaã dos Carajás
+2020-05-10,40,M,Marabá
+2020-05-24,41,M,Ananindeua
+2020-05-24,41,M,Benevides
+2020-05-20,41,M,Marabá
+2020-05-24,41,M,Marabá
+2020-05-01,41,M,Parauapebas
+2020-05-20,41,M,Portel
+2020-05-30,41,M,Santarém
+2020-05-05,42,M,Belém
+2020-05-12,42,M,Parauapebas
+2020-05-26,43,M,Altamira
+2020-05-15,43,M,Bragança
+2020-05-28,43,M,Canaã dos Carajás
+2020-04-23,43,M,Castanhal
+2020-05-08,43,M,Marabá
+2020-05-20,43,M,Marabá
+2020-05-27,43,M,Uruará
+2020-06-05,44,M,Belém
+2020-04-26,44,M,Parauapebas
+2020-05-05,45,M,Altamira
+2020-05-26,45,M,Altamira
+2020-05-30,45,M,Ananindeua
+2020-05-15,45,M,Cametá
+2020-05-23,45,M,Cametá
+2020-05-17,45,M,Juruti
+2020-05-20,45,M,Parauapebas
+2020-05-20,45,M,Parauapebas
+2020-05-27,45,M,Ponta de Pedras
+2020-05-31,45,M,Santarém
+2020-05-28,45,M,Trairão
+2020-05-28,46,M,Concórdia do Pará
+2020-05-22,46,M,Santarém
+2020-05-30,46,M,Trairão
+2020-05-25,47,M,Altamira
+2020-05-23,47,M,Cametá
+2020-05-20,47,M,Canaã dos Carajás
+2020-05-24,47,M,Canaã dos Carajás
+2020-05-27,47,M,Canaã dos Carajás
+2020-06-03,47,M,Canaã dos Carajás
+2020-05-12,47,M,Castanhal
+2020-05-24,47,M,Marabá
+2020-04-05,48,M,Ananindeua
+2020-04-08,48,M,Belém
+2020-05-24,48,M,Belém
+2020-04-20,48,M,Parauapebas
+2020-05-22,48,M,Santarém
+2020-05-31,49,M,Ananindeua
+2020-06-01,49,M,Ananindeua
+2020-05-16,49,M,Bragança
+2020-05-09,49,M,Marabá
+2020-05-18,49,M,Parauapebas
+2020-05-20,49,M,Parauapebas
+2020-05-28,49,M,Ponta de Pedras
+2020-05-22,49,M,Santarém
+2020-05-25,49,M,Santarém
+2020-05-27,49,M,Santarém
+2020-05-25,49,M,Trairão
+2020-05-26,50,M,Monte Alegre
+2020-05-27,50,M,Santarém
+2020-05-19,51,M,Castanhal
+2020-05-22,52,M,Altamira
+2020-05-22,52,M,Cametá
+2020-05-20,52,M,Marabá
+2020-05-23,53,M,Altamira
+2020-05-01,53,M,Ananindeua
+2020-04-04,53,M,Belém
+2020-05-27,53,M,Limoeiro do Ajuru
+2020-05-26,53,M,Santarém
+2020-05-24,54,M,Bragança
+2020-05-23,54,M,Curralinho
+2020-05-26,54,M,Óbidos
+2020-05-24,54,M,Santarém
+2020-05-13,55,M,Marabá
+2020-05-28,55,M,Santarém
+2020-04-13,56,M,Belém
+2020-05-15,56,M,Cametá
+2020-05-01,56,M,Canaã dos Carajás
+2020-05-29,56,M,Concórdia do Pará
+2020-05-17,56,M,Marabá
+2020-05-28,56,M,Santarém
+2020-05-15,57,M,Bragança
+2020-05-04,57,M,Marabá
+2020-05-18,57,M,Marabá
+2020-05-26,57,M,Marabá
+2020-05-20,57,M,Parauapebas
+2020-05-26,57,M,Santa Bárbara do Pará
+2020-05-31,58,M,Benevides
+2020-05-05,58,M,Parauapebas
+2020-06-04,60,M,Ananindeua
+2020-05-25,60,M,Cametá
+2020-05-15,60,M,Juruti
+2020-05-05,60,M,Parauapebas
+2020-05-29,60,M,Santarém
+2020-05-01,61,M,Altamira
+2020-04-26,62,M,Belém
+2020-05-30,62,M,Santarém
+2020-05-01,63,M,Belém
+2020-05-22,63,M,Cametá
+2020-05-27,63,M,Igarapé-Açu
+2020-05-17,63,M,Marabá
+2020-05-31,63,M,Santarém
+2020-05-20,64,M,Marabá
+2020-05-23,64,M,Marabá
+2020-05-01,64,M,Parauapebas
+2020-05-24,65,M,Ananindeua
+2020-05-02,65,M,Canaã dos Carajás
+2020-05-18,65,M,Marabá
+2020-05-18,65,M,Marabá
+2020-05-10,66,M,Bragança
+2020-05-20,66,M,Marabá
+2020-05-01,67,M,Belém
+2020-05-15,67,M,Belém
+2020-05-20,67,M,Belém
+2020-05-17,67,M,Castanhal
+2020-05-28,67,M,Monte Alegre
+2020-05-25,67,M,Óbidos
+2020-05-28,67,M,Portel
+2020-05-22,67,M,Santarém
+2020-05-24,67,M,Santarém
+2020-05-18,68,M,Marabá
+2020-05-04,69,M,Bragança
+2020-05-13,69,M,Bragança
+2020-05-01,69,M,Cametá
+2020-05-05,69,M,Cametá
+2020-05-24,69,M,Uruará
+2020-04-27,70,M,Canaã dos Carajás
+2020-05-21,70,M,Juruti
+2020-05-22,70,M,Juruti
+2020-05-30,70,M,Parauapebas
+2020-05-27,70,M,Santarém
+2020-04-29,71,M,Belém
+2020-05-16,72,M,Canaã dos Carajás
+2020-05-17,72,M,Juruti
+2020-05-24,72,M,Marabá
+2020-05-25,72,M,Santarém
+2020-05-28,73,M,Prainha
+2020-06-03,73,M,Santarém
+2020-05-10,74,M,Santarém
+2020-05-24,74,M,Santarém
+2020-04-21,75,M,Belém
+2020-04-28,76,M,Belém
+2020-05-05,76,M,Belém
+2020-05-13,76,M,Canaã dos Carajás
+2020-05-21,76,M,Marabá
+2020-05-22,77,M,Capanema
+2020-05-25,77,M,Mojuí dos Campos
+2020-05-23,77,M,Santarém
+2020-04-16,78,M,Belém
+2020-05-22,78,M,Juruti
+2020-05-22,80,M,Canaã dos Carajás
+2020-05-22,80,M,Marabá
+2020-05-15,81,M,Canaã dos Carajás
+2020-05-23,82,M,Juruti
+2020-05-21,82,M,Santarém
+2020-05-23,82,M,Santarém
+2020-05-30,83,M,Pacajá
+2020-05-22,86,M,Marabá
+2020-05-22,86,M,Marabá
+2020-05-25,88,M,Juruti
+2020-05-25,88,M,Santarém
+2020-05-14,89,M,Santarém
+2020-05-10,91,M,Trairão
+2020-05-15,92,M,Santarém
+2020-06-03,92,M,Santarém
+2020-05-31,94,M,Santarém
+2020-05-18,95,M,Altamira
+2020-05-21,102,M,Parauapebas
+2020-06-04,0,F,Belém
+2020-05-04,0,F,Parauapebas
+2020-05-19,0,F,Parauapebas
+2020-05-28,0,F,Portel
+2020-05-29,3,F,Salinópolis
+2020-05-30,5,F,Altamira
+2020-06-02,5,F,Ananindeua
+2020-05-28,8,F,Juruti
+2020-05-20,10,F,Cametá
+2020-06-02,11,F,Cametá
+2020-05-23,11,F,Parauapebas
+2020-05-23,12,F,Cametá
+2020-05-28,12,F,Canaã dos Carajás
+2020-05-22,13,F,Cametá
+2020-05-26,14,F,Canaã dos Carajás
+2020-05-13,15,F,Anajás
+2020-05-22,15,F,Cametá
+2020-05-20,18,F,Belém
+2020-05-29,18,F,Cametá
+2020-05-29,18,F,Marabá
+2020-05-19,19,F,Cametá
+2020-05-20,19,F,Canaã dos Carajás
+2020-05-26,19,F,Canaã dos Carajás
+2020-05-29,19,F,Concórdia do Pará
+2020-05-19,19,F,Marabá
+2020-05-20,19,F,Parauapebas
+2020-05-29,20,F,Concórdia do Pará
+2020-05-20,20,F,Marabá
+2020-05-24,20,F,Marabá
+2020-05-06,21,F,Anajás
+2020-05-04,21,F,Cachoeira do Piriá
+2020-05-10,21,F,Cametá
+2020-05-24,21,F,Canaã dos Carajás
+2020-05-25,21,F,Canaã dos Carajás
+2020-05-15,21,F,Parauapebas
+2020-05-26,22,F,Canaã dos Carajás
+2020-06-02,22,F,Trairão
+2020-05-26,22,F,Uruará
+2020-05-20,23,F,Bragança
+2020-05-25,23,F,Cametá
+2020-05-06,24,F,Baião
+2020-05-10,24,F,Bragança
+2020-05-12,24,F,Cametá
+2020-05-19,24,F,Canaã dos Carajás
+2020-04-24,24,F,Santa Maria do Pará
+2020-05-23,25,F,Cametá
+2020-05-23,25,F,Canaã dos Carajás
+2020-05-26,25,F,Canaã dos Carajás
+2020-05-25,25,F,Marabá
+2020-05-26,25,F,Marabá
+2020-05-14,25,F,Parauapebas
+2020-05-31,25,F,Parauapebas
+2020-05-24,26,F,Cametá
+2020-05-28,26,F,Canaã dos Carajás
+2020-05-17,26,F,Marabá
+2020-05-24,26,F,Marabá
+2020-05-10,26,F,Parauapebas
+2020-05-21,26,F,Parauapebas
+2020-05-07,26,F,Portel
+2020-05-15,26,F,Portel
+2020-05-25,26,F,Santarém
+2020-05-30,27,F,Canaã dos Carajás
+2020-05-24,27,F,Marabá
+2020-05-27,27,F,Marabá
+2020-05-27,27,F,Trairão
+2020-05-10,28,F,Cametá
+2020-05-27,28,F,Santarém
+2020-05-22,28,F,Trairão
+2020-05-30,29,F,Concórdia do Pará
+2020-05-26,29,F,Trairão
+2020-05-28,30,F,Belterra
+2020-05-08,30,F,Cachoeira do Piriá
+2020-05-20,30,F,Cametá
+2020-05-31,30,F,Cametá
+2020-05-09,30,F,Portel
+2020-05-28,30,F,Santarém
+2020-06-02,31,F,Belém
+2020-05-23,31,F,Cametá
+2020-04-25,31,F,Castanhal
+2020-06-01,31,F,Santarém
+2020-05-19,32,F,Altamira
+2020-05-25,32,F,Altamira
+2020-06-05,32,F,Capanema
+2020-05-22,32,F,Curralinho
+2020-05-12,32,F,Marabá
+2020-05-22,32,F,Marabá
+2020-05-28,32,F,Santarém
+2020-06-01,32,F,Santarém
+2020-04-12,33,F,Belém
+2020-06-05,33,F,Capanema
+2020-05-25,33,F,Limoeiro do Ajuru
+2020-05-26,33,F,Marabá
+2020-05-25,33,F,Uruará
+2020-05-30,34,F,Canaã dos Carajás
+2020-05-18,34,F,Marabá
+2020-05-25,34,F,Marabá
+2020-06-04,34,F,Marabá
+2020-05-27,34,F,Monte Alegre
+2020-05-30,34,F,Parauapebas
+2020-05-29,34,F,Santarém
+2020-05-25,34,F,Trairão
+2020-05-12,35,F,Cametá
+2020-05-22,35,F,Cametá
+2020-05-23,35,F,Canaã dos Carajás
+2020-05-19,35,F,Marabá
+2020-05-21,35,F,Monte Alegre
+2020-05-30,35,F,Santarém
+2020-06-01,35,F,Santarém
+2020-04-23,36,F,Belém
+2020-05-01,36,F,Cametá
+2020-05-18,36,F,Canaã dos Carajás
+2020-05-27,36,F,Canaã dos Carajás
+2020-04-17,36,F,Castanhal
+2020-05-15,36,F,Marabá
+2020-05-26,36,F,Parauapebas
+2020-05-30,36,F,Santarém
+2020-05-26,37,F,Altamira
+2020-05-27,37,F,Ananindeua
+2020-05-16,37,F,Canaã dos Carajás
+2020-05-25,37,F,Marabá
+2020-05-15,37,F,Parauapebas
+2020-05-20,37,F,Parauapebas
+2020-05-25,37,F,Portel
+2020-05-05,38,F,Bragança
+2020-05-20,38,F,Bragança
+2020-05-19,38,F,Canaã dos Carajás
+2020-05-25,38,F,Canaã dos Carajás
+2020-05-27,38,F,Canaã dos Carajás
+2020-06-05,38,F,Capanema
+2020-05-05,38,F,Curuçá
+2020-05-26,38,F,Ponta de Pedras
+2020-05-19,38,F,Santa Maria das Barreiras
+2020-05-25,38,F,Uruará
+2020-05-30,39,F,Igarapé-Açu
+2020-05-27,39,F,Santarém
+2020-05-29,39,F,Santarém
+2020-05-31,40,F,Belterra
+2020-05-11,40,F,Bragança
+2020-05-20,40,F,Canaã dos Carajás
+2020-04-02,40,F,Concórdia do Pará
+2020-05-25,40,F,Portel
+2020-05-10,40,F,Uruará
+2020-05-18,40,F,Uruará
+2020-05-08,41,F,Castanhal
+2020-05-24,41,F,Monte Alegre
+2020-05-26,41,F,Prainha
+2020-04-02,42,F,Belém
+2020-05-23,42,F,Bragança
+2020-05-29,42,F,Canaã dos Carajás
+2020-05-31,42,F,Canaã dos Carajás
+2020-05-31,42,F,Concórdia do Pará
+2020-06-02,42,F,Concórdia do Pará
+2020-05-17,42,F,Irituia
+2020-04-19,43,F,Belém
+2020-05-22,43,F,Bragança
+2020-05-20,43,F,Cametá
+2020-05-24,43,F,Cametá
+2020-05-16,43,F,Canaã dos Carajás
+2020-05-26,43,F,Canaã dos Carajás
+2020-05-29,43,F,Canaã dos Carajás
+2020-05-24,43,F,Santarém
+2020-05-29,43,F,Santarém
+2020-05-30,44,F,Ananindeua
+2020-06-04,44,F,Ananindeua
+2020-05-20,44,F,Cametá
+2020-05-08,44,F,Parauapebas
+2020-05-28,44,F,Santarém
+2020-05-12,45,F,Cametá
+2020-05-03,46,F,Bragança
+2020-05-10,46,F,Bragança
+2020-06-01,46,F,Cametá
+2020-05-10,46,F,Parauapebas
+2020-05-27,46,F,Santarém
+2020-05-18,47,F,Canaã dos Carajás
+2020-05-30,47,F,Canaã dos Carajás
+2020-05-18,47,F,Irituia
+2020-06-05,48,F,Belém
+2020-05-20,48,F,Canaã dos Carajás
+2020-04-15,48,F,Marabá
+2020-05-25,49,F,Canaã dos Carajás
+2020-05-28,49,F,Irituia
+2020-05-26,49,F,Marabá
+2020-05-30,49,F,Monte Alegre
+2020-05-13,49,F,Parauapebas
+2020-05-22,49,F,Parauapebas
+2020-05-29,49,F,Santa Maria do Pará
+2020-06-01,51,F,Brasil Novo
+2020-05-29,51,F,Santarém
+2020-05-24,52,F,Belém
+2020-05-12,52,F,Bragança
+2020-05-18,52,F,Bragança
+2020-05-20,52,F,Cametá
+2020-04-24,52,F,Curuçá
+2020-05-20,53,F,Cametá
+2020-06-02,53,F,Canaã dos Carajás
+2020-05-16,53,F,Marabá
+2020-05-24,54,F,Belém
+2020-05-10,54,F,Cachoeira do Piriá
+2020-05-10,54,F,Castanhal
+2020-05-23,54,F,Irituia
+2020-05-29,54,F,Monte Alegre
+2020-05-20,54,F,Parauapebas
+2020-05-27,55,F,Altamira
+2020-05-24,55,F,Belém
+2020-05-04,55,F,Bragança
+2020-05-23,55,F,Santarém
+2020-05-08,57,F,Belém
+2020-05-24,57,F,Benevides
+2020-05-20,57,F,Cametá
+2020-06-05,58,F,Belém
+2020-05-12,58,F,Bragança
+2020-05-18,59,F,Juruti
+2020-05-20,60,F,Cametá
+2020-05-27,61,F,Ananindeua
+2020-05-21,61,F,Belém
+2020-05-11,61,F,Tucuruí
+2020-05-12,62,F,Altamira
+2020-05-21,62,F,Altamira
+2020-05-28,62,F,Canaã dos Carajás
+2020-05-22,62,F,Santarém
+2020-05-17,63,F,Ananindeua
+2020-05-01,63,F,Cametá
+2020-05-18,64,F,Belém
+2020-05-31,64,F,Cametá
+2020-05-28,64,F,Santarém
+2020-04-01,65,F,Belém
+2020-05-10,65,F,Castanhal
+2020-05-30,66,F,Cametá
+2020-05-14,66,F,Marabá
+2020-04-03,67,F,Belém
+2020-05-27,67,F,Juruti
+2020-05-29,68,F,Belém
+2020-06-05,69,F,Capanema
+2020-06-02,71,F,Concórdia do Pará
+2020-06-05,72,F,Belém
+2020-05-19,72,F,Juruti
+2020-05-22,73,F,Santarém
+2020-05-31,74,F,Monte Alegre
+2020-05-28,75,F,Ananindeua
+2020-05-14,75,F,Castanhal
+2020-05-21,76,F,Mojuí dos Campos
+2020-04-21,77,F,Belém
+2020-05-04,77,F,Castanhal
+2020-05-23,77,F,Juruti
+2020-05-26,77,F,Marabá
+2020-05-27,77,F,Santarém
+2020-05-23,78,F,Santarém
+2020-04-14,79,F,Belém
+2020-05-15,79,F,Belém
+2020-05-18,79,F,Santarém
+2020-05-18,79,F,Santarém
+2020-05-25,79,F,São Domingos do Araguaia
+2020-05-26,79,F,Tucuruí
+2020-05-20,80,F,Marabá
+2020-05-26,80,F,Santarém
+2020-05-10,81,F,Castanhal
+2020-05-20,81,F,Santarém
+2020-05-25,81,F,Santarém
+2020-05-25,83,F,Santarém
+2020-05-23,85,F,Santarém
+2020-05-15,86,F,Belém
+2020-05-31,86,F,Belém
+2020-05-18,86,F,Santarém
+2020-05-16,88,F,Marabá
+2020-05-21,90,F,Santarém
+2020-05-20,97,F,Marabá
