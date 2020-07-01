@@ -105854,3 +105854,2217 @@ dataNotificacao,idade,sexo,cidade
 2020-05-26,56,F,Xinguara
 2020-06-05,57,F,Xinguara
 2020-06-17,61,F,Xinguara
+2020-06-27,2,M,Redenção
+2020-06-25,5,M,Limoeiro do Ajuru
+2020-06-26,5,M,Portel
+2020-06-25,5,M,Santana do Araguaia
+2020-06-30,7,M,Paragominas
+2020-06-26,8,M,Santarém
+2020-06-26,10,M,Portel
+2020-06-28,12,M,São Sebastião da Boa Vista
+2020-06-26,13,M,Pacajá
+2020-06-30,15,M,Tomé-Açu
+2020-06-29,18,M,Santarém
+2020-06-26,18,M,Santarém
+2020-06-25,18,M,Tomé-Açu
+2020-06-25,19,M,Marabá
+2020-06-25,19,M,Belém
+2020-06-26,19,M,Santarém
+2020-06-26,19,M,Santarém
+2020-06-26,19,M,Santarém
+2020-06-30,19,M,Ourilândia do Norte
+2020-06-26,20,M,Santarém
+2020-06-26,20,M,Marabá
+2020-06-26,20,M,Santarém
+2020-06-30,20,M,Ourilândia do Norte
+2020-06-26,20,M,Santarém
+2020-06-26,21,M,Santarém
+2020-06-26,21,M,Santarém
+2020-06-26,22,M,Santarém
+2020-06-25,22,M,São Félix do Xingu
+2020-06-30,22,M,Ourilândia do Norte
+2020-07-01,22,M,Itaituba
+2020-06-29,23,M,Altamira
+2020-06-25,23,M,São Félix do Xingu
+2020-06-30,24,M,Canaã dos Carajás
+2020-06-29,24,M,Altamira
+2020-06-25,24,M,São Félix do Xingu
+2020-06-29,24,M,Santarém
+2020-06-29,24,M,Canaã dos Carajás
+2020-06-25,25,M,São Félix do Xingu
+2020-06-26,25,M,Santarém
+2020-06-29,25,M,Santarém
+2020-06-25,26,M,Xinguara
+2020-06-26,27,M,Tomé-Açu
+2020-06-30,27,M,Altamira
+2020-06-25,28,M,Ourilândia do Norte
+2020-06-27,28,M,Santarém
+2020-07-01,28,M,Novo Progresso
+2020-06-25,30,M,Belém
+2020-06-26,31,M,Santarém
+2020-06-26,32,M,Oriximiná
+2020-06-30,32,M,Canaã dos Carajás
+2020-06-27,33,M,Cametá
+2020-06-30,34,M,Ourilândia do Norte
+2020-06-25,34,M,Santarém
+2020-07-01,35,M,Novo Progresso
+2020-06-26,35,M,Redenção
+2020-06-30,36,M,Ulianópolis
+2020-06-25,36,M,Irituia
+2020-06-30,37,M,Rio Maria
+2020-06-28,37,M,Redenção
+2020-06-25,38,M,Santarém
+2020-06-25,40,M,Almeirim
+2020-06-26,40,M,Ourilândia do Norte
+2020-06-29,41,M,Canaã dos Carajás
+2020-06-25,41,M,São Félix do Xingu
+2020-06-26,41,M,Oriximiná
+2020-07-01,41,M,Belém
+2020-06-30,41,M,Anapu
+2020-06-25,42,M,Salinópolis
+2020-06-26,43,M,Oriximiná
+2020-06-27,44,M,Gurupá
+2020-07-01,44,M,Ulianópolis
+2020-06-25,45,M,Belém
+2020-06-29,45,M,Baião
+2020-06-26,46,M,Oriximiná
+2020-06-25,46,M,Salvaterra
+2020-06-26,47,M,Oriximiná
+2020-06-25,47,M,Brasil Novo
+2020-06-26,47,M,Oriximiná
+2020-06-29,48,M,Medicilândia
+2020-06-26,48,M,Ourilândia do Norte
+2020-06-26,50,M,Oeiras do Pará
+2020-06-30,51,M,Belém
+2020-06-26,51,M,Ananindeua
+2020-07-01,52,M,Aveiro
+2020-06-25,52,M,Bujaru
+2020-06-29,53,M,São Félix do Xingu
+2020-06-26,53,M,Altamira
+2020-06-30,56,M,Ourilândia do Norte
+2020-06-30,56,M,Brejo Grande do Araguaia
+2020-06-25,57,M,Terra Alta
+2020-06-27,59,M,Gurupá
+2020-06-26,60,M,Santarém
+2020-06-30,60,M,Senador José Porfírio
+2020-06-30,61,M,Senador José Porfírio
+2020-06-25,61,M,São Félix do Xingu
+2020-06-30,62,M,Itaituba
+2020-06-27,65,M,Gurupá
+2020-06-25,67,M,Curralinho
+2020-06-25,72,M,Belém
+2020-06-26,72,M,Gurupá
+2020-06-28,75,M,Redenção
+2020-06-25,76,M,Belém
+2020-06-29,76,M,Canaã dos Carajás
+2020-06-29,77,M,Canaã dos Carajás
+2020-06-26,NA,M,Santarém
+2020-06-27,0,F,Pau D'Arco
+2020-06-25,0,F,Santarém
+2020-06-26,0,F,Redenção
+2020-06-28,0,F,Redenção
+2020-06-27,0,F,Gurupá
+2020-06-28,1,F,Redenção
+2020-06-27,3,F,Moju
+2020-06-26,3,F,Redenção
+2020-06-29,7,F,Redenção
+2020-06-30,9,F,Ourilândia do Norte
+2020-06-25,12,F,São Félix do Xingu
+2020-06-25,13,F,São Félix do Xingu
+2020-06-27,14,F,São Sebastião da Boa Vista
+2020-06-26,14,F,Portel
+2020-06-27,15,F,Redenção
+2020-06-28,16,F,Redenção
+2020-06-25,16,F,São Félix do Xingu
+2020-06-30,16,F,Curralinho
+2020-06-26,17,F,Limoeiro do Ajuru
+2020-06-26,18,F,Redenção
+2020-06-26,18,F,Redenção
+2020-06-30,21,F,Ourilândia do Norte
+2020-06-26,23,F,Itaituba
+2020-06-25,23,F,São Félix do Xingu
+2020-06-26,24,F,Santarém
+2020-06-26,24,F,Almeirim
+2020-06-26,25,F,Tomé-Açu
+2020-06-25,25,F,Altamira
+2020-06-25,26,F,Irituia
+2020-06-25,26,F,Santarém
+2020-06-25,27,F,São Félix do Xingu
+2020-06-27,27,F,Mocajuba
+2020-06-25,28,F,Abaetetuba
+2020-06-28,28,F,Castanhal
+2020-06-26,29,F,Redenção
+2020-06-26,30,F,Redenção
+2020-06-25,30,F,Canaã dos Carajás
+2020-06-26,31,F,Bragança
+2020-07-01,32,F,Eldorado do Carajás
+2020-06-25,32,F,Redenção
+2020-06-30,33,F,Cametá
+2020-06-29,33,F,São Miguel do Guamá
+2020-06-30,34,F,Canaã dos Carajás
+2020-06-29,34,F,Canaã dos Carajás
+2020-06-30,34,F,Anapu
+2020-06-29,35,F,São Miguel do Guamá
+2020-06-29,35,F,Santarém
+2020-06-25,36,F,Belém
+2020-06-26,36,F,Redenção
+2020-06-30,36,F,Paragominas
+2020-06-30,36,F,Mocajuba
+2020-06-25,37,F,São Félix do Xingu
+2020-06-25,37,F,Santarém
+2020-06-26,37,F,Santarém
+2020-06-25,38,F,Terra Alta
+2020-06-25,38,F,Terra Alta
+2020-06-26,38,F,Santarém
+2020-06-28,40,F,Bragança
+2020-06-26,40,F,Redenção
+2020-06-29,41,F,Canaã dos Carajás
+2020-06-26,41,F,Redenção
+2020-06-26,41,F,Santarém
+2020-07-01,42,F,Salvaterra
+2020-06-25,42,F,Tomé-Açu
+2020-06-27,42,F,Redenção
+2020-07-01,43,F,São Miguel do Guamá
+2020-06-30,44,F,Ulianópolis
+2020-06-26,45,F,Barcarena
+2020-06-26,45,F,Santarém
+2020-06-25,46,F,Belém
+2020-06-30,46,F,Canaã dos Carajás
+2020-06-26,46,F,Oriximiná
+2020-06-30,46,F,Ourilândia do Norte
+2020-06-25,46,F,Palestina do Pará
+2020-06-29,48,F,Tomé-Açu
+2020-06-28,48,F,Redenção
+2020-06-29,48,F,Canaã dos Carajás
+2020-06-29,51,F,Tomé-Açu
+2020-06-25,51,F,Almeirim
+2020-06-25,52,F,Belém
+2020-07-01,54,F,Aveiro
+2020-06-25,55,F,Terra Alta
+2020-06-29,56,F,Almeirim
+2020-06-25,57,F,São Félix do Xingu
+2020-06-30,58,F,Peixe-Boi
+2020-06-27,64,F,Viseu
+2020-06-29,65,F,Almeirim
+2020-06-29,68,F,Xinguara
+2020-06-25,70,F,Terra Alta
+2020-06-25,71,F,Santarém
+2020-06-26,73,F,Bragança
+2020-06-30,74,F,Curralinho
+2020-06-26,74,F,Belém
+2020-07-01,78,F,Ourilândia do Norte
+2020-06-29,79,F,Canaã dos Carajás
+2020-06-27,83,F,Xinguara
+2020-06-25,86,F,Salinópolis
+2020-06-29,NA,F,Santarém
+2020-05-20,37,M,Abaetetuba
+2020-06-01,46,M,Abaetetuba
+2020-05-01,55,M,Abaetetuba
+2020-06-23,60,M,Abaetetuba
+2020-06-17,23,M,Abel Figueiredo
+2020-06-19,28,M,Abel Figueiredo
+2020-06-18,30,M,Abel Figueiredo
+2020-06-15,47,M,Abel Figueiredo
+2020-06-23,93,M,Abel Figueiredo
+2020-06-19,47,M,Acará
+2020-06-14,21,M,Afuá
+2020-06-21,22,M,Afuá
+2020-06-18,23,M,Afuá
+2020-06-16,27,M,Afuá
+2020-06-19,27,M,Afuá
+2020-06-16,28,M,Afuá
+2020-06-17,28,M,Afuá
+2020-06-18,30,M,Afuá
+2020-06-15,33,M,Afuá
+2020-06-18,33,M,Afuá
+2020-06-19,33,M,Afuá
+2020-06-19,33,M,Afuá
+2020-06-17,35,M,Afuá
+2020-06-19,43,M,Afuá
+2020-06-20,48,M,Afuá
+2020-06-18,50,M,Afuá
+2020-06-17,51,M,Afuá
+2020-06-18,55,M,Afuá
+2020-06-19,57,M,Afuá
+2020-06-18,61,M,Afuá
+2020-06-20,62,M,Afuá
+2020-06-19,65,M,Afuá
+2020-06-18,69,M,Afuá
+2020-06-19,74,M,Afuá
+2020-06-17,20,M,Água Azul do Norte
+2020-06-20,56,M,Água Azul do Norte
+2020-06-20,59,M,Almeirim
+2020-06-08,62,M,Almeirim
+2020-05-29,82,M,Almeirim
+2020-05-30,95,M,Almeirim
+2020-06-16,6,M,Altamira
+2020-05-20,16,M,Altamira
+2020-06-11,21,M,Altamira
+2020-06-18,24,M,Altamira
+2020-06-09,26,M,Altamira
+2020-06-20,28,M,Altamira
+2020-06-19,31,M,Altamira
+2020-06-20,32,M,Altamira
+2020-06-12,36,M,Altamira
+2020-06-17,36,M,Altamira
+2020-06-21,37,M,Altamira
+2020-06-05,41,M,Altamira
+2020-05-16,42,M,Altamira
+2020-05-28,44,M,Altamira
+2020-06-03,44,M,Altamira
+2020-06-16,44,M,Altamira
+2020-06-09,48,M,Altamira
+2020-06-19,49,M,Altamira
+2020-06-20,50,M,Altamira
+2020-06-24,62,M,Altamira
+2020-05-10,0,M,Ananindeua
+2020-06-10,0,M,Ananindeua
+2020-05-10,18,M,Ananindeua
+2020-05-25,23,M,Ananindeua
+2020-05-15,26,M,Ananindeua
+2020-04-28,31,M,Ananindeua
+2020-06-03,33,M,Ananindeua
+2020-05-20,34,M,Ananindeua
+2020-05-05,36,M,Ananindeua
+2020-05-20,36,M,Ananindeua
+2020-06-17,39,M,Ananindeua
+2020-05-11,43,M,Ananindeua
+2020-05-25,43,M,Ananindeua
+2020-04-28,47,M,Ananindeua
+2020-05-20,47,M,Ananindeua
+2020-04-30,48,M,Ananindeua
+2020-04-16,50,M,Ananindeua
+2020-05-02,50,M,Ananindeua
+2020-06-06,51,M,Ananindeua
+2020-05-05,54,M,Ananindeua
+2020-04-15,55,M,Ananindeua
+2020-05-15,55,M,Ananindeua
+2020-05-06,57,M,Ananindeua
+2020-04-24,58,M,Ananindeua
+2020-04-05,61,M,Ananindeua
+2020-04-21,61,M,Ananindeua
+2020-05-09,65,M,Ananindeua
+2020-06-01,67,M,Ananindeua
+2020-06-05,71,M,Ananindeua
+2020-05-12,72,M,Ananindeua
+2020-05-25,78,M,Ananindeua
+2020-06-01,80,M,Ananindeua
+2020-06-05,7,M,Augusto Corrêa
+2020-05-15,23,M,Augusto Corrêa
+2020-06-12,23,M,Augusto Corrêa
+2020-06-15,23,M,Augusto Corrêa
+2020-06-14,24,M,Augusto Corrêa
+2020-05-23,28,M,Augusto Corrêa
+2020-06-09,33,M,Augusto Corrêa
+2020-05-15,37,M,Augusto Corrêa
+2020-06-17,49,M,Augusto Corrêa
+2020-05-22,52,M,Augusto Corrêa
+2020-06-01,64,M,Augusto Corrêa
+2020-06-16,38,M,Aurora do Pará
+2020-06-19,67,M,Aurora do Pará
+2020-06-19,13,M,Aveiro
+2020-05-22,34,M,Aveiro
+2020-06-23,54,M,Aveiro
+2020-06-10,68,M,Aveiro
+2020-06-20,25,M,Baião
+2020-06-20,66,M,Baião
+2020-06-19,67,M,Baião
+2020-06-07,16,M,Barcarena
+2020-06-20,43,M,Barcarena
+2020-06-16,45,M,Barcarena
+2020-06-16,64,M,Barcarena
+2020-06-10,0,M,Belém
+2020-04-13,17,M,Belém
+2020-04-11,22,M,Belém
+2020-06-21,22,M,Belém
+2020-05-03,24,M,Belém
+2020-05-03,30,M,Belém
+2020-05-05,30,M,Belém
+2020-06-08,30,M,Belém
+2020-06-20,30,M,Belém
+2020-04-20,31,M,Belém
+2020-05-30,36,M,Belém
+2020-04-28,37,M,Belém
+2020-05-03,38,M,Belém
+2020-04-01,39,M,Belém
+2020-06-02,40,M,Belém
+2020-06-08,40,M,Belém
+2020-04-22,43,M,Belém
+2020-05-03,43,M,Belém
+2020-04-28,44,M,Belém
+2020-05-25,44,M,Belém
+2020-04-13,45,M,Belém
+2020-04-21,46,M,Belém
+2020-04-30,46,M,Belém
+2020-05-24,47,M,Belém
+2020-05-01,48,M,Belém
+2020-04-20,50,M,Belém
+2020-04-28,50,M,Belém
+2020-04-26,51,M,Belém
+2020-05-20,51,M,Belém
+2020-04-27,52,M,Belém
+2020-04-20,53,M,Belém
+2020-04-15,54,M,Belém
+2020-04-20,54,M,Belém
+2020-05-25,55,M,Belém
+2020-04-23,57,M,Belém
+2020-04-27,57,M,Belém
+2020-05-20,57,M,Belém
+2020-04-05,58,M,Belém
+2020-04-21,61,M,Belém
+2020-06-05,61,M,Belém
+2020-06-02,62,M,Belém
+2020-04-10,64,M,Belém
+2020-04-27,65,M,Belém
+2020-06-14,68,M,Belém
+2020-04-20,69,M,Belém
+2020-05-19,72,M,Belém
+2020-04-16,74,M,Belém
+2020-04-03,77,M,Belém
+2020-05-28,77,M,Belém
+2020-04-10,82,M,Belém
+2020-04-13,85,M,Belém
+2020-05-26,85,M,Belém
+2020-05-24,19,M,Belterra
+2020-05-20,22,M,Belterra
+2020-05-30,24,M,Belterra
+2020-05-31,26,M,Belterra
+2020-06-11,28,M,Belterra
+2020-05-20,29,M,Belterra
+2020-05-22,29,M,Belterra
+2020-05-20,37,M,Belterra
+2020-05-27,45,M,Belterra
+2020-05-16,47,M,Belterra
+2020-05-23,50,M,Belterra
+2020-06-07,50,M,Belterra
+2020-06-03,54,M,Belterra
+2020-05-20,66,M,Belterra
+2020-06-19,73,M,Belterra
+2020-06-02,74,M,Belterra
+2020-05-28,83,M,Belterra
+2020-06-22,39,M,Benevides
+2020-04-20,57,M,Benevides
+2020-04-20,82,M,Benevides
+2020-06-20,46,M,Bom Jesus do Tocantins
+2020-05-11,69,M,Bom Jesus do Tocantins
+2020-06-16,31,M,Bonito
+2020-06-15,48,M,Bonito
+2020-06-16,52,M,Bragança
+2020-06-10,65,M,Bragança
+2020-06-22,17,M,Brasil Novo
+2020-06-19,18,M,Brasil Novo
+2020-06-22,27,M,Brasil Novo
+2020-06-21,53,M,Brasil Novo
+2020-06-11,56,M,Brasil Novo
+2020-06-12,53,M,Brejo Grande do Araguaia
+2020-06-18,37,M,Breu Branco
+2020-06-14,68,M,Breu Branco
+2020-06-16,NA,M,Breu Branco
+2020-05-22,23,M,Breves
+2020-05-24,13,M,Bujaru
+2020-06-08,39,M,Bujaru
+2020-05-20,0,M,Cachoeira do Arari
+2020-05-28,3,M,Cachoeira do Arari
+2020-05-20,14,M,Cachoeira do Arari
+2020-05-03,19,M,Cachoeira do Arari
+2020-06-01,21,M,Cachoeira do Arari
+2020-06-05,22,M,Cachoeira do Arari
+2020-04-15,28,M,Cachoeira do Arari
+2020-05-05,31,M,Cachoeira do Arari
+2020-05-10,31,M,Cachoeira do Arari
+2020-05-25,32,M,Cachoeira do Arari
+2020-05-07,33,M,Cachoeira do Arari
+2020-05-02,35,M,Cachoeira do Arari
+2020-04-27,36,M,Cachoeira do Arari
+2020-05-10,37,M,Cachoeira do Arari
+2020-05-25,38,M,Cachoeira do Arari
+2020-04-22,42,M,Cachoeira do Arari
+2020-05-26,43,M,Cachoeira do Arari
+2020-06-01,45,M,Cachoeira do Arari
+2020-05-20,47,M,Cachoeira do Arari
+2020-05-14,49,M,Cachoeira do Arari
+2020-05-20,55,M,Cachoeira do Arari
+2020-05-27,56,M,Cachoeira do Arari
+2020-05-10,57,M,Cachoeira do Arari
+2020-05-10,59,M,Cachoeira do Arari
+2020-06-01,59,M,Cachoeira do Arari
+2020-05-25,62,M,Cachoeira do Arari
+2020-06-15,72,M,Cachoeira do Arari
+2020-05-12,NA,M,Cachoeira do Arari
+2020-06-14,10,M,Cachoeira do Piriá
+2020-06-16,18,M,Cachoeira do Piriá
+2020-06-09,40,M,Cachoeira do Piriá
+2020-06-16,45,M,Cachoeira do Piriá
+2020-06-21,52,M,Cachoeira do Piriá
+2020-06-11,74,M,Cachoeira do Piriá
+2020-06-22,16,M,Cametá
+2020-06-14,19,M,Cametá
+2020-06-12,26,M,Cametá
+2020-06-23,28,M,Cametá
+2020-06-19,35,M,Cametá
+2020-06-14,38,M,Cametá
+2020-06-19,38,M,Cametá
+2020-06-19,38,M,Cametá
+2020-06-22,39,M,Cametá
+2020-06-15,43,M,Cametá
+2020-06-21,54,M,Cametá
+2020-06-12,58,M,Cametá
+2020-06-14,24,M,Canaã dos Carajás
+2020-06-11,34,M,Canaã dos Carajás
+2020-06-20,34,M,Canaã dos Carajás
+2020-06-20,36,M,Canaã dos Carajás
+2020-06-21,36,M,Canaã dos Carajás
+2020-06-20,37,M,Canaã dos Carajás
+2020-06-24,37,M,Canaã dos Carajás
+2020-06-09,38,M,Canaã dos Carajás
+2020-06-10,41,M,Canaã dos Carajás
+2020-06-14,44,M,Canaã dos Carajás
+2020-06-01,47,M,Canaã dos Carajás
+2020-06-15,54,M,Canaã dos Carajás
+2020-06-12,21,M,Capanema
+2020-06-12,23,M,Capanema
+2020-06-10,60,M,Capanema
+2020-04-11,22,M,Castanhal
+2020-05-25,31,M,Castanhal
+2020-06-01,32,M,Castanhal
+2020-04-20,38,M,Castanhal
+2020-05-15,39,M,Castanhal
+2020-06-18,41,M,Castanhal
+2020-05-25,42,M,Castanhal
+2020-03-20,46,M,Castanhal
+2020-05-14,46,M,Castanhal
+2020-05-10,47,M,Castanhal
+2020-05-05,51,M,Castanhal
+2020-04-23,52,M,Castanhal
+2020-06-20,29,M,Cumaru do Norte
+2020-06-14,37,M,Cumaru do Norte
+2020-06-06,39,M,Cumaru do Norte
+2020-06-10,40,M,Cumaru do Norte
+2020-06-03,34,M,Curionópolis
+2020-06-08,35,M,Curionópolis
+2020-06-10,37,M,Curionópolis
+2020-06-20,37,M,Curionópolis
+2020-06-16,44,M,Curionópolis
+2020-06-15,53,M,Curionópolis
+2020-06-18,56,M,Curionópolis
+2020-06-13,63,M,Curionópolis
+2020-06-20,13,M,Curralinho
+2020-06-14,38,M,Curralinho
+2020-05-29,64,M,Curralinho
+2020-06-08,13,M,Curuá
+2020-06-15,23,M,Curuá
+2020-06-15,50,M,Curuá
+2020-06-07,51,M,Curuá
+2020-06-05,24,M,Curuçá
+2020-04-29,32,M,Curuçá
+2020-04-25,42,M,Curuçá
+2020-05-26,56,M,Curuçá
+2020-05-30,21,M,Dom Eliseu
+2020-06-18,35,M,Dom Eliseu
+2020-06-16,40,M,Dom Eliseu
+2020-06-22,47,M,Dom Eliseu
+2020-06-15,63,M,Dom Eliseu
+2020-06-13,64,M,Dom Eliseu
+2020-06-21,21,M,Floresta do Araguaia
+2020-06-09,24,M,Garrafão do Norte
+2020-06-20,24,M,Garrafão do Norte
+2020-06-01,43,M,Garrafão do Norte
+2020-06-17,52,M,Garrafão do Norte
+2020-06-14,79,M,Garrafão do Norte
+2020-06-08,43,M,Goianésia do Pará
+2020-05-25,36,M,Gurupá
+2020-05-20,38,M,Gurupá
+2020-06-21,82,M,Igarapé-Açu
+2020-05-28,84,M,Inhangapi
+2020-06-24,17,M,Ipixuna do Pará
+2020-06-16,35,M,Ipixuna do Pará
+2020-06-16,61,M,Ipixuna do Pará
+2020-06-19,37,M,Irituia
+2020-06-20,42,M,Irituia
+2020-06-20,50,M,Irituia
+2020-06-13,1,M,Itaituba
+2020-06-15,16,M,Itaituba
+2020-06-15,21,M,Itaituba
+2020-06-02,26,M,Itaituba
+2020-06-10,29,M,Itaituba
+2020-06-15,30,M,Itaituba
+2020-06-03,32,M,Itaituba
+2020-06-14,34,M,Itaituba
+2020-06-07,35,M,Itaituba
+2020-06-15,35,M,Itaituba
+2020-06-10,37,M,Itaituba
+2020-06-17,40,M,Itaituba
+2020-06-10,42,M,Itaituba
+2020-06-20,44,M,Itaituba
+2020-06-01,46,M,Itaituba
+2020-06-14,49,M,Itaituba
+2020-06-12,50,M,Itaituba
+2020-06-01,51,M,Itaituba
+2020-06-09,51,M,Itaituba
+2020-06-17,53,M,Itaituba
+2020-06-18,54,M,Itaituba
+2020-06-12,60,M,Itaituba
+2020-06-15,62,M,Itaituba
+2020-06-15,63,M,Itaituba
+2020-06-11,64,M,Itaituba
+2020-06-15,64,M,Itaituba
+2020-06-16,67,M,Itaituba
+2020-06-19,0,M,Jacundá
+2020-06-15,1,M,Jacundá
+2020-06-23,2,M,Jacundá
+2020-06-20,7,M,Jacundá
+2020-06-19,8,M,Jacundá
+2020-06-16,10,M,Jacundá
+2020-06-08,15,M,Jacundá
+2020-06-10,15,M,Jacundá
+2020-06-16,17,M,Jacundá
+2020-06-11,22,M,Jacundá
+2020-06-14,23,M,Jacundá
+2020-06-20,27,M,Jacundá
+2020-06-20,27,M,Jacundá
+2020-06-17,38,M,Jacundá
+2020-06-16,40,M,Jacundá
+2020-06-09,44,M,Jacundá
+2020-06-12,44,M,Jacundá
+2020-06-16,44,M,Jacundá
+2020-06-10,53,M,Jacundá
+2020-06-15,57,M,Jacundá
+2020-06-20,62,M,Jacundá
+2020-06-09,16,M,Juruti
+2020-06-08,17,M,Juruti
+2020-06-17,22,M,Juruti
+2020-05-22,34,M,Juruti
+2020-06-08,37,M,Juruti
+2020-06-13,39,M,Juruti
+2020-06-07,42,M,Juruti
+2020-06-10,52,M,Juruti
+2020-06-06,61,M,Juruti
+2020-06-10,72,M,Juruti
+2020-06-02,83,M,Juruti
+2020-05-29,86,M,Juruti
+2020-06-02,1,M,Limoeiro do Ajuru
+2020-05-11,5,M,Limoeiro do Ajuru
+2020-05-10,10,M,Limoeiro do Ajuru
+2020-06-02,12,M,Limoeiro do Ajuru
+2020-05-10,13,M,Limoeiro do Ajuru
+2020-05-08,19,M,Limoeiro do Ajuru
+2020-05-22,20,M,Limoeiro do Ajuru
+2020-06-20,23,M,Limoeiro do Ajuru
+2020-05-17,27,M,Limoeiro do Ajuru
+2020-06-05,27,M,Limoeiro do Ajuru
+2020-05-25,28,M,Limoeiro do Ajuru
+2020-06-09,31,M,Limoeiro do Ajuru
+2020-05-09,32,M,Limoeiro do Ajuru
+2020-06-22,33,M,Limoeiro do Ajuru
+2020-05-10,34,M,Limoeiro do Ajuru
+2020-05-18,34,M,Limoeiro do Ajuru
+2020-06-08,39,M,Limoeiro do Ajuru
+2020-05-20,46,M,Limoeiro do Ajuru
+2020-06-01,49,M,Limoeiro do Ajuru
+2020-05-21,51,M,Limoeiro do Ajuru
+2020-05-19,53,M,Limoeiro do Ajuru
+2020-04-20,54,M,Limoeiro do Ajuru
+2020-05-25,54,M,Limoeiro do Ajuru
+2020-05-10,56,M,Limoeiro do Ajuru
+2020-05-20,56,M,Limoeiro do Ajuru
+2020-05-05,58,M,Limoeiro do Ajuru
+2020-05-18,64,M,Limoeiro do Ajuru
+2020-06-02,86,M,Limoeiro do Ajuru
+2020-05-23,6,M,Mãe do Rio
+2020-06-14,59,M,Magalhães Barata
+2020-05-30,0,M,Marabá
+2020-06-01,0,M,Marabá
+2020-06-09,0,M,Marabá
+2020-05-10,1,M,Marabá
+2020-06-06,5,M,Marabá
+2020-05-29,9,M,Marabá
+2020-05-09,11,M,Marabá
+2020-06-10,15,M,Marabá
+2020-06-14,17,M,Marabá
+2020-05-20,19,M,Marabá
+2020-06-14,19,M,Marabá
+2020-05-03,20,M,Marabá
+2020-06-14,22,M,Marabá
+2020-06-01,23,M,Marabá
+2020-05-25,24,M,Marabá
+2020-05-30,25,M,Marabá
+2020-06-13,25,M,Marabá
+2020-06-09,26,M,Marabá
+2020-06-11,26,M,Marabá
+2020-06-12,27,M,Marabá
+2020-05-30,28,M,Marabá
+2020-06-09,28,M,Marabá
+2020-05-01,29,M,Marabá
+2020-05-20,29,M,Marabá
+2020-05-11,30,M,Marabá
+2020-05-28,30,M,Marabá
+2020-06-01,31,M,Marabá
+2020-05-20,32,M,Marabá
+2020-05-30,32,M,Marabá
+2020-05-20,33,M,Marabá
+2020-05-27,33,M,Marabá
+2020-06-05,33,M,Marabá
+2020-06-09,33,M,Marabá
+2020-06-13,33,M,Marabá
+2020-06-02,34,M,Marabá
+2020-06-15,34,M,Marabá
+2020-05-27,35,M,Marabá
+2020-05-29,35,M,Marabá
+2020-06-10,36,M,Marabá
+2020-05-20,37,M,Marabá
+2020-05-25,37,M,Marabá
+2020-06-02,38,M,Marabá
+2020-05-25,40,M,Marabá
+2020-06-01,40,M,Marabá
+2020-05-19,41,M,Marabá
+2020-06-14,41,M,Marabá
+2020-06-08,43,M,Marabá
+2020-06-01,46,M,Marabá
+2020-06-02,46,M,Marabá
+2020-06-06,46,M,Marabá
+2020-06-01,47,M,Marabá
+2020-05-26,48,M,Marabá
+2020-05-09,52,M,Marabá
+2020-05-17,52,M,Marabá
+2020-05-29,52,M,Marabá
+2020-06-08,52,M,Marabá
+2020-05-28,57,M,Marabá
+2020-06-09,58,M,Marabá
+2020-06-01,59,M,Marabá
+2020-05-30,61,M,Marabá
+2020-06-01,73,M,Marabá
+2020-06-01,NA,M,Marabá
+2020-06-10,NA,M,Marabá
+2020-06-10,NA,M,Marabá
+2020-06-12,NA,M,Marabá
+2020-06-13,NA,M,Marabá
+2020-06-16,NA,M,Marabá
+2020-06-23,13,M,Marapanim
+2020-06-23,20,M,Marapanim
+2020-06-15,28,M,Marapanim
+2020-04-05,38,M,Marituba
+2020-04-27,44,M,Marituba
+2020-04-28,76,M,Marituba
+2020-06-19,30,M,Medicilândia
+2020-06-20,35,M,Medicilândia
+2020-06-10,38,M,Medicilândia
+2020-06-19,45,M,Medicilândia
+2020-06-22,49,M,Medicilândia
+2020-06-20,51,M,Medicilândia
+2020-06-21,79,M,Medicilândia
+2020-05-27,13,M,Moju
+2020-05-16,42,M,Moju
+2020-06-21,29,M,Mojuí dos Campos
+2020-06-21,38,M,Mojuí dos Campos
+2020-06-15,31,M,Nova Esperança do Piriá
+2020-05-20,21,M,Nova Ipixuna
+2020-06-20,55,M,Nova Ipixuna
+2020-06-20,69,M,Nova Ipixuna
+2020-06-17,74,M,Nova Ipixuna
+2020-06-10,75,M,Nova Ipixuna
+2020-06-22,36,M,Nova Timboteua
+2020-06-14,19,M,Novo Progresso
+2020-06-17,41,M,Novo Progresso
+2020-06-08,42,M,Novo Progresso
+2020-06-15,44,M,Novo Progresso
+2020-06-19,49,M,Novo Progresso
+2020-06-20,76,M,Novo Progresso
+2020-05-25,NA,M,Novo Repartimento
+2020-06-19,11,M,Óbidos
+2020-06-13,21,M,Óbidos
+2020-06-17,24,M,Óbidos
+2020-06-14,37,M,Óbidos
+2020-06-14,71,M,Óbidos
+2020-06-16,82,M,Óbidos
+2020-06-02,90,M,Óbidos
+2020-06-22,40,M,Oriximiná
+2020-06-22,43,M,Oriximiná
+2020-06-22,46,M,Oriximiná
+2020-06-22,47,M,Oriximiná
+2020-06-06,53,M,Oriximiná
+2020-06-23,13,M,Ourilândia do Norte
+2020-06-24,14,M,Ourilândia do Norte
+2020-06-11,16,M,Ourilândia do Norte
+2020-06-23,19,M,Ourilândia do Norte
+2020-06-23,23,M,Ourilândia do Norte
+2020-06-20,31,M,Ourilândia do Norte
+2020-06-19,34,M,Ourilândia do Norte
+2020-06-23,36,M,Ourilândia do Norte
+2020-06-20,37,M,Ourilândia do Norte
+2020-06-23,37,M,Ourilândia do Norte
+2020-06-20,39,M,Ourilândia do Norte
+2020-06-23,43,M,Ourilândia do Norte
+2020-06-22,53,M,Ourilândia do Norte
+2020-06-18,20,M,Pacajá
+2020-06-15,37,M,Pacajá
+2020-06-20,52,M,Pacajá
+2020-06-20,54,M,Pacajá
+2020-06-15,55,M,Pacajá
+2020-06-18,65,M,Palestina do Pará
+2020-06-15,74,M,Palestina do Pará
+2020-06-19,80,M,Palestina do Pará
+2020-06-16,4,M,Paragominas
+2020-06-12,16,M,Paragominas
+2020-06-18,16,M,Paragominas
+2020-06-24,20,M,Paragominas
+2020-06-22,23,M,Paragominas
+2020-05-06,45,M,Paragominas
+2020-05-23,45,M,Paragominas
+2020-06-01,66,M,Paragominas
+2020-06-21,68,M,Paragominas
+2020-05-21,0,M,Parauapebas
+2020-06-02,0,M,Parauapebas
+2020-06-06,0,M,Parauapebas
+2020-06-11,0,M,Parauapebas
+2020-06-23,19,M,Parauapebas
+2020-06-23,20,M,Parauapebas
+2020-06-02,22,M,Parauapebas
+2020-06-23,22,M,Parauapebas
+2020-06-01,23,M,Parauapebas
+2020-06-01,24,M,Parauapebas
+2020-06-02,24,M,Parauapebas
+2020-05-16,25,M,Parauapebas
+2020-06-04,25,M,Parauapebas
+2020-06-02,26,M,Parauapebas
+2020-06-10,26,M,Parauapebas
+2020-06-23,26,M,Parauapebas
+2020-06-02,28,M,Parauapebas
+2020-06-13,29,M,Parauapebas
+2020-05-05,30,M,Parauapebas
+2020-06-01,30,M,Parauapebas
+2020-03-15,32,M,Parauapebas
+2020-05-28,32,M,Parauapebas
+2020-06-12,32,M,Parauapebas
+2020-06-22,32,M,Parauapebas
+2020-06-23,32,M,Parauapebas
+2020-05-01,33,M,Parauapebas
+2020-06-21,33,M,Parauapebas
+2020-06-16,34,M,Parauapebas
+2020-06-22,34,M,Parauapebas
+2020-06-02,35,M,Parauapebas
+2020-06-03,35,M,Parauapebas
+2020-06-21,35,M,Parauapebas
+2020-06-23,36,M,Parauapebas
+2020-06-23,36,M,Parauapebas
+2020-06-23,37,M,Parauapebas
+2020-05-08,38,M,Parauapebas
+2020-05-22,38,M,Parauapebas
+2020-05-25,38,M,Parauapebas
+2020-06-02,38,M,Parauapebas
+2020-04-30,40,M,Parauapebas
+2020-06-22,40,M,Parauapebas
+2020-06-21,41,M,Parauapebas
+2020-06-03,43,M,Parauapebas
+2020-05-22,44,M,Parauapebas
+2020-06-03,45,M,Parauapebas
+2020-06-12,45,M,Parauapebas
+2020-04-04,46,M,Parauapebas
+2020-05-30,47,M,Parauapebas
+2020-06-02,47,M,Parauapebas
+2020-06-04,47,M,Parauapebas
+2020-06-21,48,M,Parauapebas
+2020-06-23,48,M,Parauapebas
+2020-05-21,49,M,Parauapebas
+2020-06-10,49,M,Parauapebas
+2020-06-23,49,M,Parauapebas
+2020-05-31,52,M,Parauapebas
+2020-06-02,52,M,Parauapebas
+2020-04-22,57,M,Parauapebas
+2020-06-22,57,M,Parauapebas
+2020-05-20,58,M,Parauapebas
+2020-06-11,58,M,Parauapebas
+2020-06-21,61,M,Parauapebas
+2020-06-23,62,M,Parauapebas
+2020-06-07,NA,M,Parauapebas
+2020-06-07,NA,M,Parauapebas
+2020-06-17,NA,M,Parauapebas
+2020-06-21,62,M,Piçarra
+2020-06-11,2,M,Placas
+2020-06-09,20,M,Placas
+2020-06-17,0,M,Portel
+2020-06-22,3,M,Portel
+2020-06-04,16,M,Portel
+2020-06-04,18,M,Portel
+2020-05-20,19,M,Portel
+2020-05-20,20,M,Portel
+2020-06-18,24,M,Portel
+2020-06-12,25,M,Portel
+2020-06-07,33,M,Portel
+2020-06-12,34,M,Portel
+2020-05-05,35,M,Portel
+2020-06-10,36,M,Portel
+2020-06-10,38,M,Portel
+2020-06-16,41,M,Portel
+2020-05-10,55,M,Portel
+2020-06-20,61,M,Portel
+2020-06-19,67,M,Portel
+2020-05-21,93,M,Portel
+2020-06-17,0,M,Prainha
+2020-06-17,32,M,Prainha
+2020-06-14,36,M,Prainha
+2020-06-18,38,M,Prainha
+2020-06-08,41,M,Primavera
+2020-06-22,21,M,Redenção
+2020-06-20,22,M,Redenção
+2020-06-21,24,M,Redenção
+2020-06-22,25,M,Redenção
+2020-06-24,32,M,Redenção
+2020-06-15,38,M,Redenção
+2020-06-12,39,M,Redenção
+2020-06-23,43,M,Redenção
+2020-06-16,45,M,Redenção
+2020-06-22,48,M,Redenção
+2020-06-22,48,M,Redenção
+2020-06-23,48,M,Redenção
+2020-06-22,50,M,Redenção
+2020-06-20,51,M,Redenção
+2020-06-15,52,M,Redenção
+2020-06-15,52,M,Redenção
+2020-06-20,58,M,Redenção
+2020-06-15,63,M,Redenção
+2020-06-20,65,M,Redenção
+2020-06-16,27,M,Rio Maria
+2020-06-05,31,M,Rio Maria
+2020-06-19,42,M,Rio Maria
+2020-06-22,46,M,Rio Maria
+2020-06-10,39,M,Rondon do Pará
+2020-06-18,73,M,Rondon do Pará
+2020-06-06,NA,M,Rondon do Pará
+2020-06-12,0,M,Rurópolis
+2020-06-14,31,M,Rurópolis
+2020-06-14,39,M,Rurópolis
+2020-06-15,39,M,Rurópolis
+2020-06-14,51,M,Rurópolis
+2020-06-12,56,M,Rurópolis
+2020-06-19,70,M,Rurópolis
+2020-06-23,43,M,Salinópolis
+2020-06-22,23,M,Salvaterra
+2020-06-10,29,M,Salvaterra
+2020-06-20,37,M,Salvaterra
+2020-06-17,69,M,Salvaterra
+2020-05-20,34,M,Santa Izabel do Pará
+2020-05-18,38,M,Santa Izabel do Pará
+2020-06-15,0,M,Santa Maria do Pará
+2020-06-17,33,M,Santana do Araguaia
+2020-06-19,38,M,Santana do Araguaia
+2020-06-01,9,M,Santarém
+2020-06-07,16,M,Santarém
+2020-06-12,21,M,Santarém
+2020-06-11,31,M,Santarém
+2020-06-08,32,M,Santarém
+2020-06-23,32,M,Santarém
+2020-06-24,32,M,Santarém
+2020-06-09,37,M,Santarém
+2020-06-18,40,M,Santarém
+2020-06-23,40,M,Santarém
+2020-06-18,45,M,Santarém
+2020-06-22,47,M,Santarém
+2020-04-02,49,M,Santarém
+2020-06-24,50,M,Santarém
+2020-06-15,54,M,Santarém
+2020-06-18,54,M,Santarém
+2020-06-24,62,M,Santarém
+2020-06-18,71,M,Santarém
+2020-06-15,72,M,Santarém
+2020-06-23,73,M,Santarém
+2020-06-23,117,M,Santarém
+2020-06-08,NA,M,Santarém
+2020-06-08,NA,M,Santarém
+2020-06-19,NA,M,Santarém
+2020-06-10,25,M,Santarém Novo
+2020-06-10,43,M,Santarém Novo
+2020-06-12,70,M,Santarém Novo
+2020-06-07,73,M,Santarém Novo
+2020-05-14,41,M,São Caetano de Odivelas
+2020-04-28,56,M,São Caetano de Odivelas
+2020-06-01,56,M,São Caetano de Odivelas
+2020-05-05,67,M,São Caetano de Odivelas
+2020-04-14,72,M,São Caetano de Odivelas
+2020-05-11,74,M,São Caetano de Odivelas
+2020-06-05,89,M,São Caetano de Odivelas
+2020-06-13,3,M,São Domingos do Araguaia
+2020-06-03,4,M,São Domingos do Araguaia
+2020-06-03,8,M,São Domingos do Araguaia
+2020-06-02,9,M,São Domingos do Araguaia
+2020-06-03,9,M,São Domingos do Araguaia
+2020-06-02,12,M,São Domingos do Araguaia
+2020-06-01,16,M,São Domingos do Araguaia
+2020-06-18,17,M,São Domingos do Araguaia
+2020-06-03,19,M,São Domingos do Araguaia
+2020-06-02,25,M,São Domingos do Araguaia
+2020-06-04,25,M,São Domingos do Araguaia
+2020-06-04,29,M,São Domingos do Araguaia
+2020-06-03,32,M,São Domingos do Araguaia
+2020-06-01,35,M,São Domingos do Araguaia
+2020-06-04,49,M,São Domingos do Araguaia
+2020-06-17,58,M,São Domingos do Araguaia
+2020-06-18,59,M,São Domingos do Araguaia
+2020-06-15,62,M,São Domingos do Araguaia
+2020-06-10,67,M,São Domingos do Araguaia
+2020-06-03,68,M,São Domingos do Araguaia
+2020-06-01,69,M,São Domingos do Araguaia
+2020-06-03,74,M,São Domingos do Araguaia
+2020-06-13,82,M,São Domingos do Araguaia
+2020-06-14,9,M,São Félix do Xingu
+2020-06-11,11,M,São Félix do Xingu
+2020-06-03,14,M,São Félix do Xingu
+2020-06-02,29,M,São Félix do Xingu
+2020-06-01,36,M,São Félix do Xingu
+2020-06-03,43,M,São Félix do Xingu
+2020-06-15,53,M,São Félix do Xingu
+2020-05-13,62,M,São Félix do Xingu
+2020-06-07,70,M,São Félix do Xingu
+2020-06-07,72,M,São Félix do Xingu
+2020-06-10,83,M,São Félix do Xingu
+2020-06-02,22,M,São Geraldo do Araguaia
+2020-06-06,21,M,São Miguel do Guamá
+2020-06-22,32,M,São Miguel do Guamá
+2020-04-08,33,M,São Miguel do Guamá
+2020-06-11,33,M,São Miguel do Guamá
+2020-04-14,40,M,São Miguel do Guamá
+2020-04-27,41,M,São Miguel do Guamá
+2020-06-09,63,M,São Miguel do Guamá
+2020-06-16,63,M,São Miguel do Guamá
+2020-06-01,67,M,São Miguel do Guamá
+2020-06-19,72,M,São Miguel do Guamá
+2020-06-24,9,M,São Sebastião da Boa Vista
+2020-06-15,42,M,São Sebastião da Boa Vista
+2020-06-14,59,M,Senador José Porfírio
+2020-05-10,NA,M,Senador José Porfírio
+2020-06-16,18,M,Soure
+2020-06-16,36,M,Soure
+2020-06-10,41,M,Soure
+2020-06-18,53,M,Soure
+2020-06-18,55,M,Soure
+2020-06-14,56,M,Soure
+2020-06-05,62,M,Soure
+2020-06-03,68,M,Soure
+2020-06-02,73,M,Soure
+2020-06-16,82,M,Soure
+2020-06-18,49,M,Tailândia
+2020-06-18,47,M,Terra Alta
+2020-05-25,52,M,Terra Alta
+2020-06-03,58,M,Terra Alta
+2020-05-30,62,M,Terra Alta
+2020-05-30,23,M,Tomé-Açu
+2020-05-26,24,M,Tomé-Açu
+2020-05-30,24,M,Tomé-Açu
+2020-06-18,40,M,Tomé-Açu
+2020-05-15,41,M,Tomé-Açu
+2020-06-05,46,M,Tomé-Açu
+2020-05-05,48,M,Tomé-Açu
+2020-05-18,71,M,Tracuateua
+2020-06-03,23,M,Tucuruí
+2020-06-03,23,M,Tucuruí
+2020-06-12,29,M,Tucuruí
+2020-05-17,32,M,Tucuruí
+2020-06-18,32,M,Tucuruí
+2020-06-13,37,M,Tucuruí
+2020-06-17,38,M,Tucuruí
+2020-05-20,46,M,Tucuruí
+2020-06-13,46,M,Tucuruí
+2020-06-16,63,M,Tucuruí
+2020-06-20,33,M,Ulianópolis
+2020-06-19,34,M,Ulianópolis
+2020-06-18,45,M,Ulianópolis
+2020-06-15,63,M,Ulianópolis
+2020-06-17,76,M,Ulianópolis
+2020-06-01,21,M,Uruará
+2020-06-20,23,M,Uruará
+2020-05-20,32,M,Uruará
+2020-06-15,33,M,Uruará
+2020-06-13,39,M,Uruará
+2020-06-17,39,M,Uruará
+2020-06-17,41,M,Uruará
+2020-06-18,43,M,Uruará
+2020-06-14,51,M,Uruará
+2020-06-16,70,M,Uruará
+2020-06-07,16,M,Vigia
+2020-06-16,16,M,Vigia
+2020-04-28,17,M,Vigia
+2020-05-15,19,M,Vigia
+2020-05-25,28,M,Vigia
+2020-05-15,33,M,Vigia
+2020-06-10,36,M,Vigia
+2020-05-12,37,M,Vigia
+2020-03-27,40,M,Vigia
+2020-05-28,41,M,Vigia
+2020-05-15,43,M,Vigia
+2020-05-22,44,M,Vigia
+2020-06-18,45,M,Vigia
+2020-04-13,46,M,Vigia
+2020-05-15,48,M,Vigia
+2020-05-31,48,M,Vigia
+2020-05-02,49,M,Vigia
+2020-04-21,53,M,Vigia
+2020-06-09,53,M,Vigia
+2020-06-09,55,M,Vigia
+2020-06-18,56,M,Vigia
+2020-04-24,57,M,Vigia
+2020-06-01,57,M,Vigia
+2020-05-10,61,M,Vigia
+2020-06-10,61,M,Vigia
+2020-06-18,65,M,Vigia
+2020-06-05,68,M,Vigia
+2020-06-08,78,M,Vigia
+2020-05-29,2,M,Viseu
+2020-05-27,17,M,Viseu
+2020-05-20,25,M,Viseu
+2020-06-20,28,M,Viseu
+2020-06-01,49,M,Viseu
+2020-05-30,58,M,Viseu
+2020-06-12,58,M,Viseu
+2020-06-08,61,M,Viseu
+2020-06-10,62,M,Viseu
+2020-06-15,65,M,Viseu
+2020-05-30,69,M,Viseu
+2020-05-15,73,M,Viseu
+2020-06-05,83,M,Viseu
+2020-06-22,84,M,Viseu
+2020-06-08,3,M,Vitória do Xingu
+2020-06-10,14,M,Vitória do Xingu
+2020-06-06,18,M,Vitória do Xingu
+2020-06-05,26,M,Vitória do Xingu
+2020-05-24,31,M,Vitória do Xingu
+2020-06-11,37,M,Vitória do Xingu
+2020-06-08,50,M,Vitória do Xingu
+2020-06-03,67,M,Vitória do Xingu
+2020-06-05,71,M,Vitória do Xingu
+2020-06-15,73,M,Vitória do Xingu
+2020-06-16,0,M,Xinguara
+2020-06-05,20,M,Xinguara
+2020-06-14,22,M,Xinguara
+2020-06-22,24,M,Xinguara
+2020-06-07,25,M,Xinguara
+2020-06-06,27,M,Xinguara
+2020-06-01,30,M,Xinguara
+2020-06-12,30,M,Xinguara
+2020-06-08,31,M,Xinguara
+2020-06-04,34,M,Xinguara
+2020-05-20,37,M,Xinguara
+2020-06-05,37,M,Xinguara
+2020-06-11,37,M,Xinguara
+2020-06-02,56,M,Xinguara
+2020-06-10,61,M,Xinguara
+2020-06-08,63,M,Xinguara
+2020-06-18,72,M,Xinguara
+2020-06-15,38,F,Abaetetuba
+2020-04-25,42,F,Abaetetuba
+2020-06-18,41,F,Abel Figueiredo
+2020-06-17,55,F,Abel Figueiredo
+2020-06-23,83,F,Abel Figueiredo
+2020-05-21,35,F,Acará
+2020-05-20,48,F,Acará
+2020-04-01,71,F,Acará
+2020-06-13,17,F,Afuá
+2020-06-18,20,F,Afuá
+2020-06-19,21,F,Afuá
+2020-06-18,23,F,Afuá
+2020-06-17,33,F,Afuá
+2020-06-19,34,F,Afuá
+2020-06-17,46,F,Afuá
+2020-06-16,48,F,Afuá
+2020-06-20,52,F,Afuá
+2020-06-19,58,F,Afuá
+2020-06-20,59,F,Afuá
+2020-06-20,60,F,Afuá
+2020-06-16,66,F,Afuá
+2020-06-17,79,F,Afuá
+2020-06-15,33,F,Almeirim
+2020-06-05,53,F,Almeirim
+2020-06-09,64,F,Almeirim
+2020-06-15,8,F,Altamira
+2020-04-29,9,F,Altamira
+2020-06-14,9,F,Altamira
+2020-06-21,17,F,Altamira
+2020-06-04,18,F,Altamira
+2020-06-20,19,F,Altamira
+2020-06-17,22,F,Altamira
+2020-06-23,23,F,Altamira
+2020-06-08,24,F,Altamira
+2020-06-19,26,F,Altamira
+2020-06-11,27,F,Altamira
+2020-06-17,27,F,Altamira
+2020-06-02,28,F,Altamira
+2020-06-14,30,F,Altamira
+2020-06-10,31,F,Altamira
+2020-06-20,31,F,Altamira
+2020-06-06,38,F,Altamira
+2020-06-19,40,F,Altamira
+2020-06-21,40,F,Altamira
+2020-06-04,42,F,Altamira
+2020-05-25,43,F,Altamira
+2020-06-17,44,F,Altamira
+2020-06-17,44,F,Altamira
+2020-06-16,46,F,Altamira
+2020-05-24,50,F,Altamira
+2020-06-19,53,F,Altamira
+2020-06-13,56,F,Altamira
+2020-06-12,64,F,Altamira
+2020-06-15,72,F,Altamira
+2020-04-28,0,F,Ananindeua
+2020-05-28,0,F,Ananindeua
+2020-06-13,0,F,Ananindeua
+2020-05-11,7,F,Ananindeua
+2020-04-11,10,F,Ananindeua
+2020-04-28,13,F,Ananindeua
+2020-05-19,24,F,Ananindeua
+2020-06-11,25,F,Ananindeua
+2020-06-11,28,F,Ananindeua
+2020-06-21,28,F,Ananindeua
+2020-05-03,30,F,Ananindeua
+2020-06-11,30,F,Ananindeua
+2020-04-18,32,F,Ananindeua
+2020-05-28,32,F,Ananindeua
+2020-05-28,33,F,Ananindeua
+2020-06-02,33,F,Ananindeua
+2020-04-24,35,F,Ananindeua
+2020-05-28,35,F,Ananindeua
+2020-05-05,37,F,Ananindeua
+2020-05-09,37,F,Ananindeua
+2020-05-20,39,F,Ananindeua
+2020-06-02,39,F,Ananindeua
+2020-05-23,41,F,Ananindeua
+2020-05-22,42,F,Ananindeua
+2020-04-10,43,F,Ananindeua
+2020-05-12,43,F,Ananindeua
+2020-04-16,44,F,Ananindeua
+2020-05-22,44,F,Ananindeua
+2020-05-27,44,F,Ananindeua
+2020-05-27,44,F,Ananindeua
+2020-05-23,45,F,Ananindeua
+2020-04-14,46,F,Ananindeua
+2020-05-20,46,F,Ananindeua
+2020-06-22,46,F,Ananindeua
+2020-05-15,47,F,Ananindeua
+2020-05-20,47,F,Ananindeua
+2020-05-28,48,F,Ananindeua
+2020-06-02,48,F,Ananindeua
+2020-04-10,49,F,Ananindeua
+2020-05-03,51,F,Ananindeua
+2020-06-16,52,F,Ananindeua
+2020-05-05,55,F,Ananindeua
+2020-06-14,55,F,Ananindeua
+2020-05-25,56,F,Ananindeua
+2020-06-17,57,F,Ananindeua
+2020-05-30,58,F,Ananindeua
+2020-06-11,60,F,Ananindeua
+2020-04-17,64,F,Ananindeua
+2020-05-17,64,F,Ananindeua
+2020-06-10,65,F,Ananindeua
+2020-05-13,68,F,Ananindeua
+2020-06-09,68,F,Ananindeua
+2020-06-16,69,F,Ananindeua
+2020-05-05,73,F,Ananindeua
+2020-05-22,39,F,Anapu
+2020-05-15,9,F,Augusto Corrêa
+2020-06-02,20,F,Augusto Corrêa
+2020-06-14,24,F,Augusto Corrêa
+2020-05-15,26,F,Augusto Corrêa
+2020-06-20,29,F,Augusto Corrêa
+2020-06-21,32,F,Augusto Corrêa
+2020-05-15,33,F,Augusto Corrêa
+2020-06-01,35,F,Augusto Corrêa
+2020-06-10,37,F,Augusto Corrêa
+2020-05-09,40,F,Augusto Corrêa
+2020-06-10,44,F,Augusto Corrêa
+2020-06-10,48,F,Augusto Corrêa
+2020-05-29,49,F,Augusto Corrêa
+2020-05-16,54,F,Augusto Corrêa
+2020-05-15,60,F,Augusto Corrêa
+2020-06-10,68,F,Augusto Corrêa
+2020-06-09,70,F,Augusto Corrêa
+2020-06-01,73,F,Augusto Corrêa
+2020-05-16,75,F,Augusto Corrêa
+2020-06-20,51,F,Aurora do Pará
+2020-05-22,11,F,Aveiro
+2020-06-21,42,F,Aveiro
+2020-06-16,62,F,Aveiro
+2020-06-18,68,F,Aveiro
+2020-06-18,28,F,Baião
+2020-06-20,38,F,Baião
+2020-06-10,42,F,Baião
+2020-06-16,22,F,Barcarena
+2020-06-16,30,F,Barcarena
+2020-06-16,40,F,Barcarena
+2020-06-16,41,F,Barcarena
+2020-06-22,42,F,Barcarena
+2020-05-12,48,F,Barcarena
+2020-06-16,54,F,Barcarena
+2020-06-08,55,F,Barcarena
+2020-05-16,64,F,Barcarena
+2020-06-13,0,F,Belém
+2020-04-13,14,F,Belém
+2020-05-15,18,F,Belém
+2020-04-22,19,F,Belém
+2020-04-25,19,F,Belém
+2020-05-03,22,F,Belém
+2020-04-28,23,F,Belém
+2020-04-13,25,F,Belém
+2020-05-31,25,F,Belém
+2020-05-19,29,F,Belém
+2020-04-03,30,F,Belém
+2020-06-05,30,F,Belém
+2020-04-15,31,F,Belém
+2020-04-17,33,F,Belém
+2020-04-27,35,F,Belém
+2020-06-16,38,F,Belém
+2020-04-30,39,F,Belém
+2020-04-10,40,F,Belém
+2020-05-01,41,F,Belém
+2020-06-20,41,F,Belém
+2020-05-13,43,F,Belém
+2020-05-13,43,F,Belém
+2020-05-20,43,F,Belém
+2020-05-24,43,F,Belém
+2020-05-25,43,F,Belém
+2020-04-07,44,F,Belém
+2020-04-27,44,F,Belém
+2020-04-15,45,F,Belém
+2020-06-21,45,F,Belém
+2020-04-14,47,F,Belém
+2020-05-27,48,F,Belém
+2020-03-26,50,F,Belém
+2020-04-20,50,F,Belém
+2020-04-19,51,F,Belém
+2020-04-05,52,F,Belém
+2020-04-15,52,F,Belém
+2020-04-28,52,F,Belém
+2020-06-14,52,F,Belém
+2020-05-20,55,F,Belém
+2020-05-25,55,F,Belém
+2020-05-01,56,F,Belém
+2020-04-27,57,F,Belém
+2020-05-08,57,F,Belém
+2020-06-22,57,F,Belém
+2020-06-23,57,F,Belém
+2020-05-12,59,F,Belém
+2020-04-30,60,F,Belém
+2020-06-20,65,F,Belém
+2020-03-23,66,F,Belém
+2020-06-20,66,F,Belém
+2020-04-12,71,F,Belém
+2020-04-16,71,F,Belém
+2020-04-02,73,F,Belém
+2020-04-11,75,F,Belém
+2020-05-15,77,F,Belém
+2020-06-18,78,F,Belém
+2020-06-18,80,F,Belém
+2020-06-15,83,F,Belém
+2020-04-19,85,F,Belém
+2020-03-02,90,F,Belém
+2020-04-19,91,F,Belém
+2020-05-01,7,F,Belterra
+2020-06-03,11,F,Belterra
+2020-05-20,26,F,Belterra
+2020-06-05,26,F,Belterra
+2020-05-26,30,F,Belterra
+2020-05-29,30,F,Belterra
+2020-05-23,31,F,Belterra
+2020-03-30,42,F,Belterra
+2020-05-26,42,F,Belterra
+2020-06-09,43,F,Belterra
+2020-06-10,43,F,Belterra
+2020-05-23,47,F,Belterra
+2020-06-03,51,F,Belterra
+2020-05-25,62,F,Belterra
+2020-05-17,64,F,Belterra
+2020-05-25,64,F,Belterra
+2020-05-24,71,F,Belterra
+2020-06-21,8,F,Benevides
+2020-05-10,23,F,Benevides
+2020-05-08,36,F,Benevides
+2020-04-15,38,F,Benevides
+2020-05-05,39,F,Benevides
+2020-05-02,40,F,Benevides
+2020-06-08,40,F,Benevides
+2020-03-23,41,F,Benevides
+2020-06-20,52,F,Benevides
+2020-05-08,60,F,Benevides
+2020-06-21,17,F,Bom Jesus do Tocantins
+2020-06-20,20,F,Bom Jesus do Tocantins
+2020-06-19,42,F,Bom Jesus do Tocantins
+2020-06-21,48,F,Bom Jesus do Tocantins
+2020-06-19,56,F,Bom Jesus do Tocantins
+2020-06-16,17,F,Bonito
+2020-06-16,21,F,Bonito
+2020-06-16,57,F,Bonito
+2020-06-12,12,F,Bragança
+2020-06-10,19,F,Bragança
+2020-06-13,27,F,Bragança
+2020-06-15,29,F,Bragança
+2020-06-12,32,F,Bragança
+2020-06-05,38,F,Bragança
+2020-06-19,40,F,Bragança
+2020-06-15,54,F,Bragança
+2020-06-05,60,F,Bragança
+2020-06-10,61,F,Bragança
+2020-06-16,20,F,Brasil Novo
+2020-06-19,23,F,Brasil Novo
+2020-05-19,25,F,Brasil Novo
+2020-06-18,30,F,Brasil Novo
+2020-06-18,31,F,Brasil Novo
+2020-06-22,50,F,Brasil Novo
+2020-06-16,68,F,Brasil Novo
+2020-06-24,11,F,Brejo Grande do Araguaia
+2020-06-13,14,F,Brejo Grande do Araguaia
+2020-06-17,27,F,Brejo Grande do Araguaia
+2020-06-15,34,F,Brejo Grande do Araguaia
+2020-06-13,36,F,Brejo Grande do Araguaia
+2020-06-16,38,F,Brejo Grande do Araguaia
+2020-06-13,49,F,Brejo Grande do Araguaia
+2020-06-12,28,F,Breu Branco
+2020-06-19,43,F,Breu Branco
+2020-06-22,64,F,Breu Branco
+2020-04-23,43,F,Breves
+2020-04-20,51,F,Breves
+2020-05-24,2,F,Bujaru
+2020-06-17,32,F,Bujaru
+2020-06-08,39,F,Bujaru
+2020-06-08,44,F,Bujaru
+2020-06-15,61,F,Bujaru
+2020-05-23,96,F,Bujaru
+2020-05-18,12,F,Cachoeira do Arari
+2020-05-22,15,F,Cachoeira do Arari
+2020-05-29,16,F,Cachoeira do Arari
+2020-06-13,16,F,Cachoeira do Arari
+2020-05-10,17,F,Cachoeira do Arari
+2020-06-01,17,F,Cachoeira do Arari
+2020-05-12,19,F,Cachoeira do Arari
+2020-05-18,19,F,Cachoeira do Arari
+2020-06-01,19,F,Cachoeira do Arari
+2020-06-01,22,F,Cachoeira do Arari
+2020-06-15,24,F,Cachoeira do Arari
+2020-05-15,28,F,Cachoeira do Arari
+2020-05-28,30,F,Cachoeira do Arari
+2020-05-21,32,F,Cachoeira do Arari
+2020-05-24,32,F,Cachoeira do Arari
+2020-05-28,35,F,Cachoeira do Arari
+2020-05-20,36,F,Cachoeira do Arari
+2020-05-20,37,F,Cachoeira do Arari
+2020-05-20,37,F,Cachoeira do Arari
+2020-05-23,40,F,Cachoeira do Arari
+2020-04-28,41,F,Cachoeira do Arari
+2020-05-25,41,F,Cachoeira do Arari
+2020-06-15,42,F,Cachoeira do Arari
+2020-06-15,50,F,Cachoeira do Arari
+2020-06-01,52,F,Cachoeira do Arari
+2020-05-20,54,F,Cachoeira do Arari
+2020-06-15,55,F,Cachoeira do Arari
+2020-05-27,61,F,Cachoeira do Arari
+2020-06-16,17,F,Cachoeira do Piriá
+2020-06-15,33,F,Cachoeira do Piriá
+2020-06-17,66,F,Cachoeira do Piriá
+2020-06-08,17,F,Cametá
+2020-05-15,29,F,Cametá
+2020-05-05,30,F,Cametá
+2020-06-01,31,F,Cametá
+2020-06-05,34,F,Cametá
+2020-06-16,34,F,Cametá
+2020-05-01,35,F,Cametá
+2020-06-18,35,F,Cametá
+2020-06-23,35,F,Cametá
+2020-06-18,36,F,Cametá
+2020-06-22,38,F,Cametá
+2020-06-11,40,F,Cametá
+2020-06-15,41,F,Cametá
+2020-06-19,51,F,Cametá
+2020-06-13,71,F,Cametá
+2020-06-17,71,F,Cametá
+2020-06-16,27,F,Canaã dos Carajás
+2020-06-14,32,F,Canaã dos Carajás
+2020-06-12,33,F,Canaã dos Carajás
+2020-06-12,40,F,Canaã dos Carajás
+2020-05-30,42,F,Canaã dos Carajás
+2020-04-30,50,F,Canaã dos Carajás
+2020-06-14,53,F,Canaã dos Carajás
+2020-06-05,86,F,Canaã dos Carajás
+2020-06-12,19,F,Capanema
+2020-04-15,34,F,Capanema
+2020-06-12,35,F,Capanema
+2020-06-21,49,F,Capanema
+2020-06-05,0,F,Castanhal
+2020-05-10,13,F,Castanhal
+2020-04-17,19,F,Castanhal
+2020-03-12,24,F,Castanhal
+2020-05-06,26,F,Castanhal
+2020-05-09,28,F,Castanhal
+2020-06-02,29,F,Castanhal
+2020-06-07,29,F,Castanhal
+2020-04-25,30,F,Castanhal
+2020-04-23,36,F,Castanhal
+2020-06-22,37,F,Castanhal
+2020-04-12,38,F,Castanhal
+2020-04-24,40,F,Castanhal
+2020-04-28,40,F,Castanhal
+2020-05-11,40,F,Castanhal
+2020-04-15,41,F,Castanhal
+2020-05-05,41,F,Castanhal
+2020-04-12,42,F,Castanhal
+2020-04-23,42,F,Castanhal
+2020-05-28,42,F,Castanhal
+2020-04-24,44,F,Castanhal
+2020-06-08,45,F,Castanhal
+2020-05-08,46,F,Castanhal
+2020-05-24,46,F,Castanhal
+2020-04-28,49,F,Castanhal
+2020-05-08,49,F,Castanhal
+2020-04-11,50,F,Castanhal
+2020-04-06,52,F,Castanhal
+2020-05-20,54,F,Castanhal
+2020-06-05,55,F,Castanhal
+2020-05-20,56,F,Castanhal
+2020-06-07,70,F,Castanhal
+2020-05-15,81,F,Castanhal
+2020-06-19,33,F,Cumaru do Norte
+2020-06-10,37,F,Cumaru do Norte
+2020-06-10,63,F,Cumaru do Norte
+2020-06-20,53,F,Curionópolis
+2020-06-24,16,F,Curralinho
+2020-06-10,27,F,Curralinho
+2020-06-13,28,F,Curralinho
+2020-06-03,30,F,Curralinho
+2020-06-20,33,F,Curralinho
+2020-06-10,46,F,Curralinho
+2020-06-20,48,F,Curralinho
+2020-06-19,73,F,Curralinho
+2020-06-12,4,F,Curuá
+2020-06-15,28,F,Curuá
+2020-06-18,29,F,Curuá
+2020-06-04,42,F,Curuá
+2020-05-17,2,F,Curuçá
+2020-05-05,42,F,Curuçá
+2020-05-25,47,F,Curuçá
+2020-05-15,68,F,Curuçá
+2020-06-20,2,F,Dom Eliseu
+2020-05-29,27,F,Dom Eliseu
+2020-06-01,27,F,Dom Eliseu
+2020-06-22,53,F,Dom Eliseu
+2020-06-20,0,F,Floresta do Araguaia
+2020-06-21,60,F,Floresta do Araguaia
+2020-06-17,0,F,Garrafão do Norte
+2020-06-09,20,F,Garrafão do Norte
+2020-06-20,22,F,Garrafão do Norte
+2020-06-17,26,F,Garrafão do Norte
+2020-06-01,33,F,Garrafão do Norte
+2020-06-19,42,F,Garrafão do Norte
+2020-06-17,44,F,Garrafão do Norte
+2020-06-15,73,F,Garrafão do Norte
+2020-05-25,39,F,Gurupá
+2020-06-08,84,F,Gurupá
+2020-05-05,52,F,Inhangapi
+2020-05-10,53,F,Inhangapi
+2020-06-20,2,F,Ipixuna do Pará
+2020-06-18,21,F,Ipixuna do Pará
+2020-06-16,41,F,Ipixuna do Pará
+2020-06-18,63,F,Ipixuna do Pará
+2020-06-24,6,F,Irituia
+2020-06-18,13,F,Irituia
+2020-06-23,16,F,Irituia
+2020-06-24,18,F,Irituia
+2020-06-22,23,F,Irituia
+2020-06-20,25,F,Irituia
+2020-06-23,29,F,Irituia
+2020-06-21,35,F,Irituia
+2020-06-22,37,F,Irituia
+2020-06-24,38,F,Irituia
+2020-06-02,0,F,Itaituba
+2020-06-13,0,F,Itaituba
+2020-06-10,11,F,Itaituba
+2020-06-10,21,F,Itaituba
+2020-06-18,21,F,Itaituba
+2020-06-10,24,F,Itaituba
+2020-06-02,25,F,Itaituba
+2020-06-01,26,F,Itaituba
+2020-06-08,28,F,Itaituba
+2020-06-10,28,F,Itaituba
+2020-06-18,28,F,Itaituba
+2020-06-14,29,F,Itaituba
+2020-06-17,29,F,Itaituba
+2020-05-29,30,F,Itaituba
+2020-06-11,30,F,Itaituba
+2020-05-28,31,F,Itaituba
+2020-06-17,31,F,Itaituba
+2020-05-27,33,F,Itaituba
+2020-06-15,33,F,Itaituba
+2020-06-10,34,F,Itaituba
+2020-06-11,35,F,Itaituba
+2020-06-16,35,F,Itaituba
+2020-06-03,36,F,Itaituba
+2020-06-12,38,F,Itaituba
+2020-06-17,38,F,Itaituba
+2020-06-08,40,F,Itaituba
+2020-06-09,41,F,Itaituba
+2020-06-15,41,F,Itaituba
+2020-06-10,42,F,Itaituba
+2020-06-15,46,F,Itaituba
+2020-06-11,48,F,Itaituba
+2020-06-08,51,F,Itaituba
+2020-06-08,53,F,Itaituba
+2020-06-09,53,F,Itaituba
+2020-06-16,53,F,Itaituba
+2020-06-02,55,F,Itaituba
+2020-06-18,57,F,Itaituba
+2020-06-05,63,F,Itaituba
+2020-06-15,63,F,Itaituba
+2020-06-12,65,F,Itaituba
+2020-06-13,65,F,Itaituba
+2020-06-17,67,F,Itaituba
+2020-06-14,70,F,Itaituba
+2020-06-17,0,F,Jacundá
+2020-06-18,0,F,Jacundá
+2020-06-19,0,F,Jacundá
+2020-06-14,1,F,Jacundá
+2020-06-18,1,F,Jacundá
+2020-06-21,5,F,Jacundá
+2020-06-18,7,F,Jacundá
+2020-06-23,8,F,Jacundá
+2020-06-23,16,F,Jacundá
+2020-06-12,18,F,Jacundá
+2020-05-10,24,F,Jacundá
+2020-06-14,24,F,Jacundá
+2020-06-16,24,F,Jacundá
+2020-04-17,25,F,Jacundá
+2020-06-21,25,F,Jacundá
+2020-06-13,26,F,Jacundá
+2020-06-18,32,F,Jacundá
+2020-06-19,33,F,Jacundá
+2020-06-19,33,F,Jacundá
+2020-05-20,35,F,Jacundá
+2020-06-11,40,F,Jacundá
+2020-06-18,45,F,Jacundá
+2020-06-10,47,F,Jacundá
+2020-06-14,49,F,Jacundá
+2020-06-20,50,F,Jacundá
+2020-06-17,58,F,Jacundá
+2020-06-17,66,F,Jacundá
+2020-06-06,NA,F,Jacundá
+2020-05-11,18,F,Juruti
+2020-05-12,21,F,Juruti
+2020-06-12,29,F,Juruti
+2020-05-19,30,F,Juruti
+2020-05-07,31,F,Juruti
+2020-06-09,37,F,Juruti
+2020-05-25,51,F,Juruti
+2020-06-08,51,F,Juruti
+2020-06-08,53,F,Juruti
+2020-06-09,86,F,Juruti
+2020-06-02,0,F,Limoeiro do Ajuru
+2020-05-21,3,F,Limoeiro do Ajuru
+2020-06-19,10,F,Limoeiro do Ajuru
+2020-05-10,11,F,Limoeiro do Ajuru
+2020-06-02,12,F,Limoeiro do Ajuru
+2020-05-27,13,F,Limoeiro do Ajuru
+2020-05-09,14,F,Limoeiro do Ajuru
+2020-05-28,16,F,Limoeiro do Ajuru
+2020-05-17,19,F,Limoeiro do Ajuru
+2020-05-22,19,F,Limoeiro do Ajuru
+2020-06-05,19,F,Limoeiro do Ajuru
+2020-05-09,20,F,Limoeiro do Ajuru
+2020-06-02,23,F,Limoeiro do Ajuru
+2020-05-17,25,F,Limoeiro do Ajuru
+2020-05-09,29,F,Limoeiro do Ajuru
+2020-05-17,30,F,Limoeiro do Ajuru
+2020-06-17,31,F,Limoeiro do Ajuru
+2020-05-10,35,F,Limoeiro do Ajuru
+2020-06-01,36,F,Limoeiro do Ajuru
+2020-05-21,39,F,Limoeiro do Ajuru
+2020-05-10,40,F,Limoeiro do Ajuru
+2020-05-11,42,F,Limoeiro do Ajuru
+2020-06-23,42,F,Limoeiro do Ajuru
+2020-06-02,51,F,Limoeiro do Ajuru
+2020-06-10,51,F,Limoeiro do Ajuru
+2020-06-01,52,F,Limoeiro do Ajuru
+2020-05-20,53,F,Limoeiro do Ajuru
+2020-05-20,56,F,Limoeiro do Ajuru
+2020-05-05,61,F,Limoeiro do Ajuru
+2020-05-05,61,F,Limoeiro do Ajuru
+2020-05-13,65,F,Limoeiro do Ajuru
+2020-05-20,78,F,Limoeiro do Ajuru
+2020-05-10,79,F,Limoeiro do Ajuru
+2020-04-20,81,F,Limoeiro do Ajuru
+2020-06-03,82,F,Limoeiro do Ajuru
+2020-05-10,32,F,Magalhães Barata
+2020-06-20,50,F,Magalhães Barata
+2020-05-04,55,F,Magalhães Barata
+2020-06-14,9,F,Marabá
+2020-06-14,14,F,Marabá
+2020-06-09,19,F,Marabá
+2020-06-10,19,F,Marabá
+2020-05-30,20,F,Marabá
+2020-04-27,21,F,Marabá
+2020-04-16,22,F,Marabá
+2020-05-20,22,F,Marabá
+2020-05-25,22,F,Marabá
+2020-06-08,22,F,Marabá
+2020-06-01,23,F,Marabá
+2020-06-01,23,F,Marabá
+2020-06-05,23,F,Marabá
+2020-05-30,24,F,Marabá
+2020-05-30,24,F,Marabá
+2020-05-31,24,F,Marabá
+2020-06-07,24,F,Marabá
+2020-05-29,25,F,Marabá
+2020-05-30,25,F,Marabá
+2020-05-14,27,F,Marabá
+2020-05-19,27,F,Marabá
+2020-06-01,27,F,Marabá
+2020-06-15,27,F,Marabá
+2020-05-20,28,F,Marabá
+2020-05-28,28,F,Marabá
+2020-05-26,29,F,Marabá
+2020-06-01,30,F,Marabá
+2020-06-13,30,F,Marabá
+2020-06-13,31,F,Marabá
+2020-05-12,32,F,Marabá
+2020-05-30,32,F,Marabá
+2020-05-31,32,F,Marabá
+2020-06-05,32,F,Marabá
+2020-06-05,32,F,Marabá
+2020-06-08,32,F,Marabá
+2020-05-25,33,F,Marabá
+2020-06-16,33,F,Marabá
+2020-05-20,34,F,Marabá
+2020-06-05,34,F,Marabá
+2020-05-20,35,F,Marabá
+2020-05-28,35,F,Marabá
+2020-06-05,35,F,Marabá
+2020-06-09,35,F,Marabá
+2020-06-18,35,F,Marabá
+2020-06-14,36,F,Marabá
+2020-05-03,37,F,Marabá
+2020-05-26,37,F,Marabá
+2020-06-11,37,F,Marabá
+2020-05-30,39,F,Marabá
+2020-05-27,40,F,Marabá
+2020-05-16,41,F,Marabá
+2020-05-13,43,F,Marabá
+2020-06-09,43,F,Marabá
+2020-05-25,44,F,Marabá
+2020-05-29,44,F,Marabá
+2020-06-10,44,F,Marabá
+2020-06-20,45,F,Marabá
+2020-06-02,46,F,Marabá
+2020-06-08,46,F,Marabá
+2020-05-06,47,F,Marabá
+2020-05-27,49,F,Marabá
+2020-05-15,50,F,Marabá
+2020-05-30,53,F,Marabá
+2020-04-30,56,F,Marabá
+2020-06-09,57,F,Marabá
+2020-05-20,63,F,Marabá
+2020-05-20,66,F,Marabá
+2020-06-03,68,F,Marabá
+2020-06-12,77,F,Marabá
+2020-06-02,NA,F,Marabá
+2020-06-04,NA,F,Marabá
+2020-06-04,NA,F,Marabá
+2020-06-06,NA,F,Marabá
+2020-06-08,NA,F,Marabá
+2020-06-11,NA,F,Marabá
+2020-06-13,NA,F,Marabá
+2020-04-24,53,F,Maracanã
+2020-06-23,9,F,Marapanim
+2020-06-01,37,F,Marapanim
+2020-06-15,40,F,Marapanim
+2020-06-01,61,F,Marapanim
+2020-06-15,66,F,Marapanim
+2020-06-15,68,F,Marapanim
+2020-05-28,51,F,Marituba
+2020-05-07,60,F,Marituba
+2020-06-20,18,F,Medicilândia
+2020-06-21,18,F,Medicilândia
+2020-06-21,20,F,Medicilândia
+2020-06-13,25,F,Medicilândia
+2020-06-22,26,F,Medicilândia
+2020-06-20,27,F,Medicilândia
+2020-06-04,34,F,Medicilândia
+2020-06-20,37,F,Medicilândia
+2020-06-23,52,F,Medicilândia
+2020-06-20,55,F,Medicilândia
+2020-06-21,71,F,Medicilândia
+2020-06-15,61,F,Mocajuba
+2020-05-15,27,F,Moju
+2020-05-30,38,F,Moju
+2020-05-04,56,F,Moju
+2020-06-22,18,F,Mojuí dos Campos
+2020-06-17,29,F,Nova Esperança do Piriá
+2020-06-19,31,F,Nova Esperança do Piriá
+2020-06-20,0,F,Nova Ipixuna
+2020-06-19,27,F,Nova Ipixuna
+2020-06-22,38,F,Nova Ipixuna
+2020-06-19,39,F,Nova Ipixuna
+2020-06-19,40,F,Nova Ipixuna
+2020-06-17,25,F,Novo Progresso
+2020-06-12,34,F,Novo Progresso
+2020-06-17,36,F,Novo Progresso
+2020-06-18,40,F,Novo Progresso
+2020-05-29,NA,F,Novo Repartimento
+2020-05-30,NA,F,Novo Repartimento
+2020-06-05,NA,F,Novo Repartimento
+2020-06-08,NA,F,Novo Repartimento
+2020-06-18,0,F,Óbidos
+2020-06-18,5,F,Óbidos
+2020-06-16,13,F,Óbidos
+2020-06-16,15,F,Óbidos
+2020-06-07,25,F,Óbidos
+2020-06-18,27,F,Óbidos
+2020-06-18,32,F,Óbidos
+2020-06-17,36,F,Óbidos
+2020-06-17,37,F,Óbidos
+2020-06-13,47,F,Oriximiná
+2020-06-21,19,F,Ourilândia do Norte
+2020-06-23,19,F,Ourilândia do Norte
+2020-06-24,22,F,Ourilândia do Norte
+2020-06-23,25,F,Ourilândia do Norte
+2020-06-19,27,F,Ourilândia do Norte
+2020-06-18,32,F,Ourilândia do Norte
+2020-06-23,32,F,Ourilândia do Norte
+2020-06-20,33,F,Ourilândia do Norte
+2020-06-24,37,F,Ourilândia do Norte
+2020-06-23,41,F,Ourilândia do Norte
+2020-06-20,46,F,Ourilândia do Norte
+2020-06-20,47,F,Ourilândia do Norte
+2020-06-19,68,F,Ourilândia do Norte
+2020-06-15,0,F,Pacajá
+2020-06-20,16,F,Pacajá
+2020-06-15,29,F,Pacajá
+2020-06-15,31,F,Pacajá
+2020-06-19,31,F,Pacajá
+2020-06-02,44,F,Pacajá
+2020-06-10,47,F,Pacajá
+2020-06-19,49,F,Pacajá
+2020-05-27,30,F,Palestina do Pará
+2020-06-18,39,F,Palestina do Pará
+2020-06-18,2,F,Paragominas
+2020-06-20,25,F,Paragominas
+2020-05-18,42,F,Paragominas
+2020-06-17,42,F,Paragominas
+2020-06-08,53,F,Paragominas
+2020-06-15,73,F,Paragominas
+2020-06-12,92,F,Paragominas
+2020-06-23,0,F,Parauapebas
+2020-06-23,13,F,Parauapebas
+2020-06-23,13,F,Parauapebas
+2020-06-23,17,F,Parauapebas
+2020-06-22,18,F,Parauapebas
+2020-06-23,18,F,Parauapebas
+2020-06-23,19,F,Parauapebas
+2020-06-23,19,F,Parauapebas
+2020-06-23,20,F,Parauapebas
+2020-06-23,21,F,Parauapebas
+2020-06-23,22,F,Parauapebas
+2020-06-23,22,F,Parauapebas
+2020-06-23,22,F,Parauapebas
+2020-06-23,24,F,Parauapebas
+2020-06-22,27,F,Parauapebas
+2020-06-23,27,F,Parauapebas
+2020-06-13,29,F,Parauapebas
+2020-06-23,29,F,Parauapebas
+2020-06-23,30,F,Parauapebas
+2020-05-18,33,F,Parauapebas
+2020-06-22,33,F,Parauapebas
+2020-06-23,33,F,Parauapebas
+2020-05-05,34,F,Parauapebas
+2020-06-22,34,F,Parauapebas
+2020-06-23,37,F,Parauapebas
+2020-06-22,38,F,Parauapebas
+2020-06-22,38,F,Parauapebas
+2020-06-02,39,F,Parauapebas
+2020-06-23,41,F,Parauapebas
+2020-06-02,44,F,Parauapebas
+2020-05-17,46,F,Parauapebas
+2020-05-18,47,F,Parauapebas
+2020-06-22,49,F,Parauapebas
+2020-06-23,49,F,Parauapebas
+2020-06-21,51,F,Parauapebas
+2020-06-23,52,F,Parauapebas
+2020-06-18,54,F,Parauapebas
+2020-06-23,58,F,Parauapebas
+2020-06-23,60,F,Parauapebas
+2020-06-21,68,F,Parauapebas
+2020-06-01,NA,F,Parauapebas
+2020-06-07,NA,F,Parauapebas
+2020-06-08,NA,F,Parauapebas
+2020-06-11,52,F,Pau D'Arco
+2020-06-17,64,F,Pau D'Arco
+2020-06-11,35,F,Peixe-Boi
+2020-06-20,70,F,Peixe-Boi
+2020-06-17,25,F,Piçarra
+2020-06-20,36,F,Piçarra
+2020-06-09,63,F,Placas
+2020-05-01,13,F,Portel
+2020-05-20,17,F,Portel
+2020-06-21,25,F,Portel
+2020-06-03,28,F,Portel
+2020-05-28,35,F,Portel
+2020-05-27,36,F,Portel
+2020-06-22,37,F,Portel
+2020-06-06,38,F,Portel
+2020-06-15,42,F,Portel
+2020-03-23,49,F,Portel
+2020-06-20,50,F,Portel
+2020-05-12,51,F,Portel
+2020-05-29,58,F,Portel
+2020-06-19,61,F,Portel
+2020-06-21,63,F,Portel
+2020-05-15,72,F,Portel
+2020-06-20,90,F,Portel
+2020-06-17,37,F,Prainha
+2020-06-17,43,F,Prainha
+2020-06-18,51,F,Prainha
+2020-05-30,45,F,Primavera
+2020-06-20,0,F,Redenção
+2020-06-16,6,F,Redenção
+2020-06-20,14,F,Redenção
+2020-06-22,16,F,Redenção
+2020-06-22,17,F,Redenção
+2020-06-23,17,F,Redenção
+2020-06-17,18,F,Redenção
+2020-06-20,20,F,Redenção
+2020-06-20,20,F,Redenção
+2020-06-24,22,F,Redenção
+2020-06-20,23,F,Redenção
+2020-06-20,23,F,Redenção
+2020-06-22,23,F,Redenção
+2020-06-23,23,F,Redenção
+2020-06-23,24,F,Redenção
+2020-06-23,24,F,Redenção
+2020-06-22,25,F,Redenção
+2020-06-20,26,F,Redenção
+2020-06-18,28,F,Redenção
+2020-06-19,28,F,Redenção
+2020-06-11,29,F,Redenção
+2020-06-20,29,F,Redenção
+2020-06-20,29,F,Redenção
+2020-06-17,30,F,Redenção
+2020-06-17,30,F,Redenção
+2020-06-20,30,F,Redenção
+2020-06-20,30,F,Redenção
+2020-06-21,30,F,Redenção
+2020-06-20,33,F,Redenção
+2020-06-24,33,F,Redenção
+2020-06-21,34,F,Redenção
+2020-06-22,34,F,Redenção
+2020-06-23,34,F,Redenção
+2020-06-21,35,F,Redenção
+2020-06-10,36,F,Redenção
+2020-06-14,36,F,Redenção
+2020-06-16,36,F,Redenção
+2020-06-24,36,F,Redenção
+2020-06-20,38,F,Redenção
+2020-06-22,38,F,Redenção
+2020-06-23,39,F,Redenção
+2020-06-19,40,F,Redenção
+2020-06-19,40,F,Redenção
+2020-06-22,41,F,Redenção
+2020-06-22,41,F,Redenção
+2020-06-15,42,F,Redenção
+2020-06-20,42,F,Redenção
+2020-06-20,42,F,Redenção
+2020-06-24,42,F,Redenção
+2020-06-20,43,F,Redenção
+2020-06-19,45,F,Redenção
+2020-06-22,45,F,Redenção
+2020-06-14,48,F,Redenção
+2020-06-15,48,F,Redenção
+2020-06-19,49,F,Redenção
+2020-06-24,50,F,Redenção
+2020-06-18,51,F,Redenção
+2020-06-24,51,F,Redenção
+2020-06-20,52,F,Redenção
+2020-06-08,53,F,Redenção
+2020-06-19,56,F,Redenção
+2020-06-24,57,F,Redenção
+2020-06-15,59,F,Redenção
+2020-06-24,64,F,Redenção
+2020-06-23,72,F,Redenção
+2020-06-10,73,F,Redenção
+2020-06-23,73,F,Redenção
+2020-06-10,75,F,Redenção
+2020-06-24,76,F,Redenção
+2020-06-15,77,F,Redenção
+2020-06-24,77,F,Redenção
+2020-06-22,NA,F,Redenção
+2020-06-17,31,F,Rio Maria
+2020-06-19,31,F,Rio Maria
+2020-06-05,33,F,Rio Maria
+2020-06-18,49,F,Rio Maria
+2020-06-04,57,F,Rio Maria
+2020-06-21,59,F,Rio Maria
+2020-06-18,67,F,Rio Maria
+2020-06-20,82,F,Rio Maria
+2020-06-17,39,F,Rondon do Pará
+2020-06-06,57,F,Rondon do Pará
+2020-06-05,0,F,Rurópolis
+2020-06-14,12,F,Rurópolis
+2020-06-14,16,F,Rurópolis
+2020-06-18,19,F,Rurópolis
+2020-06-15,28,F,Rurópolis
+2020-06-15,33,F,Rurópolis
+2020-06-14,36,F,Rurópolis
+2020-06-17,67,F,Rurópolis
+2020-05-13,36,F,Salinópolis
+2020-05-09,39,F,Salinópolis
+2020-05-31,42,F,Salinópolis
+2020-05-31,52,F,Salinópolis
+2020-05-02,63,F,Salinópolis
+2020-06-19,23,F,Salvaterra
+2020-06-20,23,F,Salvaterra
+2020-06-20,25,F,Salvaterra
+2020-06-18,29,F,Salvaterra
+2020-06-11,39,F,Salvaterra
+2020-06-10,46,F,Salvaterra
+2020-06-21,53,F,Salvaterra
+2020-06-18,18,F,Santa Bárbara do Pará
+2020-05-01,66,F,Santa Bárbara do Pará
+2020-06-22,80,F,Santa Bárbara do Pará
+2020-06-21,47,F,Santa Cruz do Arari
+2020-04-09,43,F,Santa Izabel do Pará
+2020-06-13,45,F,Santa Izabel do Pará
+2020-05-09,56,F,Santa Izabel do Pará
+2020-06-18,69,F,Santa Izabel do Pará
+2020-06-10,71,F,Santa Luzia do Pará
+2020-06-19,30,F,Santa Maria do Pará
+2020-05-23,3,F,Santarém
+2020-05-20,6,F,Santarém
+2020-06-12,19,F,Santarém
+2020-06-23,22,F,Santarém
+2020-06-12,25,F,Santarém
+2020-06-23,27,F,Santarém
+2020-06-23,30,F,Santarém
+2020-06-13,31,F,Santarém
+2020-06-08,33,F,Santarém
+2020-06-22,35,F,Santarém
+2020-06-22,37,F,Santarém
+2020-06-08,38,F,Santarém
+2020-06-15,39,F,Santarém
+2020-06-09,45,F,Santarém
+2020-06-15,48,F,Santarém
+2020-06-18,52,F,Santarém
+2020-06-23,55,F,Santarém
+2020-06-23,58,F,Santarém
+2020-06-15,64,F,Santarém
+2020-06-23,90,F,Santarém
+2020-06-08,NA,F,Santarém
+2020-06-09,NA,F,Santarém
+2020-06-19,NA,F,Santarém
+2020-06-06,40,F,Santarém Novo
+2020-06-07,40,F,Santarém Novo
+2020-06-10,54,F,Santarém Novo
+2020-06-10,59,F,Santarém Novo
+2020-04-30,10,F,São Caetano de Odivelas
+2020-06-23,15,F,São Caetano de Odivelas
+2020-05-20,30,F,São Caetano de Odivelas
+2020-04-24,52,F,São Caetano de Odivelas
+2020-04-15,55,F,São Caetano de Odivelas
+2020-06-03,2,F,São Domingos do Araguaia
+2020-06-06,6,F,São Domingos do Araguaia
+2020-06-14,6,F,São Domingos do Araguaia
+2020-06-05,8,F,São Domingos do Araguaia
+2020-06-03,10,F,São Domingos do Araguaia
+2020-05-25,18,F,São Domingos do Araguaia
+2020-06-03,19,F,São Domingos do Araguaia
+2020-06-01,21,F,São Domingos do Araguaia
+2020-06-01,22,F,São Domingos do Araguaia
+2020-06-01,23,F,São Domingos do Araguaia
+2020-06-01,26,F,São Domingos do Araguaia
+2020-06-04,26,F,São Domingos do Araguaia
+2020-06-03,32,F,São Domingos do Araguaia
+2020-06-04,33,F,São Domingos do Araguaia
+2020-06-15,33,F,São Domingos do Araguaia
+2020-06-17,37,F,São Domingos do Araguaia
+2020-06-20,45,F,São Domingos do Araguaia
+2020-06-04,48,F,São Domingos do Araguaia
+2020-06-02,70,F,São Domingos do Araguaia
+2020-06-15,70,F,São Domingos do Capim
+2020-06-14,0,F,São Félix do Xingu
+2020-06-10,3,F,São Félix do Xingu
+2020-06-08,8,F,São Félix do Xingu
+2020-06-15,12,F,São Félix do Xingu
+2020-06-07,13,F,São Félix do Xingu
+2020-06-07,21,F,São Félix do Xingu
+2020-06-07,24,F,São Félix do Xingu
+2020-06-09,25,F,São Félix do Xingu
+2020-06-09,26,F,São Félix do Xingu
+2020-06-08,28,F,São Félix do Xingu
+2020-06-08,29,F,São Félix do Xingu
+2020-06-04,30,F,São Félix do Xingu
+2020-06-13,35,F,São Félix do Xingu
+2020-06-14,35,F,São Félix do Xingu
+2020-06-09,37,F,São Félix do Xingu
+2020-06-09,37,F,São Félix do Xingu
+2020-06-12,39,F,São Félix do Xingu
+2020-06-08,40,F,São Félix do Xingu
+2020-05-25,48,F,São Félix do Xingu
+2020-06-08,60,F,São Félix do Xingu
+2020-06-07,67,F,São Félix do Xingu
+2020-06-07,72,F,São Félix do Xingu
+2020-06-06,84,F,São Félix do Xingu
+2020-06-03,7,F,São Geraldo do Araguaia
+2020-06-03,9,F,São Geraldo do Araguaia
+2020-06-02,18,F,São Geraldo do Araguaia
+2020-06-04,30,F,São Geraldo do Araguaia
+2020-06-02,46,F,São Geraldo do Araguaia
+2020-06-03,49,F,São Geraldo do Araguaia
+2020-06-01,56,F,São Geraldo do Araguaia
+2020-06-01,NA,F,São Geraldo do Araguaia
+2020-04-17,15,F,São Miguel do Guamá
+2020-06-22,22,F,São Miguel do Guamá
+2020-06-22,31,F,São Miguel do Guamá
+2020-06-20,36,F,São Miguel do Guamá
+2020-04-14,42,F,São Miguel do Guamá
+2020-05-27,45,F,São Miguel do Guamá
+2020-05-10,55,F,São Miguel do Guamá
+2020-06-02,55,F,São Miguel do Guamá
+2020-05-05,61,F,São Miguel do Guamá
+2020-06-20,17,F,São Sebastião da Boa Vista
+2020-04-29,25,F,São Sebastião da Boa Vista
+2020-06-05,30,F,São Sebastião da Boa Vista
+2020-06-22,33,F,São Sebastião da Boa Vista
+2020-06-10,40,F,São Sebastião da Boa Vista
+2020-06-15,52,F,Senador José Porfírio
+2020-06-16,53,F,Senador José Porfírio
+2020-06-06,0,F,Soure
+2020-06-10,0,F,Soure
+2020-06-18,19,F,Soure
+2020-06-10,27,F,Soure
+2020-06-19,29,F,Soure
+2020-06-18,35,F,Soure
+2020-06-08,37,F,Soure
+2020-06-17,37,F,Soure
+2020-05-18,38,F,Soure
+2020-06-15,38,F,Soure
+2020-06-19,38,F,Soure
+2020-06-17,41,F,Soure
+2020-06-15,43,F,Soure
+2020-04-25,46,F,Soure
+2020-06-17,47,F,Soure
+2020-06-09,57,F,Soure
+2020-06-10,62,F,Soure
+2020-05-25,20,F,Tailândia
+2020-05-25,29,F,Terra Alta
+2020-06-03,52,F,Terra Alta
+2020-05-05,61,F,Terra Alta
+2020-05-25,65,F,Terra Alta
+2020-06-05,68,F,Terra Alta
+2020-06-15,16,F,Tomé-Açu
+2020-06-24,23,F,Tomé-Açu
+2020-05-03,29,F,Tomé-Açu
+2020-05-30,29,F,Tomé-Açu
+2020-05-30,30,F,Tomé-Açu
+2020-05-25,31,F,Tomé-Açu
+2020-06-01,40,F,Tomé-Açu
+2020-04-30,41,F,Tomé-Açu
+2020-06-01,48,F,Tomé-Açu
+2020-05-25,51,F,Tomé-Açu
+2020-05-01,55,F,Tomé-Açu
+2020-05-15,55,F,Tomé-Açu
+2020-05-20,56,F,Tomé-Açu
+2020-05-10,25,F,Tracuateua
+2020-05-21,30,F,Tracuateua
+2020-05-21,35,F,Tracuateua
+2020-06-17,0,F,Tucuruí
+2020-06-17,8,F,Tucuruí
+2020-06-17,21,F,Tucuruí
+2020-06-12,27,F,Tucuruí
+2020-06-12,32,F,Tucuruí
+2020-06-08,49,F,Tucuruí
+2020-05-05,51,F,Tucuruí
+2020-06-11,76,F,Tucuruí
+2020-06-10,NA,F,Tucuruí
+2020-06-16,NA,F,Tucuruí
+2020-06-20,13,F,Ulianópolis
+2020-06-18,17,F,Ulianópolis
+2020-06-16,26,F,Ulianópolis
+2020-06-12,31,F,Ulianópolis
+2020-06-17,35,F,Ulianópolis
+2020-06-17,37,F,Ulianópolis
+2020-06-16,38,F,Ulianópolis
+2020-06-15,44,F,Ulianópolis
+2020-06-08,47,F,Ulianópolis
+2020-06-13,53,F,Ulianópolis
+2020-06-18,53,F,Ulianópolis
+2020-06-16,55,F,Ulianópolis
+2020-06-18,19,F,Uruará
+2020-06-19,20,F,Uruará
+2020-06-20,21,F,Uruará
+2020-06-12,28,F,Uruará
+2020-06-18,32,F,Uruará
+2020-06-17,33,F,Uruará
+2020-06-18,37,F,Uruará
+2020-06-18,44,F,Uruará
+2020-06-14,60,F,Uruará
+2020-06-09,73,F,Uruará
+2020-06-04,20,F,Vigia
+2020-04-26,24,F,Vigia
+2020-06-18,27,F,Vigia
+2020-05-15,29,F,Vigia
+2020-04-20,31,F,Vigia
+2020-05-20,36,F,Vigia
+2020-05-29,36,F,Vigia
+2020-06-10,38,F,Vigia
+2020-06-18,38,F,Vigia
+2020-05-02,40,F,Vigia
+2020-05-27,40,F,Vigia
+2020-06-09,41,F,Vigia
+2020-06-10,41,F,Vigia
+2020-06-15,41,F,Vigia
+2020-04-16,42,F,Vigia
+2020-06-18,44,F,Vigia
+2020-06-11,45,F,Vigia
+2020-06-09,46,F,Vigia
+2020-06-06,47,F,Vigia
+2020-06-10,47,F,Vigia
+2020-03-29,49,F,Vigia
+2020-06-09,51,F,Vigia
+2020-05-08,53,F,Vigia
+2020-05-07,56,F,Vigia
+2020-06-18,56,F,Vigia
+2020-05-01,60,F,Vigia
+2020-06-10,64,F,Vigia
+2020-04-15,71,F,Vigia
+2020-05-15,74,F,Vigia
+2020-06-01,80,F,Vigia
+2020-06-17,21,F,Viseu
+2020-05-20,23,F,Viseu
+2020-06-05,23,F,Viseu
+2020-05-23,24,F,Viseu
+2020-06-02,25,F,Viseu
+2020-05-27,30,F,Viseu
+2020-04-20,33,F,Viseu
+2020-05-25,33,F,Viseu
+2020-06-05,33,F,Viseu
+2020-05-15,34,F,Viseu
+2020-05-18,35,F,Viseu
+2020-05-18,37,F,Viseu
+2020-06-10,37,F,Viseu
+2020-05-10,47,F,Viseu
+2020-05-29,48,F,Viseu
+2020-06-08,50,F,Viseu
+2020-05-28,57,F,Viseu
+2020-05-24,60,F,Viseu
+2020-05-15,75,F,Viseu
+2020-06-09,86,F,Viseu
+2020-06-12,11,F,Vitória do Xingu
+2020-06-04,14,F,Vitória do Xingu
+2020-06-03,27,F,Vitória do Xingu
+2020-06-12,38,F,Vitória do Xingu
+2020-06-20,41,F,Vitória do Xingu
+2020-05-20,50,F,Vitória do Xingu
+2020-06-01,0,F,Xinguara
+2020-06-15,0,F,Xinguara
+2020-06-02,11,F,Xinguara
+2020-05-26,19,F,Xinguara
+2020-06-05,19,F,Xinguara
+2020-06-08,20,F,Xinguara
+2020-06-12,21,F,Xinguara
+2020-06-08,25,F,Xinguara
+2020-06-13,25,F,Xinguara
+2020-06-21,26,F,Xinguara
+2020-06-13,28,F,Xinguara
+2020-06-01,30,F,Xinguara
+2020-06-08,36,F,Xinguara
+2020-06-07,43,F,Xinguara
+2020-06-07,43,F,Xinguara
+2020-06-15,83,F,Xinguara
